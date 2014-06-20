@@ -57,9 +57,9 @@ a new area remember to create all levels, like `france/iledefrance/paris`.
 
 Remember to check the tests already done to get inspiration.
 
-You generally want to use YAML format if you are managing tests by hand, CSV if
-you are generating test cases from a script, and python test cases if you need
-more control.
+You generally want to use YAML format if you are managing tests by hand in your
+text editor, CSV if you are generating test cases from a script, and python test
+cases if you need more control.
 
 ### Python
 
