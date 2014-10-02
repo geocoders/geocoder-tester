@@ -7,7 +7,7 @@ BERLIN = [52.519854, 13.438596]
 MUNICH = [43.731245, 7.419744]
 AUCKLAND = [-36.853467, 174.765551]
 CONFIG = {
-    'PHOTON_URL': "http://localhost:5001/api/"
+    'API_URL': "http://localhost:5001/api/"
 }
 
 
@@ -53,7 +53,7 @@ class SearchException(Exception):
 
 
 def search(**params):
-    r = requests.get(CONFIG['PHOTON_URL'], params=params)
+    r = requests.get(CONFIG['API_URL'], params=params)
     if not r.status_code == 200:
         raise HttpSearchException(error="Non 200 response")
     return r.json()

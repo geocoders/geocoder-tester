@@ -38,9 +38,9 @@ How can I stop at first failing test?
 
     py.test -x
 
-Can I change the photon URL I'm testing against?
+Can I change the api URL I'm testing against?
 
-    py.test --photon-url http://photon.komoot.de/api/
+    py.test --api-url http://photon.komoot.de/api/
 
 ## Adding search cases
 

@@ -27,15 +27,15 @@ def pytest_itemcollected(item):
 
 def pytest_addoption(parser):
     parser.addoption(
-        '--photon-url',
-        dest="photon_url",
-        default=CONFIG['PHOTON_URL'],
-        help="The URL to use for running Photon tests."
+        '--api-url',
+        dest="api_url",
+        default=CONFIG['API_URL'],
+        help="The URL to use for running tests against."
     )
 
 
 def pytest_configure(config):
-    CONFIG['PHOTON_URL'] = config.getoption('--photon-url')
+    CONFIG['API_URL'] = config.getoption('--api-url')
 
 
 class CSVFile(pytest.File):
