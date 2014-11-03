@@ -24,12 +24,13 @@ class HttpSearchException(Exception):
 class SearchException(Exception):
     """ custom exception for error reporting. """
 
-    def __init__(self, params, expected, results):
+    def __init__(self, params, expected, results, message=None):
         super().__init__()
         self.results = results
         self.query = params.pop('q')
         self.params = params
         self.expected = expected
+        self.message = message
 
     def __str__(self):
         lines = [
@@ -43,13 +44,28 @@ class SearchException(Exception):
         expected = '# Expected was: '
         expected += " | ".join("{}: {}".format(k, v) for k, v in self.expected.items())
         lines.append(expected)
+        if self.message:
+            lines.append('# Message: {}'.format(self.message))
         lines.append('# Results were:')
-        keys = ['name', 'osm_key', 'osm_value', 'osm_id', 'housenumber',
-                'street', 'postcode', 'city', 'country']
-        results = [f['properties'] for f in self.results['features']]
+        keys = [
+            'name', 'osm_key', 'osm_value', 'osm_id', 'housenumber', 'street',
+            'postcode', 'city', 'country', 'lat', 'lon', 'distance'
+        ]
+        results = [self.flat_result(f) for f in self.results['features']]
         lines.extend(dicts_to_table(results, keys=keys))
         lines.append('')
         return "\n".join(lines)
+
+    def flat_result(self, result):
+        out = result['properties']
+        out['lat'] = result['geometry']['coordinates'][1]
+        out['lon'] = result['geometry']['coordinates'][0]
+        out['distance'] = '—'
+        if 'coordinate' in self.expected:
+            lat, lon, max_deviation = map(float, self.expected['coordinate'].split(','))
+            dist = distance(Point(lat, lon), Point(out['lat'], out['lon']))
+            out['distance'] = int(dist.meters)
+        return out
 
 
 def search(**params):
@@ -77,7 +93,7 @@ def assert_search(query, expected, limit=1,
                 if not str(r['properties'].get(key)) == str(value):
                     # Value is not like expected. But in the case of
                     # coordinate we need to handle the tolerance.
-                    if key == "coordinate":
+                    if key == 'coordinate':
                         coord = r['geometry']['coordinates']
                         lat, lon, max_deviation = map(float, value.split(","))
                         deviation = distance(
@@ -93,7 +109,7 @@ def assert_search(query, expected, limit=1,
             raise SearchException(
                 params=params,
                 expected=expected,
-                results=results,
+                results=results
             )
 
     if not isinstance(expected, list):
