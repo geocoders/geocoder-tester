@@ -1,4 +1,4 @@
-from ....base import search, assert_search
+from osm_geocoding_tester.base import search, assert_search
 
 
 def test_housenumbers_are_missing():
