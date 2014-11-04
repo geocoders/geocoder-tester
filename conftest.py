@@ -32,10 +32,30 @@ def pytest_addoption(parser):
         default=CONFIG['API_URL'],
         help="The URL to use for running tests against."
     )
+    parser.addoption(
+        '--max-run',
+        dest="max_run",
+        type=int,
+        default=CONFIG['MAX_RUN'],
+        help="Limit the number of tests to be run."
+    )
 
 
 def pytest_configure(config):
     CONFIG['API_URL'] = config.getoption('--api-url')
+    CONFIG['MAX_RUN'] = config.getoption('--max-run')
+
+
+REPORTS = 0
+
+
+def pytest_runtest_logreport(report):
+    if report.when == 'teardown' and not report.skipped:
+        global REPORTS
+        REPORTS += 1
+        if CONFIG['MAX_RUN'] and REPORTS >= CONFIG['MAX_RUN']:
+            raise KeyboardInterrupt(
+                'Limit of {} reached'.format(CONFIG['MAX_RUN']))
 
 
 class CSVFile(pytest.File):

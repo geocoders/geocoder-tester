@@ -42,6 +42,11 @@ Can I change the api URL I'm testing against?
 
     py.test --api-url http://photon.komoot.de/api/
 
+Can I limit the number of tests to be run (even if my filter select thousands
+of tests) ?
+
+    py.test --max-run 100
+
 ## Adding search cases
 
 We support python, CSV and YAML format.
