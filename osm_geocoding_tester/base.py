@@ -101,7 +101,7 @@ def assert_search(query, expected, limit=1,
                             Point(lat, lon),
                             Point(coord[1], coord[0])
                         )
-                        if deviation.meters < max_deviation:
+                        if deviation.meters <= max_deviation:
                             continue  # Continue to other properties
                     found = False
             if found:
