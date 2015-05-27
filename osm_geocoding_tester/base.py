@@ -1,6 +1,9 @@
+import re
+
 import requests
 from geopy import Point
 from geopy.distance import distance
+from unidecode import unidecode
 
 POTSDAM = [52.3879, 13.0582]
 BERLIN = [52.519854, 13.438596]
@@ -8,6 +11,7 @@ MUNICH = [43.731245, 7.419744]
 AUCKLAND = [-36.853467, 174.765551]
 CONFIG = {
     'API_URL': "http://localhost:5001/api/",
+    'LOOSE_COMPARE': False,
     'MAX_RUN': 0  # means no limit
 }
 
@@ -76,6 +80,17 @@ def search(**params):
     return r.json()
 
 
+def normalize(s):
+    return normalize_pattern.sub(' ', unidecode(s.lower()))
+normalize_pattern = re.compile('[^\w]')
+
+
+def compare_values(get, expected):
+    if CONFIG['LOOSE_COMPARE']:
+        return normalize(get) == normalize(expected)
+    return get == expected
+
+
 def assert_search(query, expected, limit=1,
                   comment=None, lang=None, center=None):
     params = {"q": query, "limit": limit}
@@ -91,9 +106,10 @@ def assert_search(query, expected, limit=1,
         for r in results['features']:
             found = True
             for key, value in expected.items():
-                if not str(r['properties'].get(key)) == str(value):
+                value = str(value)
+                if not compare_values(str(r['properties'].get(key)), value):
                     # Value is not like expected. But in the case of
-                    # coordinate we need to handle the tolerance.
+                    # coordinate we need to handle the tolerance.
                     if key == 'coordinate':
                         coord = r['geometry']['coordinates']
                         lat, lon, max_deviation = map(float, value.split(","))

@@ -39,11 +39,18 @@ def pytest_addoption(parser):
         default=CONFIG['MAX_RUN'],
         help="Limit the number of tests to be run."
     )
+    parser.addoption(
+        '--loose-compare',
+        dest="loose_compare",
+        action="store_true",
+        help="Loose compare the results strings."
+    )
 
 
 def pytest_configure(config):
     CONFIG['API_URL'] = config.getoption('--api-url')
     CONFIG['MAX_RUN'] = config.getoption('--max-run')
+    CONFIG['LOOSE_COMPARE'] = config.getoption('--loose-compare')
 
 
 REPORTS = 0
