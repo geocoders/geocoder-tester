@@ -1,8 +1,6 @@
-# OpenStreetMap Geocoding tester
+# Geocoder tester
 
-Run search queries against an OSM based geocoder.
-
-Supported adapters for now: Photon.
+Run search queries against a geocoder that supports [geocodejson spec](https://github.com/geocoders/geocodejson-spec).
 
 ## Intalling
 

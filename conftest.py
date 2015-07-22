@@ -3,7 +3,7 @@ import yaml
 
 import pytest
 
-from osm_geocoding_tester.base import assert_search, CONFIG
+from geocoder_tester.base import assert_search, CONFIG
 
 
 def pytest_collect_file(parent, path):
