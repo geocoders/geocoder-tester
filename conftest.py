@@ -45,12 +45,17 @@ def pytest_addoption(parser):
         action="store_true",
         help="Loose compare the results strings."
     )
+    parser.addoption(
+        '--geojson', action="store_true", dest="geojson",
+        help=("Display geojson in traceback of failing tests.")
+    )
 
 
 def pytest_configure(config):
     CONFIG['API_URL'] = config.getoption('--api-url')
     CONFIG['MAX_RUN'] = config.getoption('--max-run')
     CONFIG['LOOSE_COMPARE'] = config.getoption('--loose-compare')
+    CONFIG['GEOJSON'] = config.getoption('--geojson')
 
 
 REPORTS = 0

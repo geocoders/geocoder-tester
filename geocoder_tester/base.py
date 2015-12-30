@@ -1,3 +1,4 @@
+import json
 import re
 
 import requests
@@ -12,7 +13,8 @@ AUCKLAND = [-36.853467, 174.765551]
 CONFIG = {
     'API_URL': "http://localhost:5001/api/",
     'LOOSE_COMPARE': False,
-    'MAX_RUN': 0  # means no limit
+    'MAX_RUN': 0,  # means no limit
+    'GEOJSON': False
 }
 
 
@@ -59,7 +61,26 @@ class SearchException(Exception):
         results = [self.flat_result(f) for f in self.results['features']]
         lines.extend(dicts_to_table(results, keys=keys))
         lines.append('')
+        if CONFIG['GEOJSON'] and 'coordinate' in self.expected:
+            lines.append('# Geojson:')
+            lines.append(self.to_geojson())
+            lines.append('')
         return "\n".join(lines)
+
+    def to_geojson(self):
+        if not 'coordinate' in self.expected:
+            return ''
+        coordinates = self.expected['coordinate'].split(',')[:2]
+        coordinates.reverse()
+        coordinates = list(map(float, coordinates))
+        properties = self.expected.copy()
+        properties.update({'expected': True})
+        self.results['features'].append({
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": coordinates},
+            "properties": properties,
+        })
+        return json.dumps(self.results)
 
     def flat_result(self, result):
         out = result['properties']
