@@ -45,6 +45,16 @@ of tests) ?
 
     py.test --max-run 100
 
+You can compare two runs (for example to compare two branches). First, save the
+report from the first run:
+
+    py.test --save-report path/to/report.log
+
+Then compare when running a new version
+
+    py.test --compare-report path/to/report.log
+
+
 ## Adding search cases
 
 We support python, CSV and YAML format.

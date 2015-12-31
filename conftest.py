@@ -49,6 +49,16 @@ def pytest_addoption(parser):
         '--geojson', action="store_true", dest="geojson",
         help=("Display geojson in traceback of failing tests.")
     )
+    parser.addoption(
+        '--save-report',
+        dest="save_report",
+        help="Path where to save the report."
+    )
+    parser.addoption(
+        '--compare-report',
+        dest="compare_report",
+        help="Path where to load the report to compare with."
+    )
 
 
 def pytest_configure(config):
@@ -56,12 +66,35 @@ def pytest_configure(config):
     CONFIG['MAX_RUN'] = config.getoption('--max-run')
     CONFIG['LOOSE_COMPARE'] = config.getoption('--loose-compare')
     CONFIG['GEOJSON'] = config.getoption('--geojson')
+    if config.getoption('--compare-report'):
+        with open(config.getoption('--compare-report')) as f:
+            CONFIG['COMPARE_WITH'] = []
+            for line in f:
+                CONFIG['COMPARE_WITH'].append(line.strip())
+
+
+def pytest_unconfigure(config):
+    if config.getoption('--save-report'):
+        with open(config.getoption('--save-report'), mode='w',
+                  encoding='utf-8') as f:
+            f.write('\n'.join(CONFIG['FAILED']))
+    if config.getoption('--compare-report'):
+        print('# NEW FAILURES')
+        for failed in CONFIG['FAILED']:
+            if failed not in CONFIG['COMPARE_WITH']:
+                print(failed)
+        print('# NEW PASSING')
+        for failed in CONFIG['COMPARE_WITH']:
+            if failed not in CONFIG['FAILED']:
+                print(failed)
 
 
 REPORTS = 0
 
 
 def pytest_runtest_logreport(report):
+    if report.failed:
+        CONFIG['FAILED'].append(report.nodeid)
     if report.when == 'teardown' and not report.skipped:
         global REPORTS
         REPORTS += 1

@@ -14,7 +14,8 @@ CONFIG = {
     'API_URL': "http://localhost:5001/api/",
     'LOOSE_COMPARE': False,
     'MAX_RUN': 0,  # means no limit
-    'GEOJSON': False
+    'GEOJSON': False,
+    'FAILED': [],
 }
 
 
