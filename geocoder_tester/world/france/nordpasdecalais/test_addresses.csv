@@ -15,12 +15,12 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 8 Rue Kléber Anzin,,,,8 Rue Kléber,,,,59410
 8 Rue Kléber 59410,,,,8 Rue Kléber,,,Anzin,
 8 Rue Kléber,3.500907,50.374232,,8 Rue Kléber,,,,59410
-3 Cours Carniaux Armentières,,,,3 Cour Carniaux,,,,59280
-3 Cours Carniaux 59280,,,,3 Cour Carniaux,,,Armentières,
-3 Cours Carniaux,2.879964,50.688477,,3 Cour Carniaux,,,,59280
-64BIS Rue de Metz Armentières,,,,64BIS Rue de Metz,,,,59280
-64BIS Rue de Metz 59280,,,,64BIS Rue de Metz,,,Armentières,
-64BIS Rue de Metz,2.889957,50.687328,,64BIS Rue de Metz,,,,59280
+3 Cours Carniaux Armentières,,,,3 Cour Carniaud,,,,59280
+3 Cours Carniaux 59280,,,,3 Cour Carniaud,,,Armentières,
+3 Cours Carniaux,2.879964,50.688477,,3 Cour Carniaud,,,,59280
+64BIS Rue de Metz Armentières,,,,64 B Rue de Metz,,,,59280
+64BIS Rue de Metz 59280,,,,64 B Rue de Metz,,,Armentières,
+64 B Rue de Metz,2.889957,50.687328,,64 B Rue de Metz,,,,59280
 16 Place des Eglantines Attiches,,,,16 Place des Eglantines,,,,59551
 16 Place des Eglantines 59551,,,,16 Place des Eglantines,,,Attiches,
 16 Place des Eglantines,3.065758,50.524763,,16 Place des Eglantines,,,,59551
