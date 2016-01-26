@@ -227,9 +227,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 58 Rue Georges Boidin Lambersart,,,,58 Rue Georges Boidin,,,,59130
 58 Rue Georges Boidin 59130,,,,58 Rue Georges Boidin,,,Lambersart,
 58 Rue Georges Boidin,3.025622,50.641394,,58 Rue Georges Boidin,,,,59130
-1T Rue de Verlinghem Lambersart,,,,1T Rue de Verlinghem,,,,59130
-1T Rue de Verlinghem 59130,,,,1T Rue de Verlinghem,,,Lambersart,
-1T Rue de Verlinghem,3.024410,50.653979,,1T Rue de Verlinghem,,,,59130
+1T Rue de Verlinghem Lambersart,,,,1 ter Rue de Verlinghem,,,,59130
+1T Rue de Verlinghem 59130,,,,1 ter Rue de Verlinghem,,,Lambersart,
+1T Rue de Verlinghem,3.024410,50.653979,,1 ter Rue de Verlinghem,,,,59130
 4 Rue de Tournai Lannoy,,,,4 Rue de Tournai,,,,59390
 4 Rue de Tournai 59390,,,,4 Rue de Tournai,,,Lannoy,
 4 Rue de Tournai,3.211316,50.666924,2,4 Rue de Tournai,,,,59390
@@ -707,9 +707,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 5 Rue Denfert Rochereau Liévin,,,,5 Rue Denfert Rochereau,,,,62800
 5 Rue Denfert Rochereau 62800,,,,5 Rue Denfert Rochereau,,,Liévin,
 5 Rue Denfert Rochereau,2.773937,50.414615,,5 Rue Denfert Rochereau,,,,62800
-4 Rue Mozart Liévin,,,,4 Rue Mozart,,,,62800
-4 Rue Mozart 62800,,,,4 Rue Mozart,,,Liévin,
-4 Rue Mozart,2.764032,50.420897,,4 Rue Mozart,,,,62800
+4 Rue Mozart Liévin,,,,4 Rue Wolfgang Mozart,,,,62800
+4 Rue Mozart 62800,,,,4 Rue Wolfgang Mozart,,,Liévin,
+4 Rue Mozart,2.764032,50.420897,,4 Rue Wolfgang Mozart,,,,62800
 135 Rue de la Haye Lillers,,,,135 Rue de la Haye,,,,62190
 135 Rue de la Haye 62190,,,,135 Rue de la Haye,,,Lillers,
 135 Rue de la Haye,2.458961,50.564003,,135 Rue de la Haye,,,,62190
