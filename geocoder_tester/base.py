@@ -84,9 +84,18 @@ class SearchException(Exception):
         return json.dumps(self.results)
 
     def flat_result(self, result):
-        out = result['properties']
-        out['lat'] = result['geometry']['coordinates'][1]
-        out['lon'] = result['geometry']['coordinates'][0]
+        out = None
+        if 'geocoding' in result['properties']:
+            out = result['properties']['geocoding']
+        else:
+            out = result['properties']
+        if 'geometry' in result:
+            out['lat'] = result['geometry']['coordinates'][1]
+            out['lon'] = result['geometry']['coordinates'][0]
+        else:
+            out['lat'] = None
+            out['lon'] = None
+
         out['distance'] = '—'
         if 'coordinate' in self.expected:
             lat, lon, max_deviation = map(float, self.expected['coordinate'].split(','))
@@ -127,9 +136,14 @@ def assert_search(query, expected, limit=1,
         found = False
         for r in results['features']:
             found = True
+            properties = None
+            if 'geocoding' in r['properties']:
+                properties = r['properties']['geocoding']
+            else:
+                properties = r['properties']
             for key, value in expected.items():
                 value = str(value)
-                if not compare_values(str(r['properties'].get(key)), value):
+                if not compare_values(str(properties.get(key)), value):
                     # Value is not like expected. But in the case of
                     # coordinate we need to handle the tolerance.
                     if key == 'coordinate':
