@@ -827,3 +827,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 1596 Rue de la Montoire Zutkerque,,,,1596 Rue de la Montoire,,,,62370
 1596 Rue de la Montoire 62370,,,,1596 Rue de la Montoire,,,Zutkerque,
 1596 Rue de la Montoire,2.028339,50.851355,,1596 Rue de la Montoire,,,,62370
+augustines arras,,,2,Petit Chemin des Augustines,,,Arras,
+augustines arras,,,,Rue des Augustines,,,Arras,
+rue jean jaures Helemmes,,,,Rue Jean Jaurès,,,,59491
+rue charles saint venant lomme,,,,Rue Charles Saint-Venant,,,Lille,59160
