@@ -494,3 +494,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 16 Rue Georges Chardon Villorceau,,,,16 Rue Georges Chardon,,,,45190
 16 Rue Georges Chardon 45190,,,,16 Rue Georges Chardon,,,Villorceau,
 16 Rue Georges Chardon,1.595689,47.799576,,16 Rue Georges Chardon,,,,45190
+rue de saint denis saint denis en val,,,,Rue de Saint-Denis,,,Saint-Denis-en-Val,
+rue de saint denis en val,,,,Rue de Saint-Denis,,,Saint-Denis-en-Val,
+rue du val saint denis en Val,,,,Rue du Val,,,Saint-Denis-en-Val,
+rue du val saint denis,1.9422,47.9311,,Rue du Val,,,Saint-Denis-en-Val,
