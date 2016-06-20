@@ -95,9 +95,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 25 Promenade des Golfeurs Bussy-Saint-Georges,,,,25 Promenade des Golfeurs,,,,77600
 25 Promenade des Golfeurs 77600,,,,25 Promenade des Golfeurs,,,Bussy-Saint-Georges,
 25 Promenade des Golfeurs,2.709096,48.848578,,25 Promenade des Golfeurs,,,,77600
-58 Rue des Epis d'Or Cerneux,,,,58 Rue des Epis d'Or,,,,77320
-58 Rue des Epis d'Or 77320,,,,58 Rue des Epis d'Or,,,Cerneux,
-58 Rue des Epis d'Or,3.351117,48.698393,,58 Rue des Epis d'Or,,,,77320
+58 Rue des Epis d'Or Cerneux,,,,58 Rue des Épis d'Or,,,,77320
+58 Rue des Epis d'Or 77320,,,,58 Rue des Épis d'Or,,,Cerneux,
+58 Rue des Epis d'Or,3.351117,48.698393,,58 Rue des Épis d'Or,,,,77320
 96 Rue des Moulins Chalautre-la-Petite,,,,96 Rue des Moulins,,,,77160
 96 Rue des Moulins 77160,,,,96 Rue des Moulins,,,Chalautre-la-Petite,
 96 Rue des Moulins,3.312520,48.529170,,96 Rue des Moulins,,,,77160
@@ -155,9 +155,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 1 Rue de la Fontaine du Sault Héricy,,,,1 Rue de la Fontaine du Sault,,,,77850
 1 Rue de la Fontaine du Sault 77850,,,,1 Rue de la Fontaine du Sault,,,Héricy,
 1 Rue de la Fontaine du Sault,2.766645,48.449632,,1 Rue de la Fontaine du Sault,,,,77850
-14 Ruelle du Moulin Brûlé Jouy-sur-Morin,,,,14 Ruelle du Moulin Brûlé,,,,77320
-14 Ruelle du Moulin Brûlé 77320,,,,14 Ruelle du Moulin Brûlé,,,Jouy-sur-Morin,
-14 Ruelle du Moulin Brûlé,3.283984,48.794960,,14 Ruelle du Moulin Brûlé,,,,77320
+14 Ruelle du Moulin Brûlé Jouy-sur-Morin,,,,14 Ruelle du Moulin Brulé,,,,77320
+14 Ruelle du Moulin Brûlé 77320,,,,14 Ruelle du Moulin Brulé,,,Jouy-sur-Morin,
+14 Ruelle du Moulin Brûlé,3.283984,48.794960,,14 Ruelle du Moulin Brulé,,,,77320
 27 Sentier Petite Sente Verte Lagny-sur-Marne,,,,27 Sentier Petite Sente Verte,,,,77400
 27 Sentier Petite Sente Verte 77400,,,,27 Sentier Petite Sente Verte,,,Lagny-sur-Marne,
 27 Sentier Petite Sente Verte,2.696427,48.869306,,27 Sentier Petite Sente Verte,,,,77400
@@ -200,9 +200,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 21 Rue Alphonse Allais Ozoir-la-Ferrière,,,,21 Rue Alphonse Allais,,,,77330
 21 Rue Alphonse Allais 77330,,,,21 Rue Alphonse Allais,,,Ozoir-la-Ferrière,
 21 Rue Alphonse Allais,2.678021,48.764851,,21 Rue Alphonse Allais,,,,77330
-38 Rue Salvadore Allende Ozoir-la-Ferrière,,,,38 Rue Salvadore Allende,,,,77330
-38 Rue Salvadore Allende 77330,,,,38 Rue Salvadore Allende,,,Ozoir-la-Ferrière,
-38 Rue Salvadore Allende,2.664067,48.761201,,38 Rue Salvadore Allende,,,,77330
+38 Rue Salvadore Allende Ozoir-la-Ferrière,,,,38 Rue Salvador Allende,,,,77330
+38 Rue Salvadore Allende 77330,,,,38 Rue Salvador Allende,,,Ozoir-la-Ferrière,
+38 Rue Salvadore Allende,2.664067,48.761201,,38 Rue Salvador Allende,,,,77330
 70 Rue des Chênes Pomponne,,,,70 Rue des Chênes,,,,77400
 70 Rue des Chênes 77400,,,,70 Rue des Chênes,,,Pomponne,
 70 Rue des Chênes,2.692666,48.884409,,70 Rue des Chênes,,,,77400
@@ -281,9 +281,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 8 Rue du Hallier Condé-sur-Vesgre,,,,8 Rue du Hallier,,,,78113
 8 Rue du Hallier 78113,,,,8 Rue du Hallier,,,Condé-sur-Vesgre,
 8 Rue du Hallier,1.668307,48.740372,,8 Rue du Hallier,,,,78113
-1 Rue J B Drapier Conflans-Sainte-Honorine,,,,1 Rue J B Drapier,,,,78700
-1 Rue J B Drapier 78700,,,,1 Rue J B Drapier,,,Conflans-Sainte-Honorine,
-1 Rue J B Drapier,2.076490,48.996703,,1 Rue J B Drapier,,,,78700
+1 Rue J B Drapier Conflans-Sainte-Honorine,,,,1 Rue Jean-Baptiste Drapier,,,,78700
+1 Rue J B Drapier 78700,,,,1 Rue Jean-Baptiste Drapier,,,Conflans-Sainte-Honorine,
+1 Rue J B Drapier,2.076490,48.996703,,1 Rue Jean-Baptiste Drapier,,,,78700
 58BIS Avenue de Verdun Croissy-sur-Seine,,,,58BIS Avenue de Verdun,,,,78290
 58BIS Avenue de Verdun 78290,,,,58BIS Avenue de Verdun,,,Croissy-sur-Seine,
 58BIS Avenue de Verdun,2.138273,48.882568,,58BIS Avenue de Verdun,,,,78290
@@ -341,15 +341,15 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 6 Rue du 8 Mai 1945 Poissy,,,,6 Rue du 8 Mai 1945,,,,78300
 6 Rue du 8 Mai 1945 78300,,,,6 Rue du 8 Mai 1945,,,Poissy,
 6 Rue du 8 Mai 1945,2.044059,48.928205,,6 Rue du 8 Mai 1945,,,,78300
-30 Rue du Clos Batant Rambouillet,,,,30 Rue du Clos Batant,,,,78120
-30 Rue du Clos Batant 78120,,,,30 Rue du Clos Batant,,,Rambouillet,
-30 Rue du Clos Batant,1.855534,48.652697,,30 Rue du Clos Batant,,,,78120
+30 Rue du Clos Batant Rambouillet,,,,30 Rue du Clos-Batant,,,,78120
+30 Rue du Clos Batant 78120,,,,30 Rue du Clos-Batant,,,Rambouillet,
+30 Rue du Clos Batant,1.855534,48.652697,,30 Rue du Clos-Batant,,,,78120
 21 Route de Houdan Richebourg,,,,21 Route de Houdan,,,,78550
 21 Route de Houdan 78550,,,,21 Route de Houdan,,,Richebourg,
 21 Route de Houdan,1.631829,48.818202,,21 Route de Houdan,,,,78550
-3 Rue Danès de Montardat Saint-Germain-en-Laye,,,,3 Rue Danès de Montardat,,,,78300
-3 Rue Danès de Montardat 78300,,,,3 Rue Danès de Montardat,,,Saint-Germain-en-Laye,
-3 Rue Danès de Montardat,2.090213,48.896754,,3 Rue Danès de Montardat,,,,78300
+3 Rue Danès de Montardat Saint-Germain-en-Laye,,,,3 Rue Danès de Montardat,,,,78100
+3 Rue Danès de Montardat 78100,,,,3 Rue Danès de Montardat,,,Saint-Germain-en-Laye,
+3 Rue Danès de Montardat,2.090213,48.896754,,3 Rue Danès de Montardat,,,,78100
 11 Boulevard des Plants Saint-Nom-la-Bretèche,,,,11 Boulevard des Plants,,,,78860
 11 Boulevard des Plants 78860,,,,11 Boulevard des Plants,,,Saint-Nom-la-Bretèche,
 11 Boulevard des Plants,2.030803,48.863978,,11 Boulevard des Plants,,,,78860
@@ -392,9 +392,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 22 Rue du Petit Pont Bondoufle,,,,22 Rue du Petit Pont,,,,91070
 22 Rue du Petit Pont 91070,,,,22 Rue du Petit Pont,,,Bondoufle,
 22 Rue du Petit Pont,2.385285,48.611678,,22 Rue du Petit Pont,,,,91070
-4 Rue Ducrot Brétigny-sur-Orge,,,,4 Rue Ducrot,,,,91220
-4 Rue Ducrot 91220,,,,4 Rue Ducrot,,,Brétigny-sur-Orge,
-4 Rue Ducrot,2.304230,48.612895,,4 Rue Ducrot,,,,91220
+4 Rue Ducrot Brétigny-sur-Orge,,,,4 Rue Ernest Ducros,,,,91220
+4 Rue Ducrot 91220,,,,4 Ernest Ducros,,,Brétigny-sur-Orge,
+4 Rue Ducrot,2.304230,48.612895,,4 Ernest Ducros,,,,91220
 5 Rue des Sarments Breuillet,,,,5 Rue des Sarments,,,,91650
 5 Rue des Sarments 91650,,,,5 Rue des Sarments,,,Breuillet,
 5 Rue des Sarments,2.179375,48.574880,,5 Rue des Sarments,,,,91650
@@ -830,9 +830,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 3 Rue Jacquard Villeneuve-Saint-Georges,,,,3 Rue Jacquard,,,,94190
 3 Rue Jacquard 94190,,,,3 Rue Jacquard,,,Villeneuve-Saint-Georges,
 3 Rue Jacquard,2.447333,48.746102,,3 Rue Jacquard,,,,94190
-24 Rue J J Rousseau Villiers-sur-Marne,,,,24 Rue J J Rousseau,,,,94350
-24 Rue J J Rousseau 94350,,,,24 Rue J J Rousseau,,,Villiers-sur-Marne,
-24 Rue J J Rousseau,2.533222,48.820029,,24 Rue J J Rousseau,,,,94350
+24 Rue J J Rousseau Villiers-sur-Marne,,,,24 Rue Jean-Jacques Rousseau,,,,94350
+24 Rue J J Rousseau 94350,,,,24 Rue Jean-Jacques Rousseau,,,Villiers-sur-Marne,
+24 Rue J J Rousseau,2.533222,48.820029,,24 Rue Jean-Jacques Rousseau,,,,94350
 47 Rue de la Prévoyance Vincennes,,,,47 Rue de la Prévoyance,,,,94300
 47 Rue de la Prévoyance 94300,,,,47 Rue de la Prévoyance,,,Vincennes,
 47 Rue de la Prévoyance,2.420582,48.848496,,47 Rue de la Prévoyance,,,,94300
@@ -899,9 +899,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 9 Place de la Hayette Jouy-le-Moutier,,,,9 Place de la Hayette,,,,95280
 9 Place de la Hayette 95280,,,,9 Place de la Hayette,,,Jouy-le-Moutier,
 9 Place de la Hayette,2.038193,49.007774,,9 Place de la Hayette,,,,95280
-8 Allée du Pré Aux Cerfs Luzarches,,,,8 Allée du Pré Aux Cerfs,,,,95270
-8 Allée du Pré Aux Cerfs 95270,,,,8 Allée du Pré Aux Cerfs,,,Luzarches,
-8 Allée du Pré Aux Cerfs,2.419913,49.119635,,8 Allée du Pré Aux Cerfs,,,,95270
+8 Allée du Pré Aux Cerfs Luzarches,,,,8 Allée du Pré aux Cerfs,,,,95270
+8 Allée du Pré Aux Cerfs 95270,,,,8 Allée du Pré aux Cerfs,,,Luzarches,
+8 Allée du Pré Aux Cerfs,2.419913,49.119635,,8 Allée du Pré aux Cerfs,,,,95270
 63 Avenue Joliot Curie Mériel,,,,63 Avenue Joliot Curie,,,,95630
 63 Avenue Joliot Curie 95630,,,,63 Avenue Joliot Curie,,,Mériel,
 63 Avenue Joliot Curie,2.218536,49.073935,,63 Avenue Joliot Curie,,,,95630
