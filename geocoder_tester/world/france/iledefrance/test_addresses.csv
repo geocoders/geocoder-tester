@@ -512,9 +512,6 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 12BIS Chemin d'Orveau Vayres-sur-Essonne,,,,12BIS Chemin d'Orveau,,,,91820
 12BIS Chemin d'Orveau 91820,,,,12BIS Chemin d'Orveau,,,Vayres-sur-Essonne,
 12BIS Chemin d'Orveau,2.351197,48.438203,,12BIS Chemin d'Orveau,,,,91820
-3 Avenue Lyautey Vert-le-Petit,,,,3 Avenue Lyautey,,,,91710
-3 Avenue Lyautey 91710,,,,3 Avenue Lyautey,,,Vert-le-Petit,
-3 Avenue Lyautey,2.360805,48.541544,,3 Avenue Lyautey,,,,91710
 6 Rue Pierre Semard Vigneux-sur-Seine,,,,6 Rue Pierre Semard,,,,91270
 6 Rue Pierre Semard 91270,,,,6 Rue Pierre Semard,,,Vigneux-sur-Seine,
 6 Rue Pierre Semard,2.431447,48.695518,,6 Rue Pierre Semard,,,,91270
