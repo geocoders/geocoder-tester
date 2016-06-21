@@ -155,9 +155,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 1 Rue de la Fontaine du Sault Héricy,,,,1 Rue de la Fontaine du Sault,,,,77850
 1 Rue de la Fontaine du Sault 77850,,,,1 Rue de la Fontaine du Sault,,,Héricy,
 1 Rue de la Fontaine du Sault,2.766645,48.449632,,1 Rue de la Fontaine du Sault,,,,77850
-14 Ruelle du Moulin Brûlé Jouy-sur-Morin,,,,14 Ruelle du Moulin Brulé,,,,77320
-14 Ruelle du Moulin Brûlé 77320,,,,14 Ruelle du Moulin Brulé,,,Jouy-sur-Morin,
-14 Ruelle du Moulin Brûlé,3.283984,48.794960,,14 Ruelle du Moulin Brulé,,,,77320
+14 Ruelle du Moulin Brûlé Jouy-sur-Morin,,,,14 Ruelle du Moulin Brûlé,,,,77320
+14 Ruelle du Moulin Brûlé 77320,,,,14 Ruelle du Moulin Brûlé,,,Jouy-sur-Morin,
+14 Ruelle du Moulin Brûlé,3.283984,48.794960,,14 Ruelle du Moulin Brûlé,,,,77320
 27 Sentier Petite Sente Verte Lagny-sur-Marne,,,,27 Sentier Petite Sente Verte,,,,77400
 27 Sentier Petite Sente Verte 77400,,,,27 Sentier Petite Sente Verte,,,Lagny-sur-Marne,
 27 Sentier Petite Sente Verte,2.696427,48.869306,,27 Sentier Petite Sente Verte,,,,77400
