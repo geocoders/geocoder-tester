@@ -701,3 +701,5 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 53 Route de la Pointe d'Arçay La Faute-sur-Mer,,,,53 Route de la Pointe d'Arçay,,,,85460
 53 Route de la Pointe d'Arçay 85460,,,,53 Route de la Pointe d'Arçay,,,La Faute-sur-Mer,
 53 Route de la Pointe d'Arçay,-1.319468,46.329066,,53 Route de la Pointe d'Arçay,,,,85460
+rue de la loire Saint-Sébastien,-1.5528,47.2011,,Rue de la Loire,,,Saint-Sébastien-sur-Loire,
+rue de la loire Saint-Sébastien sur loire,,,,Rue de la Loire,,,Saint-Sébastien-sur-Loire,

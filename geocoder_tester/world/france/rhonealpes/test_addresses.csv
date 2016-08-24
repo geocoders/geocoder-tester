@@ -644,3 +644,11 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 1576 Avenue de Savoie Viuz-en-Sallaz,,,,1576 Avenue de Savoie,,,,74250
 1576 Avenue de Savoie 74250,,,,1576 Avenue de Savoie,,,Viuz-en-Sallaz,
 1576 Avenue de Savoie,6.410829,46.152398,,1576 Avenue de Savoie,,,,74250
+26 avenue du maréchal foch Lyon,,,,,26,Avenue Maréchal Foch,Lyon,
+ 56 avenue Maréchal de Saxe,,,,,56,Avenue du Maréchal de Saxe,Lyon,
+60 avenue du Maréchal de Saxe,,,,,60,Avenue Maréchal de Saxe,Lyon,
+771 chemin de la Bruyère,4.8649,45.7488,,,,Chemin de la Bruyère,Limonest,
+38 chemin de la Bruyère dardilly,4.7748,45.8055,,,,Chemin de la Bruyère,Dardilly,
+79 cours charlemagne,,,,,,Cours Charlemagne,Lyon,
+"rue du mont d'or Saint-Didier-au-Mont-d'Or",,,,Rue du Mont d'Or,,,Saint-Didier-au-Mont-d'Or,
+"rue du mont d'or Saint cyr",,,,Rue du Mont d'Or,,,Saint-Cyr-au-Mont-d'Or,
