@@ -106,7 +106,7 @@ def pytest_runtest_logreport(report):
 class CSVFile(pytest.File):
 
     def collect(self):
-        with self.fspath.open() as f:
+        with self.fspath.open(encoding="utf-8") as f:
             dialect = csv.Sniffer().sniff(f.read(1024))
             f.seek(0)
             reader = csv.DictReader(f, dialect=dialect)
@@ -117,7 +117,7 @@ class CSVFile(pytest.File):
 class YamlFile(pytest.File):
 
     def collect(self):
-        raw = yaml.safe_load(self.fspath.open())
+        raw = yaml.safe_load(self.fspath.open(encoding="utf-8"))
         for name, spec in raw.items():
             yield YamlItem(name, self, spec)
 
