@@ -17,9 +17,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 70 Rue des Pensées Domérat,,,,70 Rue des Pensées,,,,03410
 70 Rue des Pensées 03410,,,,70 Rue des Pensées,,,Domérat,
 70 Rue des Pensées,2.570733,46.348857,,70 Rue des Pensées,,,,03410
-114 Route de Vozelle (chemin supprimé) Espinasse-Vozelle,,,,114 Route de Vozelle (chemin supprimé),,,,03110
-114 Route de Vozelle (chemin supprimé) 03110,,,,114 Route de Vozelle (chemin supprimé),,,Espinasse-Vozelle,
-114 Route de Vozelle (chemin supprimé),3.344051,46.131371,,114 Route de Vozelle (chemin supprimé),,,,03110
+114 Route de Vozelle Espinasse-Vozelle,,,,114 Route de Vozelle,,,,03110
+114 Route de Vozelle 03110,,,,114 Route de Vozelle,,,Espinasse-Vozelle,
+114 Route de Vozelle,3.344051,46.131371,,114 Route de Vozelle,,,,03110
 49 Route des Nautes Magnet,,,,49 Route des Nautes,,,,03260
 49 Route des Nautes 03260,,,,49 Route des Nautes,,,Magnet,
 49 Route des Nautes,3.526694,46.221292,,49 Route des Nautes,,,,03260
@@ -50,9 +50,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 2 Rue de Pont-à-Mousson Vichy,,,,2 Rue de Pont-à-Mousson,,,,03200
 2 Rue de Pont-à-Mousson 03200,,,,2 Rue de Pont-à-Mousson,,,Vichy,
 2 Rue de Pont-à-Mousson,3.440982,46.116797,,2 Rue de Pont-à-Mousson,,,,03200
-8 Chemin Dela Croix de la Faloterie Yzeure,,,,8 Chemin Dela Croix de la Faloterie,,,,03400
-8 Chemin Dela Croix de la Faloterie 03400,,,,8 Chemin Dela Croix de la Faloterie,,,Yzeure,
-8 Chemin Dela Croix de la Faloterie,3.353359,46.577369,,8 Chemin Dela Croix de la Faloterie,,,,03400
+8 Chemin Dela Croix de la Faloterie Yzeure,,,,8 Chemin de la Croix de la Faloterie,,,,03400
+8 Chemin Dela Croix de la Faloterie 03400,,,,8 Chemin de la Croix de la Faloterie,,,Yzeure,
+8 Chemin Dela Croix de la Faloterie,3.353359,46.577369,,8 Chemin de la Croix de la Faloterie,,,,03400
 8 Rue Fontaine de l'Aumone Aurillac,,,,8 Rue Fontaine de l'Aumone,,,,15000
 8 Rue Fontaine de l'Aumone 15000,,,,8 Rue Fontaine de l'Aumone,,,Aurillac,
 8 Rue Fontaine de l'Aumone,2.448989,44.931240,,8 Rue Fontaine de l'Aumone,,,,15000
@@ -152,9 +152,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 1 Chemin des Patureaux Orcines,,,,1 Chemin des Patureaux,,,,63870
 1 Chemin des Patureaux 63870,,,,1 Chemin des Patureaux,,,Orcines,
 1 Chemin des Patureaux,3.001297,45.767041,,1 Chemin des Patureaux,,,,63870
-5 Rue du College Pionsat,,,,5 Rue du College,,,,63330
-5 Rue du College 63330,,,,5 Rue du College,,,Pionsat,
-5 Rue du College,2.694346,46.110744,,5 Rue du College,,,,63330
+5 Rue du College Pionsat,,,,5 Rue du Collège,,,,63330
+5 Rue du College 63330,,,,5 Rue du Collège,,,Pionsat,
+5 Rue du College,2.694346,46.110744,,5 Rue du Collège,,,,63330
 11 Route d'Issoire Les Pradeaux,,,,11 Route d'Issoire,,,,63500
 11 Route d'Issoire 63500,,,,11 Route d'Issoire,,,Les Pradeaux,
 11 Route d'Issoire,3.291097,45.510355,,11 Route d'Issoire,,,,63500
