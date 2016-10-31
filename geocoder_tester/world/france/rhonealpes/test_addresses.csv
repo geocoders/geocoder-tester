@@ -113,9 +113,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 15 Rue du Lieutenant Michel Prunet Crest,,,,15 Rue du Lieutenant Michel Prunet,,,,26400
 15 Rue du Lieutenant Michel Prunet 26400,,,,15 Rue du Lieutenant Michel Prunet,,,Crest,
 15 Rue du Lieutenant Michel Prunet,5.008723,44.733202,,15 Rue du Lieutenant Michel Prunet,,,,26400
-6236 Rue du Huit Mai 1945 Étoile-sur-Rhône,,,,6236 Rue du Huit Mai 1945,,,,26800
-6236 Rue du Huit Mai 1945 26800,,,,6236 Rue du Huit Mai 1945,,,Étoile-sur-Rhône,
-6236 Rue du Huit Mai 1945,4.896874,44.836841,,6236 Rue du Huit Mai 1945,,,,26800
+6236 Rue du Huit Mai 1945 Étoile-sur-Rhône,,,,6236 Rue du 8 Mai 1945,,,,26800
+6236 Rue du Huit Mai 1945 26800,,,,6236 Rue du 8 Mai 1945,,,Étoile-sur-Rhône,
+6236 Rue du Huit Mai 1945,4.896874,44.836841,,6236 Rue du 8 Mai 1945,,,,26800
 28 Rue des Clots Loriol-sur-Drôme,,,,28 Rue des Clots,,,,26270
 28 Rue des Clots 26270,,,,28 Rue des Clots,,,Loriol-sur-Drôme,
 28 Rue des Clots,4.830877,44.764844,,28 Rue des Clots,,,,26270
@@ -224,9 +224,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 6 Rue du Canal du Drac Le Pont-de-Claix,,,,6 Rue du Canal du Drac,,,,38800
 6 Rue du Canal du Drac 38800,,,,6 Rue du Canal du Drac,,,Le Pont-de-Claix,
 6 Rue du Canal du Drac,5.696753,45.124476,,6 Rue du Canal du Drac,,,,38800
-987 Chemin du Priolaz Romagnieu,,,,987 Chemin du Priolaz,,,,38480
-987 Chemin du Priolaz 38480,,,,987 Chemin du Priolaz,,,Romagnieu,
-987 Chemin du Priolaz,5.616106,45.553830,,987 Chemin du Priolaz,,,,38480
+987 Chemin du Priolaz Romagnieu,,,,987 Chemin de Priolaz,,,,38480
+987 Chemin du Priolaz 38480,,,,987 Chemin de Priolaz,,,Romagnieu,
+987 Chemin du Priolaz,5.616106,45.553830,,987 Chemin de Priolaz,,,,38480
 23 Rue Pasteur Saint-André-le-Gaz,,,,23 Rue Pasteur,,,,38490
 23 Rue Pasteur 38490,,,,23 Rue Pasteur,,,Saint-André-le-Gaz,
 23 Rue Pasteur,5.527340,45.543927,,23 Rue Pasteur,,,,38490
@@ -263,9 +263,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 48BIS Chemin de l'Eau Vernioz,,,,48BIS Chemin de l'Eau,,,,38150
 48BIS Chemin de l'Eau 38150,,,,48BIS Chemin de l'Eau,,,Vernioz,
 48BIS Chemin de l'Eau,4.877780,45.426346,,48BIS Chemin de l'Eau,,,,38150
-30 Rue Bartholdi Vienne,,,,30 Rue Bartholdi,,,,38200
-30 Rue Bartholdi 38200,,,,30 Rue Bartholdi,,,Vienne,
-30 Rue Bartholdi,4.912712,45.516770,,30 Rue Bartholdi,,,,38200
+30 Rue Bartholdi Vienne,,,,30 Rue Auguste Bartholdi,,,,38200
+30 Rue Bartholdi 38200,,,,30 Rue Auguste Bartholdi,,,Vienne,
+30 Rue Bartholdi,4.912712,45.516770,,30 Rue Auguste Bartholdi,,,,38200
 48 Route des Celliers Vif,,,,48 Route des Celliers,,,,38450
 48 Route des Celliers 38450,,,,48 Route des Celliers,,,Vif,
 48 Route des Celliers,5.661361,45.048116,,48 Route des Celliers,,,,38450
@@ -326,9 +326,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 18 Rue de Chavassieux Saint-Étienne,,,,18 Rue de Chavassieux,,,,42100
 18 Rue de Chavassieux 42100,,,,18 Rue de Chavassieux,,,Saint-Étienne,
 18 Rue de Chavassieux,4.368271,45.445876,,18 Rue de Chavassieux,,,,42100
-6 Passage du Gazomêtre Saint-Étienne,,,,6 Passage du Gazomêtre,,,,42100
-6 Passage du Gazomêtre 42100,,,,6 Passage du Gazomêtre,,,Saint-Étienne,
-6 Passage du Gazomêtre,4.439609,45.434532,,6 Passage du Gazomêtre,,,,42100
+6 Passage du Gazomêtre Saint-Étienne,,,,6 Passage du Gazomètre,,,,42100
+6 Passage du Gazomêtre 42100,,,,6 Passage du Gazomètre,,,Saint-Étienne,
+6 Passage du Gazomêtre,4.439609,45.434532,,6 Passage du Gazomètre,,,,42100
 104 Rue de la Montat Saint-Étienne,,,,104 Rue de la Montat,,,,42100
 104 Rue de la Montat 42100,,,,104 Rue de la Montat,,,Saint-Étienne,
 104 Rue de la Montat,4.411026,45.442595,,104 Rue de la Montat,,,,42100
@@ -422,9 +422,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 663 Route des Brouilly Saint-Lager,,,,663 Route des Brouilly,,,,69220
 663 Route des Brouilly 69220,,,,663 Route des Brouilly,,,Saint-Lager,
 663 Route des Brouilly,4.672601,46.111487,,663 Route des Brouilly,,,,69220
-73 Impasse des Maraichers Taponas,,,,73 Impasse des Maraichers,,,,69220
-73 Impasse des Maraichers 69220,,,,73 Impasse des Maraichers,,,Taponas,
-73 Impasse des Maraichers,4.753904,46.113933,,73 Impasse des Maraichers,,,,69220
+73 Impasse des Maraichers Taponas,,,,73 Impasse des Maraîchers,,,,69220
+73 Impasse des Maraichers 69220,,,,73 Impasse des Maraîchers,,,Taponas,
+73 Impasse des Maraichers,4.753904,46.113933,,73 Impasse des Maraîchers,,,,69220
 40 Avenue de la République Tassin-la-Demi-Lune,,,,40 Avenue de la République,,,,69160
 40 Avenue de la République 69160,,,,40 Avenue de la République,,,Tassin-la-Demi-Lune,
 40 Avenue de la République,4.780399,45.764062,,40 Avenue de la République,,,,69160
@@ -539,9 +539,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 3 Passage des Bains Annecy,,,,3 Passage des Bains,,,,74000
 3 Passage des Bains 74000,,,,3 Passage des Bains,,,Annecy,
 3 Passage des Bains,6.123348,45.899438,,3 Passage des Bains,,,,74000
-12 Chemin de la Thuillere Annecy-le-Vieux,,,,12 Chemin de la Thuillere,,,,74940
-12 Chemin de la Thuillere 74940,,,,12 Chemin de la Thuillere,,,Annecy-le-Vieux,
-12 Chemin de la Thuillere,6.164267,45.922017,,12 Chemin de la Thuillere,,,,74940
+12 Chemin de la Thuillere Annecy-le-Vieux,,,,12 Chemin de la Thuillère,,,,74940
+12 Chemin de la Thuillere 74940,,,,12 Chemin de la Thuillère,,,Annecy-le-Vieux,
+12 Chemin de la Thuillere,6.164267,45.922017,,12 Chemin de la Thuillère,,,,74940
 90 Route de Fessy Arenthon,,,,90 Route de Fessy,,,,74800
 90 Route de Fessy 74800,,,,90 Route de Fessy,,,Arenthon,
 90 Route de Fessy,6.339992,46.094066,,90 Route de Fessy,,,,74800
@@ -593,9 +593,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 387 Route du Tour Megève,,,,387 Route du Tour,,,,74120
 387 Route du Tour 74120,,,,387 Route du Tour,,,Megève,
 387 Route du Tour,6.630925,45.843684,,387 Route du Tour,,,,74120
-53 Impasse du Four A Pain Minzier,,,,53 Impasse du Four A Pain,,,,74270
-53 Impasse du Four A Pain 74270,,,,53 Impasse du Four A Pain,,,Minzier,
-53 Impasse du Four A Pain,6.000473,46.068079,,53 Impasse du Four A Pain,,,,74270
+53 Impasse du Four A Pain Minzier,,,,53 Impasse du Four à Pain,,,,74270
+53 Impasse du Four A Pain 74270,,,,53 Impasse du Four à Pain,,,Minzier,
+53 Impasse du Four A Pain,6.000473,46.068079,,53 Impasse du Four à Pain,,,,74270
 7 Impasse des Marais Moye,,,,7 Impasse des Marais,,,,74150
 7 Impasse des Marais 74150,,,,7 Impasse des Marais,,,Moye,
 7 Impasse des Marais,5.892670,45.889787,,7 Impasse des Marais,,,,74150
