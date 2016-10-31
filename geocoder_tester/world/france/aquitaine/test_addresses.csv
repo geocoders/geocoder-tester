@@ -314,9 +314,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 123 Laplaçote Cauneille,,,,123 Laplaçote,,,,40300
 123 Laplaçote 40300,,,,123 Laplaçote,,,Cauneille,
 123 Laplaçote,-1.082044,43.547036,,123 Laplaçote,,,,40300
-76 Avenue Georges Clémenceau Dax,,,,76 Avenue Georges Clémenceau,,,,40100
-76 Avenue Georges Clémenceau 40100,,,,76 Avenue Georges Clémenceau,,,Dax,
-76 Avenue Georges Clémenceau,-1.046628,43.707986,,76 Avenue Georges Clémenceau,,,,40100
+76 Avenue Georges Clémenceau Dax,,,,76 Avenue Georges Clemenceau,,,,40100
+76 Avenue Georges Clémenceau 40100,,,,76 Avenue Georges Clemenceau,,,Dax,
+76 Avenue Georges Clémenceau,-1.046628,43.707986,,76 Avenue Georges Clemenceau,,,,40100
 58 Route du Lac de Tastoa Estibeaux,,,,58 Route du Lac de Tastoa,,,,40290
 58 Route du Lac de Tastoa 40290,,,,58 Route du Lac de Tastoa,,,Estibeaux,
 58 Route du Lac de Tastoa,-0.895449,43.592815,,58 Route du Lac de Tastoa,,,,40290
@@ -416,9 +416,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 19 Rue de l'Union Monflanquin,,,,19 Rue de l'Union,,,,47150
 19 Rue de l'Union 47150,,,,19 Rue de l'Union,,,Monflanquin,
 19 Rue de l'Union,0.768862,44.532183,,19 Rue de l'Union,,,,47150
-6 Rue Helene Boucher Le Passage,,,,6 Rue Helene Boucher,,,,47520
-6 Rue Helene Boucher 47520,,,,6 Rue Helene Boucher,,,Le Passage,
-6 Rue Helene Boucher,0.595985,44.199905,,6 Rue Helene Boucher,,,,47520
+6 Rue Helene Boucher Le Passage,,,,6 Rue Hélène Boucher,,,,47520
+6 Rue Helene Boucher 47520,,,,6 Rue Hélène Boucher,,,Le Passage,
+6 Rue Helene Boucher,0.595985,44.199905,,6 Rue Hélène Boucher,,,,47520
 52 Avenue de Saint-Antoine Pujols,,,,52 Avenue de Saint-Antoine,,,,47300
 52 Avenue de Saint-Antoine 47300,,,,52 Avenue de Saint-Antoine,,,Pujols,
 52 Avenue de Saint-Antoine,0.700492,44.377337,,52 Avenue de Saint-Antoine,,,,47300
