@@ -515,6 +515,6 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 318 Chemin Bordenave Urcuit,,,,318 Chemin Bordenave,,,,64990
 318 Chemin Bordenave 64990,,,,318 Chemin Bordenave,,,Urcuit,
 318 Chemin Bordenave,-1.356450,43.495035,,318 Chemin Bordenave,,,,64990
-16 Rue de Hiribehere Ustaritz,,,,16 Rue Hiribehere,,,,64480
-16 Rue de Hiribehere 64480,,,,16 Rue Hiribehere,,,Ustaritz,
-16 Rue de Hiribehere,-1.457295,43.400521,,16 Rue Hiribehere,,,,64480
+16 Rue de Hiribehere Ustaritz,,,,16 Rue de Hiribehere,,,,64480
+16 Rue de Hiribehere 64480,,,,16 Rue de Hiribehere,,,Ustaritz,
+16 Rue de Hiribehere,-1.457295,43.400521,,16 Rue de Hiribehere,,,,64480
