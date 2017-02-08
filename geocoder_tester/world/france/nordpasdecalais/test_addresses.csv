@@ -50,9 +50,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 12 Rue Jean Chanat Beuvrages,,,,12 Rue Jean Chanat,,,,59192
 12 Rue Jean Chanat 59192,,,,12 Rue Jean Chanat,,,Beuvrages,
 12 Rue Jean Chanat,3.508408,50.381089,,12 Rue Jean Chanat,,,,59192
-91 Rue du Moulin Boeschepe,,,,91 Rue du Moulin,,,,59299
-91 Rue du Moulin 59299,,,,91 Rue du Moulin,,,Boeschepe,
-91 Rue du Moulin,2.688706,50.800570,,91 Rue du Moulin,,,,59299
+97 Rue du Moulin Boeschepe,,,,97 Rue du Moulin,,,,59299
+97 Rue du Moulin 59299,,,,97 Rue du Moulin,,,Boeschepe,
+97 Rue du Moulin,2.688706,50.800570,,97 Rue du Moulin,,,,59299
 796 Domaine de la Vigne Bondues,,,,796 Domaine de la Vigne,,,,59910
 796 Domaine de la Vigne 59910,,,,796 Domaine de la Vigne,,,Bondues,
 796 Domaine de la Vigne,3.075937,50.713709,,796 Domaine de la Vigne,,,,59910
