@@ -132,18 +132,24 @@ class BaseFlatItem(pytest.Item):
         self.limit = kwargs.get('limit')
         self.comment = kwargs.get('comment')
         self.skip = kwargs.get('skip')
+        #gestion type
+        self.type = kwargs.get('type')
         self.mark = kwargs.get('mark', [])
         for mark in self.mark:
             self.add_marker(mark)
 
     def runtest(self):
-        if self.skip is not None:
+        #if self.skip != None or self.skip != empty:
+        if self.skip is not None and self.skip != "":
+            #print("selfskip est {0}".format(self.skip))
             pytest.skip(msg=self.skip)
+
         kwargs = {
             'query': self.query,
             'expected': self.expected,
             'lang': self.lang,
-            'comment': self.comment
+            'comment': self.comment,
+	    'skip': self.skip,	#add
         }
         if self.lat and self.lon:
             kwargs['center'] = [self.lat, self.lon]

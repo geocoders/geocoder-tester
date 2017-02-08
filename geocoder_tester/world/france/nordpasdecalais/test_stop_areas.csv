@@ -1,0 +1,6 @@
+query;lon;lat;limit;expected_name;expected_housenumber;expected_street;expected_city;expected_postcode;skip;comment
+St Philibert;;;;;;;;;;stop_area:St.Philibert
+St. Philibert;;;;;;;;;;stop_area:St.Philibert
+Saint Philibert;;;;;;;;;;poi: Saint-Philibert
+Saint-Philibert;;;;;;;;;;poi: Saint-Philibert
+Saint philibret;;;;;;;;;;stop_area: Saint Hilaire

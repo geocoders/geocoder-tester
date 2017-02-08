@@ -1,0 +1,13 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode,skip,comment,expected_type
+Premier pas 12 place de l'Arbonnoise Lille ,,,,12 Place de l'Arbonnoise,12,,,,,,
+12 place de l'Arbonnoise Lille ,,,,12 Place de l'Arbonnoise,12,,,,,,
+12 place de l'Arbonoise Lille ,,,,12 Place de l'Arbonnoise,,,,,,,
+Lycée l'E.P.I.L. 82 rue des Meuniers lille,,,,82 RUE DES MEUNIERS,,,,,,,
+82 rue des Meuniers lille,,,,82 RUE DES MEUNIERS,,,,,,,
+CREAFI 20 rue de thumenil Lille ,,,,20 RUE DE THUMESNIL,20,RUE DE THUMESNIL,,,,,
+20 rue de thumenil Lille ,,,,20 RUE DE THUMESNIL,20,RUE DE THUMESNIL,,,,,
+20 rue de thumenil,,,,20 RUE DE THUMESNIL,20,RUE DE THUMESNIL,,,,,
+20 rue de thumesnil Lille ,,,,20 RUE DE THUMESNIL,20,RUE DE THUMESNIL,,,,,
+Meunuiserie De Buck 19 rue de Valenciennes tourcoing,,,,19 Rue de Valenciennes,19,,Tourcoing,,,,
+Menuiserie De Buck 19 rue de Valenciennes tourcoing,,,,19 Rue de Valenciennes,19,,Tourcoing,,,,
+19 rue de Valenciennes tourcoing,,,,19 Rue de Valenciennes,19,,Tourcoing,,,,

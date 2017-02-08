@@ -13,7 +13,7 @@ AUCKLAND = [-36.853467, 174.765551]
 CONFIG = {
     'API_URL': "http://localhost:5001/api/",
     'LOOSE_COMPARE': False,
-    'MAX_RUN': 0,  # means no limit
+    'MAX_RUN': 0,  #0 default# 0 means no limit
     'GEOJSON': False,
     'FAILED': [],
 }
@@ -32,13 +32,15 @@ class HttpSearchException(Exception):
 class SearchException(Exception):
     """ custom exception for error reporting. """
 
-    def __init__(self, params, expected, results, message=None):
+    def __init__(self, params, expected, results, message=None,comment=None):
         super().__init__()
         self.results = results
         self.query = params.pop('q')
         self.params = params
         self.expected = expected
         self.message = message
+        self.comment = comment
+
 
     def __str__(self):
         lines = [
@@ -54,10 +56,12 @@ class SearchException(Exception):
         lines.append(expected)
         if self.message:
             lines.append('# Message: {}'.format(self.message))
+        if self.comment:
+            lines.append("# Comment : {}".format(self.comment))
         lines.append('# Results were:')
         keys = [
             'name', 'osm_key', 'osm_value', 'osm_id', 'housenumber', 'street',
-            'postcode', 'city', 'country', 'lat', 'lon', 'distance'
+            'postcode', 'city', 'country', 'lat', 'lon', 'distance', "type"
         ]
         results = [self.flat_result(f) for f in self.results['features']]
         lines.extend(dicts_to_table(results, keys=keys))
@@ -122,7 +126,7 @@ def compare_values(get, expected):
     return get == expected
 
 
-def assert_search(query, expected, limit=1,
+def assert_search(query, expected, limit=1, skip=None,
                   comment=None, lang=None, center=None):
     params = {"q": query, "limit": limit}
     if lang:
