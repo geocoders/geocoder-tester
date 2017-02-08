@@ -435,7 +435,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 7 Rue Jean Jaurès 59175,,,,7 Rue Jean Jaurès,,,Templemars,
 7 Rue Jean Jaurès,3.055701,50.568724,,7 Rue Jean Jaurès,,,,59175
 188 Rue des Pierres Téteghem,,,,188 Rue des Pierres,,,,59229
-188 Rue des Pierres 59229,,,,188 Rue des Pierres,,,Téteghem,
+188 Rue des Pierres 59229,,,,188 Rue des Pierres,,,Téteghem-Coudekerque-Village,
 188 Rue des Pierres,2.454387,51.007269,,188 Rue des Pierres,,,,59229
 16 Rue des Azalées Toufflers,,,,16 Rue des Azalées,,,,59390
 16 Rue des Azalées 59390,,,,16 Rue des Azalées,,,Toufflers,
