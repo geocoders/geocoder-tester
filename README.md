@@ -2,13 +2,13 @@
 
 Run search queries against a geocoder that supports [geocodejson spec](https://github.com/geocoders/geocodejson-spec).
 
-## Intalling
+## Intalling
 
-You should have created a python 3.4 virtualenv environment, then:
+- create a python >= 3.4 [virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/) environment
+- `git clone https://github.com/geocoders/geocoder-tester && cd geocoder-tester`
+- `pip install -r requirements.txt`
 
-    pip install -r requirements.txt
-
-## Running
+## Running
 
 Simply:
 
@@ -55,7 +55,7 @@ Then compare when running a new version
     py.test --compare-report path/to/report.log
 
 
-## Adding search cases
+## Adding search cases
 
 We support python, CSV and YAML format.
 
@@ -74,12 +74,12 @@ You generally want to use YAML format if you are managing tests by hand in your
 text editor, CSV if you are generating test cases from a script, and python test
 cases if you need more control.
 
-### Python
+### Python
 
 They are normal python tests. Just note that you have two utils in `base.py`:
 `search` and `assert_search` that can do a lot for you.
 
-### CSV
+### CSV
 
 One column is mandatory: `query`, where you store the query you make.
 Then you can add as many `expected_xxx` columns you want, according to what
