@@ -1,0 +1,132 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+19 Rue Denis Cordonnier Aniche,,,4,,,Rue Denis Cordonnier,,59580
+ 37 rue de rome 75382 paris,,,4,,,Rue de Rome,Paris,
+ le clos grand - 19600 nespouls,,,4,Le Claud Grand,,,Nespouls,
+ 3 rue richan à lyon,,,4,,,Rue Richan,Lyon,
+ 13 boulevard voltaire 75011 paris,,,4,,,Boulevard Voltaire,Paris,
+ 36 rue prosper brindejont etretat,,,4,,,Rue Prosper Brindejont,Étretat,
+ 1 rue jeff le penven 56300 pontivy,,,4,,,Rue Jeff Le Penven,,56300
+ 49 rue aristide briand osny,,,4,,,Rue Aristide Briand,,95520
+ 10/12 rue collange 92300 levallois,,,4,,,Rue Collange,,92300
+ 9 avenue de la gare maritime arles,,,4,,,Avenue de la Gare Maritime,Arles,
+ 1 rue des acacias louvres,,,4,,,Rue des Acacias,,95380
+ 4 rue emile combes 38400saint martin d'heres,,,4,,,Rue Émile Combes,Saint-Martin-d'Hères,
+ 20 boulevart arago 22000 saint brieuc,,,4,,,Boulevard Arago,,22000
+ 28 rue d'aubervilliers 75018,,,4,,,Rue d'Aubervilliers,Paris,
+ 6 chemin des vignes chepy,,,4,,,Chemin des Vignes,Chepy,
+ 11 avenue du bel air villeurbanne,,,4,,,,Villeurbanne,
+ maps 69210,,,4,,,,,69210
+ google earth 3 rue henri laborit rochefort,,,4,,,Rue Henri Laborit,,17300
+" abt prod"" abt prod - 15 place carnot - 69002 lyon",,,4,,15,Place Carnot,Lyon,
+ center parc 75019,,,4,,,,,75019
+ horaire mondial relay 46 rue de stalingrad 78500 sartrouville,,,4,,,Rue de Stalingrad,Sartrouville,
+ plan paris,,,4,,,,Paris,
+" 7 rue desbrest, vichy (03200) karceles yves",,,4,,,Rue Desbrest,Vichy,
+ 22 avenue charles de gaulle  92 le plessis robinson,,,4,,,Avenue Charles de Gaulle,Le Plessis-Robinson,
+" 6, allée simone signoret 78260 achères ici​ si vous désirez recevoir notre journal de bord",,,4,,,Allée Simone Signoret,,78260
+ plan la roche bernard,,,4,,,,La Roche-Bernard,
+ 129 rue alexandre dumas amiens,,,4,,,Rue Alexandre Dumas,Amiens,
+ sci 110 rue d'entraigues 37000 tours,,,4,,,Rue d'Entraigues,,37000
+ 55 rue de lille paris,,,4,,,Rue de Lille,Paris,
+ benjamin fain-robert 82 rue de charenton 75012 paris,,,4,,,Rue de Charenton,Paris,
+" 8, route de semur – rd 970 – 21320 sainte-sabine",,,4,,,Route de Semur,,21320
+ 66 rue lafayette paris,,,4,,,Rue La Fayette,Paris,
+ 8 rue olivier voutier 83400,,,4,,,Rue Ollivier Voutier,,83400
+ madame theil 65000 tarbes rue du brahauban,,,4,,,Rue Brauhauban,,65000
+" 93, avenue de la république - tours",,,4,,,Avenue de la République,Tours,
+" 60 rue marcel dassault, 92100 boulogne-billancourt.",,,4,,,Rue Marcel Dassault,,92100
+ rue charlie chaplin torcy france 77200,,,4,,,Rue Charlie Chaplin,Torcy,
+ plan arcueil rue berthollet,,,4,,,Rue Berthollet ,Arcueil,
+ 16 lot des herces 17250 la vallee,,,4,,,,La Vallée,17250
+ 62 rue de rennes paris,,,4,,,Rue de Rennes,Paris,
+ excellence car business 23 rue de la balance grigny,,,4,,23,,Grigny,
+ matthieu   henry 2 hent coz 29600morlaix,,,4,,,Rue du Hent Coz,,29600
+ plan cazouls,,,4,,,,Cazouls-d'Hérault,
+ 10 rue de la vallée 91610 ballancourt sur essonne,,,4,,,Rue de la Vallée,,91610
+ 115 avenue lacassagne lyon,,,4,,,Avenue Lacassagne,Lyon,
+ 8 rue de reims 75013 paris,,,4,,,Rue de Reims,Paris,
+" 21 avenue de la porte de chatillon, paris",,,4,,,Avenue de la Porte de Châtillon,Paris,
+" 69, rue de varenne - 75700",,,4,,,Rue de Varenne,Paris,
+ google earth 28b rue de la garrigue nimes,,,4,,,Rue de la Garrigue,Nîmes,
+ 36 rue du président wilson levallois perret,,,4,,,Rue du Président Wilson,Levallois-Perret,
+ 16 avenue victor hugo vanve,,,4,,,Avenue Victor Hugo,Vanves,
+ 121 rue de la pierre saint jean,,,4,,,Rue de la Pierre,Saint-Jean-d'Illac,
+ 17 av du general de gaulle ares,,,4,,,Rue du Général de Gaulle,Arès,
+ 22 avenue de la république a creteil,,,4,,,Avenue de la République,Créteil,
+ 33 rue laplace arcueil,,,4,,,Rue Laplace,Arcueil,
+ rue du docteur jean bertholet toulon 83000,,,4,,,Rue du Docteur Jean Bertholet,,83000
+ direction des déplacements serm/pes 52 rue léon gaumont  26000 valence,,,4,,,Rue Léon Gaumont,,26000
+ 315 allee jacques cartier mandelieu,,,4,,,Allée Jacques Cartier,Mandelieu-la-Napoule,
+1 rue de l église - 69480 morancé,,,4,,,Rue de l'Église,Morancé,
+15 rue auguste laurent75011 paris,,,4,,,Rue Auguste Laurent,Paris,
+351 route de la plaine 74250 fillinges,,,4,,,Route de la Plaine,,74250
+" abvs, 20 rue d estienne d orves 29200 brest",,,4,,,Rue d'Estienne d'Orves,,29200
+ 14 rue jean mermoz 63110 beaumont,,,4,,,Rue Jean Mermoz,,63110
+ 55 rue rosa bonheur la rochette,,,4,,,Rue Rosa Bonheur,La Rochette,
+ 1 rue pierre et marie curie plérin,,,4,,,Rue Pierre et Marie Curie,Plérin,
+" 5 boulevard vincent gache, nantes",,,4,,,Boulevard Vincent Gâche,Nantes,
+ radiologue rue de la burgonsse niort 79000,,,4,,,Rue de la Burgonce,Niort,
+ 333 rue garrel montauban,,,4,,,Rue Garrel,Montauban,
+ 12 rue paul eluard charenton le pont,,,4,,,Rue Paul Éluard,Charenton-le-Pont,
+ 35 rue pasteur 05100 briançon,,,4,,,Rue Pasteur,Briançon,
+" 17 rue de la banque, 75002 paris",,,4,,,Rue de la Banque,Paris,
+ 142 avenue de gallieni paris,,,4,,,Avenue Gallieni,Paris,
+" travaux rocade charles de gaulle , 84000 avignon",,,4,,,Rocade Charles de Gaulle,,84000
+ 54 place de l'ellipse 92983 paris la défense,,,4,,,Place de l'Ellipse,,92000
+ 7 rue saitn eloi aigremont,,,4,,,Allée Saint-Éloi,Aigremont,
+" 248 route de chambéry, gilly sur isere",,,4,,,Route de Chambéry,Gilly-sur-Isère,
+ 4 rue saint nicolas nancy,,,4,,,Rue Saint-Nicolas,Nancy,
+" 64 bd pierre semard, 31500 toulouse",,,4,,,Boulevard Pierre Semard,,31500
+ 14 rue leopold bellan paris,,,4,,,Rue Léopold Bellan,Paris,
+ plan cadastral roscoff,,,4,,,,Roscoff,
+" adresse: 2-4, impasse lamier –­ 75011 paris",,,4,,,Impasse Lamier,Paris,
+ 1 impasse du bouleau 13118 entressen,,,4,,,Impasse du Bouleau,,13118
+ 5 avenue arago à morangis,,,4,,,Avenue Arago,Morangis,
+ 114 avenue de ares bordeaux,,,4,,,Avenue d'Arès,Bordeaux,
+ domaine des sausse 06 st jeannet,,,4,,,Chemin des Sausses,Saint-Jeannet,
+ 23 rue d'york dijon,,,4,,,Rue d'York,Dijon,
+ 7 rue du lycée 26000valence,,,4,,,Rue du Lycée,Valence,
+ 4-16 cours des ateliers 75014 paris 14e arrdt,,,4,,,Cour des Ateliers,Paris,
+" 27 avenue maurice martin  mimizan, 40200",,,4,,,Avenue Maurice Martin,Mimizan,
+ chevigny saint sauveur 8 rue charles le téméraire,,,4,,,Rue Charles le Téméraire,Chevigny-Saint-Sauveur,
+ 120 square condorcet le haillan,,,4,,,Square Condorcet,Le Haillan,
+ 103 bld andre sautel la rochelle 17000,,,4,,,Boulevard André Sautel,,17000
+ la chenaie 3393 avenue thiers quartier malbergue 13320 bouc bel air,,,4,,,Avenue Thiers,Bouc-Bel-Air,
+" amping saint michel35 route du mont saint michel, 50220 courtils, france",,,4,,,Rue du Mont Saint-Michel ,,50220
+ 1bis rue gambetta méru,,,4,,,Rue Gambetta,Méru,
+ 201  bd saint denis courbevoie,,,4,,,Boulevard Saint-Denis,Courbevoie,
+ 280 impasse du reservoir38200 luzinay,,,4,,,Impasse du Réservoir,Luzinay,
+ mappy 2 rue pinette 91610,,,4,,,Rue Jeanne Pinet,,91610
+ 9 rue de l'école bitschhoffen,,,4,,,Rue de l'École,Bitschhoffen,
+ 68 rue du docteur eloy59133 phalempin,,,4,,,Rue du Docteur Eloy,Phalempin,
+ 13 rue yves farge fontaine,,,4,,,Rue Yves Farge,Fontaine,
+ 35 rue de bretragne st quentin falavier,,,4,,,Rue de Bretagne,Saint-Quentin-Fallavier,
+ 23 rue des ormeaux étampes,,,4,,,Rue des Ormeaux,Étampes,
+ 25 rue negresko 13008,,,4,,,Rue Negresko,Marseille,
+ 43 rue vouillé paris,,,4,,,Rue de Vouillé,Paris,
+ 16 rue clos st hilaire 41100 villiers-sur-loir,,,4,,,Rue du Clos Saint-Hilaire,,41100
+ 4 rue joseph d'arbaud st paul trois chateaux,,,4,,,Rue Joseph d'Arbaud,Saint-Paul-Trois-Châteaux,
+ rue du closier 77720,,,4,,,Rue du Closier,,77720
+ 300 rue du hameau des grands la farlede 83210,,,4,,,Rue du Hameau des Grands,La Farlède,
+ 2 bis rue marie curie à troyes,,,4,,,Rue Marie Curie,Troyes,
+ google map 43 rue heisenhower 51000 reims,,,4,,,Rue Eisenhower,Reims,
+ plan rue des puits-clos toulouse,,,4,,,Rue des Puits-Clos,Toulouse,
+ 50 rue alsace lorraine grenoble,,,4,,,Avenue Alsace Lorraine,Grenoble,
+ villeroy. 6 rue chapon paris 3ème,,,4,,,Rue Chapon,Paris,
+ 6 rue du maréchal lelerc paris,,,4,,,Rue du Maréchal Leclerc,Paris,
+ 16 rue georgette agutte 75018 paris,,,4,,,Rue Georgette Agutte,Paris,
+ station avia (relais colis o1177) 110 boulevard de l'egalite 44100 nantes,,,4,,,Boulevard de l'Égalité,Nantes,
+ plan vars,,,4,,,,Vars,5560
+ 814 route de plaimpalais 73230 saint-alban-leysse,,,4,,,Route de Plainpalais,Saint-Alban-Leysse,
+" comptoir des voyages, 10 quai tilsitt, 69002 lyon",,,4,,,Quai Tilsitt,Lyon,
+" place henri dunant, 64150 mourenx",,,4,,,Place Henri Dunant,,64150
+" rue du chasselas, 66330 cabestany",,,4,,,Rue du Chasselas,Cabestany,
+ 3 avenue du maréchal joffre 60500 chantilly,,,4,,,Avenue du Maréchal Joffre,,60500
+ 33 avenue du maine paris,,,4,,,Avenue du Maine,Paris,
+ 10 rue richelieu à tours,,,4,,,Rue Richelieu,Tours,
+ 25 rue d'astorg 75008 paris,,,4,,,Rue d'Astorg,Paris,
+ 4-16 cours des ateliers 75014 paris 14e arrdt,,,4,,,Cour des Ateliers,Paris,
+" 13 avenue d'alsace 30100, alès",,,4,,,Avenue d'Alsace,Alès,
+ 114 rue de la marriere nantes,,,4,,,Rue de la Marrière,Nantes,
+" ets a. lumbroso - magny-en-vexin 34, rue gütemberg 95420 magny-en-vexin",,,4,,,Rue Gutenberg,Magny-en-Vexin,
+ 83 rue du temple paris,,,4,,,Rue du Temple,Paris,
