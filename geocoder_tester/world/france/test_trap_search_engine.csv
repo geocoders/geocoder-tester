@@ -1,0 +1,15 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+Porte Dauphine,,,,Porte Dauphine,,,Paris,
+20 bd poniatowsk,,,,,,Boulevard Poniatowski,Paris,
+monparnasse,,,,Montparnasse,,,Paris,
+montcul,,,,,,,Montcul,38230
+avenue hottinger boissy,,,,,,Avenue Hottinguer,,94470
+Amiens rue du mal de lattre de tassigny,,,,,,Rue du Maréchal de Lattre de Tassigny,Amiens,
+Lycée guillaume budée,,,,Lycée Guillaume Budé,,,,94450
+avenue montgeron vènerie,,,,,,Avenue de la Vénerie,Montgeron,
+gare de torcy,,,,Gare de Torcy,,,Torcy,
+bd de la gare toulouse,,,,,,Boulevard de la Gare,Toulouse,
+rue des pères blancs plan de cuc,,,,,,Avenue des Pères Blancs,Plan-de-Cuques ,
+avenue de la porte de choisi,,,,,,Avenue de la Porte de Choisy,Paris,
+sareguemine,,,,,,,Sarreguemines,57200
+39 bd henry 4,,,,,,Boulevard Henri IV,Paris,
