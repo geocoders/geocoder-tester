@@ -1,23 +1,42 @@
 query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
-Porte Dauphine,,,,Porte Dauphine,,,Paris,
-20 bd poniatowsk,,,,,,Boulevard Poniatowski,Paris,
-monparnasse,,,,Montparnasse,,,Paris,
-montcul,,,,,,,Montcul,38230
-avenue hottinger boissy,,,,,,Avenue Hottinguer,,94470
-Amiens rue du mal de lattre de tassigny,,,,,,Rue du Maréchal de Lattre de Tassigny,Amiens,
-Lycée guillaume budée,,,,Lycée Guillaume Budé,,,,94450
-avenue montgeron vènerie,,,,,,Avenue de la Vénerie,Montgeron,
-gare de torcy,,,,Gare de Torcy,,,Torcy,
-bd de la gare toulouse,,,,,,Boulevard de la Gare,Toulouse,
-rue des pères blancs plan de cuc,,,,,,Avenue des Pères Blancs,Plan-de-Cuques ,
-avenue de la porte de choisi,,,,,,Avenue de la Porte de Choisy,Paris,
-sareguemine,,,,,,,Sarreguemines,57200
-39 bd henry 4,,,,,,Boulevard Henri IV,Paris,
+20 bd poniatowsk,,,4,,,Boulevard Poniatowski,Paris,
+20 bd ponyatowski,,,4,,,Boulevard Poniatowski,Paris,
+20 bd ponyatowsky,,,4,,,Boulevard Poniatowski,Paris,
+monparnasse,,,4,Montparnasse,,,Paris,
+montcul,,,4,,,,Montcul,38230
+avenue hottinger boissy,,,4,,,Avenue Hottinguer,,94470
+Amiens rue du mal de lattre de tassigny,,,4,,,Rue du Maréchal de Lattre de Tassigny,Amiens,
+Lycée guillaume budée,,,4,Lycée Guillaume Budé,,,,94450
+avenue montgeron vènerie,,,4,,,Avenue de la Vénerie,Montgeron,
+gare de torcy,,,4,Gare de Torcy,,,Torcy,
+bd de la gare toulouse,,,4,,,Boulevard de la Gare,Toulouse,
+rue des pères blancs plan de cuc,,,4,,,Avenue des Pères Blancs,Plan-de-Cuques,
+avenue de la porte de choisi,,,4,,,Avenue de la Porte de Choisy,Paris,
+sareguemine,,,4,,,,Sarreguemines,57200
+39 bd henry 4,,,4,,,Boulevard Henri IV,Paris,
 " 1 rue de dupuytrin, paris",,,4,,1,Rue Dupuytren,Paris,
 " 63 rue de villiers, 92208 neuilly-sur-sein",,,4,,63,Rue de Villiers,Neuilly-sur-Seine,
  5 place du general de gaule saint lo,,,4,,5,Place Général de Gaulle,Saint-Lô,
  12 avenus honor2 serres toulouse,,,4,,12,Avenue Honoré Serres,Toulouse,
  direction m&t 18 rue de dunkerque paris 75010 paris,,,4,,18,Rue de Dunkerque,Paris,
  saint-bueil - 38 decoup'bois 376 route eglise 38620 saint-bueil,,,4,,376,Route de l'Église,Saint-Bueil,
- 36 rue de rouchechouart paris,,,,,36,Rue de Rochechouart,Paris,
- 40 rue saint george paris,,,,,40,Rue Saint-Georges,Paris,
+ 36 rue de rouchechouart paris,,,4,,36,Rue de Rochechouart,Paris,
+ 40 rue saint george paris,,,4,,40,Rue Saint-Georges,Paris,
+7 place du Chancelier Adenower,,,4,,7,Place du Chancelier Adenauer ,Paris,
+allée tchaykovski le mans,,,4,,,Allée Tchaïkovski,Le Mans,
+rue ponpidou orléans,,,4,,,Rue Georges Pompidou,Orléans,
+4 allee edouard branli toulouse,,,4,,4,Allée Édouard Branly,,
+cormeil en parisis rue racine,,,4,,,Rue Racine,Cormeilles-en-Parisis,
+ker ponpon,,,4,,,Boulevard de Ker Pompom,,35800
+Rue de Kervézennec,,,4,,,Rue de Kervezennec,Brest,
+4 rue de la fourberie verton,,,4,,,Rue de la Tourberie,Verton,
+2 rue du cracké pasly,,,4,,,Rue du Craquet,Pasly,
+15 rue ferdinand du val,,,4,,15,Rue Ferdinand Duval,,
+rue duval beauvais,,,4,,,Rue du Val,Beauvais,
+66 rue lafayette paris,,,4,,,Rue La Fayette,Paris,
+bonzée chemin du haut,,,4,,,Chemin du Hot,Bonzée,
+5 rue matthieu varille,,,4,,5,Rue Mathieu Varille,,
+12 rue mathieu bourdon,,,4,,12,Rue Matthieu Bourdon,,
+gabrielle michèle andelys,,,4,,,Rue Gabriel Michel,Les Andelys,
+chemin du cheval maure,,,4,,,Chemin du Cheval Mort,Oysonville,
+allau rue des moulins,,,4,,,Rue des Moulins,Allauch,
