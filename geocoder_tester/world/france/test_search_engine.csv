@@ -1,4 +1,5 @@
 query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+Porte Dauphine,,,4,Porte Dauphine,,,Paris,
 19 Rue Denis Cordonnier Aniche,,,4,,,Rue Denis Cordonnier,,59580
  37 rue de rome 75382 paris,,,4,,,Rue de Rome,Paris,
  le clos grand - 19600 nespouls,,,4,Le Claud Grand,,,Nespouls,
@@ -30,13 +31,12 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
  55 rue de lille paris,,,4,,,Rue de Lille,Paris,
  benjamin fain-robert 82 rue de charenton 75012 paris,,,4,,,Rue de Charenton,Paris,
 " 8, route de semur – rd 970 – 21320 sainte-sabine",,,4,,,Route de Semur,,21320
- 66 rue lafayette paris,,,4,,,Rue La Fayette,Paris,
  8 rue olivier voutier 83400,,,4,,,Rue Ollivier Voutier,,83400
  madame theil 65000 tarbes rue du brahauban,,,4,,,Rue Brauhauban,,65000
 " 93, avenue de la république - tours",,,4,,,Avenue de la République,Tours,
 " 60 rue marcel dassault, 92100 boulogne-billancourt.",,,4,,,Rue Marcel Dassault,,92100
  rue charlie chaplin torcy france 77200,,,4,,,Rue Charlie Chaplin,Torcy,
- plan arcueil rue berthollet,,,4,,,Rue Berthollet ,Arcueil,
+ plan arcueil rue berthollet,,,4,,,Rue Berthollet,Arcueil,
  16 lot des herces 17250 la vallee,,,4,,,,La Vallée,17250
  62 rue de rennes paris,,,4,,,Rue de Rennes,Paris,
  excellence car business 23 rue de la balance grigny,,,4,,23,,Grigny,
