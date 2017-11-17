@@ -1,0 +1,8 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode,expected_country
+Hossegor – plage Nord,,,,,,,Soorts-Hossegor,40150,France
+Bassin d'Arcachon,,,,Bassin d'Arcachon,,,,,France
+Dune du Pilat,,,,,,,La Teste-de-Buch,33260,France
+Gironde,,,,Gironde,,,,,France
+Pyla sur mer,,,,,,,La Teste-de-Buch,33260,France
+Gascogne,,,,Gascogne,,,,,France
+Périgord,,,,Périgord,,,,,France
