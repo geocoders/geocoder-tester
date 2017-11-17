@@ -1,0 +1,3 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+montcul,,,4,,,,Montcul,38230
+saint-bueil - 38 decoup'bois 376 route eglise 38620 saint-bueil,,,4,,376,Route de l'Église,Saint-Bueil
