@@ -935,3 +935,53 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 28 Rue Messidor Vauréal,,,,28 Rue Messidor,,,,95490
 28 Rue Messidor 95490,,,,28 Rue Messidor,,,Vauréal,
 28 Rue Messidor,2.013060,49.028342,,28 Rue Messidor,,,,95490
+Porte Dauphine,,,,Porte Dauphine,,,Paris,
+ 37 rue de rome 75382 paris,,,,,,Rue de Rome,Paris,
+ 13 boulevard voltaire 75011 paris,,,,,,Boulevard Voltaire,Paris,
+ 28 rue d'aubervilliers 75018,,,,,,Rue d'Aubervilliers,Paris,
+ plan paris,,,,,,,Paris,
+ 55 rue de lille paris,,,,,,Rue de Lille,Paris,
+ benjamin fain-robert 82 rue de charenton 75012 paris,,,,,,Rue de Charenton,Paris,
+ 62 rue de rennes paris,,,,,,Rue de Rennes,Paris,
+ 8 rue de reims 75013 paris,,,,,,Rue de Reims,Paris,
+" 21 avenue de la porte de chatillon, paris",,,,,,Avenue de la Porte de Châtillon,Paris,
+" 69, rue de varenne - 75700",,,,,,Rue de Varenne,Paris,
+15 rue auguste laurent75011 paris,,,,,,Rue Auguste Laurent,Paris,
+" 17 rue de la banque, 75002 paris",,,,,,Rue de la Banque,Paris,
+ 142 avenue de gallieni paris,,,,,,Avenue Gallieni,Paris,
+ 14 rue leopold bellan paris,,,,,,Rue Léopold Bellan,Paris,
+" adresse: 2-4, impasse lamier –­ 75011 paris",,,,,,Impasse Lamier,Paris,
+ 4-16 cours des ateliers 75014 paris 14e arrdt,,,,,,Cour des Ateliers,Paris,
+ 43 rue vouillé paris,,,,,,Rue de Vouillé,Paris,
+ villeroy. 6 rue chapon paris 3ème,,,,,,Rue Chapon,Paris,
+ 6 rue du maréchal lelerc paris,,,,,,Rue du Maréchal Leclerc,Paris,
+ 16 rue georgette agutte 75018 paris,,,,,,Rue Georgette Agutte,Paris,
+ 33 avenue du maine paris,,,,,,Avenue du Maine,Paris,
+ 25 rue d'astorg 75008 paris,,,,,,Rue d'Astorg,Paris,
+ 4-16 cours des ateliers 75014 paris 14e arrdt,,,,,,Cour des Ateliers,Paris,
+ 83 rue du temple paris,,,,,,Rue du Temple,Paris,
+ pascual 3 rue troyon paris,,,,,3,Rue Troyon,Paris,
+" boutique au 16, rue alexandre dumas paris",,,,,16,Rue Alexandre Dumas,Paris,
+ 41 rue tournefort paris,,,,,41,Rue Tournefort,Paris,
+ 49 rue aristide briand osny,,,4,,,Rue Aristide Briand,,95520
+ 1 rue des acacias louvres,,,4,,,Rue des Acacias,,95380
+ 10 rue de la vallée 91610 ballancourt sur essonne,,,4,,,Rue de la Vallée,,91610
+ mappy 2 rue pinette 91610,,,4,,,Rue Jeanne Pinet,,91610
+ 10/12 rue collange 92300 levallois,,,4,,,Rue Collange,,92300
+" 60 rue marcel dassault, 92100 boulogne-billancourt.",,,4,,,Rue Marcel Dassault,,92100
+ 54 place de l'ellipse 92983 paris la défense,,,4,,,Place de l'Ellipse,,92000
+" 20 rue jules saulnier, 93200 saint denis",,,4,,20,Rue Jules Saulnier,,93200
+ horaire mondial relay 46 rue de stalingrad 78500 sartrouville,,,4,,,Rue de Stalingrad,Sartrouville,
+ 22 avenue charles de gaulle  92 le plessis robinson,,,4,,,Avenue Charles de Gaulle,Le Plessis-Robinson,
+ rue charlie chaplin torcy france 77200,,,4,,,Rue Charlie Chaplin,Torcy,
+ plan arcueil rue berthollet,,,4,,,Rue Berthollet,Arcueil,
+ excellence car business 23 rue de la balance grigny,,,4,,23,,Grigny,
+ 36 rue du président wilson levallois perret,,,4,,,Rue du Président Wilson,Levallois-Perret,
+ 16 avenue victor hugo vanve,,,4,,,Avenue Victor Hugo,Vanves,
+ bar place du 14 juillet houilles,,,4,,,Place du 14 Juillet,Houilles,
+" ets a. lumbroso - magny-en-vexin 34, rue gütemberg 95420 magny-en-vexin",,,4,,,Rue Gutenberg,Magny-en-Vexin,
+ 35 avenue de chateau thierry la ferte sous jouarre,,,4,,35,Avenue de Chateau Thierry,La Ferté-sous-Jouarre,
+ 22 avenue de la république a creteil,,,4,,,Avenue de la République,Créteil,
+ 33 rue laplace arcueil,,,4,,,Rue Laplace,Arcueil,
+ 12 rue paul eluard charenton le pont,,,4,,,Rue Paul Éluard,Charenton-le-Pont,
+ 201  bd saint denis courbevoie,,,4,,,Boulevard Saint-Denis,Courbevoie,
