@@ -123,7 +123,8 @@ def compare_values(get, expected):
 
 
 def assert_search(query, expected, limit=1,
-                  comment=None, lang=None, center=None):
+                  comment=None, lang=None, center=None,
+                  max_matches=None):
     params = {"q": query, "limit": limit}
     if lang:
         params['lang'] = lang
@@ -133,7 +134,7 @@ def assert_search(query, expected, limit=1,
     results = search(**params)
 
     def assert_expected(expected):
-        found = False
+        nb_found = 0
         for r in results['features']:
             found = True
             properties = None
@@ -156,13 +157,27 @@ def assert_search(query, expected, limit=1,
                         if int(deviation.meters) <= int(max_deviation):
                             continue  # Continue to other properties
                     found = False
+
             if found:
-                break
-        if not found:
+                nb_found += 1
+                if max_matches is None:
+                    break
+
+        if nb_found == 0:
             raise SearchException(
                 params=params,
                 expected=expected,
                 results=results
+            )
+        elif max_matches is not None and nb_found > max_matches:
+            message = 'Got {} matching results. Expected at most {}.'.format(
+                nb_found, max_matches
+            )
+            raise SearchException(
+                params=params,
+                expected=expected,
+                results=results,
+                message=message
             )
 
     if not isinstance(expected, list):

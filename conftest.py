@@ -133,6 +133,13 @@ class BaseFlatItem(pytest.Item):
         self.comment = kwargs.get('comment')
         self.skip = kwargs.get('skip')
         self.mark = kwargs.get('mark', [])
+
+        self.max_matches = kwargs.get('max_matches')
+        if self.max_matches:
+            self.max_matches = int(self.max_matches)
+        else:
+            self.max_matches = None
+
         for mark in self.mark:
             self.add_marker(mark)
 
@@ -143,7 +150,8 @@ class BaseFlatItem(pytest.Item):
             'query': self.query,
             'expected': self.expected,
             'lang': self.lang,
-            'comment': self.comment
+            'comment': self.comment,
+            'max_matches': self.max_matches
         }
         if self.lat and self.lon:
             kwargs['center'] = [self.lat, self.lon]
