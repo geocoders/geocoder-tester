@@ -90,13 +90,15 @@ of the form `lat,lon,tolerated deviation in meters`, e.g. `51.0,10.3,700`.
 
 Optional columns:
 * `limit`: decide how many results you want to look at for finding your result
-(defaul: 1)
+(default: 1)
 * `lat`, `lon`: if you want to add a center for the search
 * `comment`: if you want to take control of the ouput of the test in the
 command line
 * `lang`: language
 * `skip`: add a `skip` message if you want a test to be always skipped (feature
 not supported yet for example)
+* `max_matches`: maximum number of results that should match expected value.
+Should be used such as `limit` > `max_matches`. (default: no limit)
 
 ### YAML
 
