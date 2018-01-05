@@ -1,4 +1,5 @@
 import csv
+import os
 import yaml
 
 import pytest
@@ -19,7 +20,7 @@ def pytest_collect_file(parent, path):
 
 
 def pytest_itemcollected(item):
-    dirs = item.session.fspath.bestrelpath(item.fspath.dirpath()).split('/')
+    dirs = item.session.fspath.bestrelpath(item.fspath.dirpath()).split(os.sep)
     for d in dirs:
         if d != ".":
             item.add_marker(d)
