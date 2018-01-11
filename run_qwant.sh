@@ -33,7 +33,18 @@ call_pytest() {
 
     pytest $DIR --api-url ${API_URL} -k "$SELECTOR" --loose-compare --save-report=$OUTPUT_DIR/$TEST_NAME.txt --tb=short > $LOG_FILE
 
-    echo -e "summary for $TEST_NAME " $(grep '=======' $LOG_FILE | grep seconds) | tee -a $GLOBAL_LOG
+    line_result=$(grep '===' $LOG_FILE | grep seconds)
+    echo "summary for $TEST_NAME " $(line_result) | tee -a $GLOBAL_LOG
+
+    echo "${line_result}" | grep "failed"
+    if [ $? -eq 0 ]; then
+        ratio_str=$(echo $line_result | sed -r 's#.* ([0-9]+) failed.* ([0-9]+) passed.*#scale=2;\2/(\1+\2)#g')
+        ratio=$(echo $ratio_str | bc -l)
+        total=$(echo $line_result | sed -r 's#.* ([0-9]+) failed.* ([0-9]+) passed.*#\1+\2#g' | bc)
+        # seconds=$(echo $line_result | sed -r 's#.*in (.*) seconds.*#\1#g')
+
+        echo -e "++++++++++ result $TEST_NAME: ${ratio#.}% (/) (/$total)" | tee -a $GLOBAL_LOG
+    fi
 }
 
 call_all() {
