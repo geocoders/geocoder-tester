@@ -1,0 +1,16 @@
+comment;query;lang;expected_housenumber;expected_street;expected_city
+"housenumber search with not existing suffix /\\d+[A-Z]/ should at least return numeral";Lister Meile 29D Hannover;de;29;Lister Meile;Hannover
+"housenumber search with not existing suffix /\\d+ [A-Z]/ should at least return numeral";Lister Meile 29 D Hannover;de;29;Lister Meile;Hannover
+"housenumber search with not existing suffix /\\d+ [A-Z]/ could return different suffix if type-ahead is meaningful";Lister Meile 29 C Hannover;de;29a;Lister Meile;Hannover
+"housenumber with pattern /\\d+/ in osm and /\\d+/ requested";Lister Meile 29 Hannover;de;29;Lister Meile;Hannover
+"housenumber with pattern /\\d+[A-Z]/ in osm and /\\d+[A-Z]/ requested";Osterstr. 42A Hannover;de;42A;Osterstraße;Hannover
+"housenumber with pattern /\\d+[A-Z]/ in osm and /\\d+[a-z]/ requested";Osterstr. 42a Hannover;de;42A;Osterstraße;Hannover
+"housenumber with pattern /\\d+[A-Z]/ in osm and /\\d+ [A-Z]/ requested";Osterstr. 42 A Hannover;de;42A;Osterstraße;Hannover
+"housenumber with pattern /\\d+[A-Z]/ in osm and /\\d+ [a-z]/ requested";Osterstr. 42 a Hannover;de;42A;Osterstraße;Hannover
+"housenumber with pattern /\\d+ [A-Z]/ in osm and /\\d+ [A-Z]/ requested";Bruchshöfenstraße 1 A Nordstemmen;de;1 A;Bruchshöfenstraße;Nordstemmen
+"housenumber with pattern /\\d+ [A-Z]/ in osm and /\\d+ [a-z]/ requested";Bruchshöfenstraße 1 a Nordstemmen;de;1 A;Bruchshöfenstraße;Nordstemmen
+"housenumber with pattern /\\d+ [A-Z]/ in osm and /\\d+[A-Z]/ requested";Bruchshöfenstraße 1A Nordstemmen;de;1 A;Bruchshöfenstraße;Nordstemmen
+"housenumber with pattern /\\d+/ in osm and /\\d+/ requested";Anderter Straße 1 Hannover;de;1;Anderter Straße;Hannover
+"housenumber with pattern /\\d+-\\d+/ in osm and /\\d+-\\d+/ requested";Anderter Straße 1-3 Hannover;de;1-3;Anderter Straße;Hannover
+"housenumber with pattern /\\d+-\\d+/ in osm and /\\d+ - \\d+/ requested";Anderter Straße 1 - 3 Hannover;de;1-3;Anderter Straße;Hannover
+"housenumber with pattern /\\d+ - \\d+/ in osm and /\\d+-\\d+/ requested";Backhausstraße 1-3 Schellerten;de;1 - 3;Backhausstraße;Schellerten
