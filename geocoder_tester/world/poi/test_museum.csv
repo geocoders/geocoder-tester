@@ -1,0 +1,425 @@
+query;limit;expected_coordinate;wikidata_item
+Museo Nazionale di Capodimonte;4;40.867,14.250528,500;http://www.wikidata.org/entity/Q290549
+National Museum of Ancient Art;4;38.704167,-9.161667,500;http://www.wikidata.org/entity/Q212459
+Château de Compiègne;4;49.41916667,2.83111111,500;http://www.wikidata.org/entity/Q516697
+National Motor Museum;4;50.822972222,-1.453555555,500;http://www.wikidata.org/entity/Q568785
+Rijksmuseum;4;52.359969,4.885325,500;http://www.wikidata.org/entity/Q190804
+Museo del Prado;4;40.413888888,-3.6925,500;http://www.wikidata.org/entity/Q160112
+National Folk Museum of Korea;4;37.581625,126.97909,500;http://www.wikidata.org/entity/Q486449
+National Museum in Damascus;4;33.51257222,36.29004444,500;http://www.wikidata.org/entity/Q617254
+Musée Rodin;4;48.855356,2.315819,500;http://www.wikidata.org/entity/Q650519
+Museo Nacional de Antropología mexico;4;19.42611,-99.18611,500;http://www.wikidata.org/entity/Q524249
+Tokyo National Museum;4;35.718889,139.775833,500;http://www.wikidata.org/entity/Q653433
+Pałac Biskupów Krakowskich;4;50.86916667,20.6275,500;http://www.wikidata.org/entity/Q586771
+National Museum of Singapore;4;1.29672,103.849,500;http://www.wikidata.org/entity/Q632689
+Museum Wiesbaden;4;50.0775,8.245833,500;http://www.wikidata.org/entity/Q316514
+National Museum of Denmark;4;55.674722,12.574722,500;http://www.wikidata.org/entity/Q648166
+Reggia di Caserta;4;41.07,14.325833333,500;http://www.wikidata.org/entity/Q327983
+Museo preistorico etnografico Luigi Pigorini;4;41.83222222,12.47138889,500;http://www.wikidata.org/entity/Q304735
+Gyeongju National Museum;4;35.82898333,129.22836111,500;http://www.wikidata.org/entity/Q390124
+Turkish and Islamic Arts Museum;4;41.006278,28.974556,500;http://www.wikidata.org/entity/Q525939
+Alte Pinakothek;4;48.148333,11.57,500;http://www.wikidata.org/entity/Q154568
+National Museum of Science and Technology;4;59.3325,18.11861111,500;http://www.wikidata.org/entity/Q177550
+Buyeo National Museum;4;36.276357,126.918843,500;http://www.wikidata.org/entity/Q626550
+Pompeii;4;40.750556,14.489722,500;http://www.wikidata.org/entity/Q43332
+Nairobi Railway Museum;4;-1.29305556,36.8225,500;http://www.wikidata.org/entity/Q611606
+National Museum of Ethnology;4;34.81286111,135.5296833,500;http://www.wikidata.org/entity/Q147157
+Gwacheon National Science Museum;4;37.4388,127.0047,500;http://www.wikidata.org/entity/Q625624
+Zhōngguó měishùguǎn;4;39.92429167,116.40929444,500;http://www.wikidata.org/entity/Q233705
+ Bayerisches Nationalmuseum;4;48.1432,11.591,500;http://www.wikidata.org/entity/Q631056
+National Museum of Bosnia and Herzegovina;4;43.85498951,18.40264142,500;http://www.wikidata.org/entity/Q568938
+National Palace Museum of Korea;4;37.57666667,126.97527778,500;http://www.wikidata.org/entity/Q335998
+Palatine Hill;4;41.888333333,12.486944444,500;http://www.wikidata.org/entity/Q200642
+Israel Museum;4;31.772361,35.2045,500;http://www.wikidata.org/entity/Q46815
+National Archaeological Museum;4;37.989167,23.7325,500;http://www.wikidata.org/entity/Q637187
+Gongju National Museum;4;36.465481,127.112161,500;http://www.wikidata.org/entity/Q626654
+Miramare;4;45.7025,13.7125,500;http://www.wikidata.org/entity/Q165069
+Fort Zoutman;4;12.5178,-70.0357,500;http://www.wikidata.org/entity/Q610796
+Huis Doorn;4;52.031389,5.338611,500;http://www.wikidata.org/entity/Q559460
+ İstanbul Arkeoloji Müzesi;4;41.011667,28.981389,500;http://www.wikidata.org/entity/Q636978
+Questacon;4;-35.29805556,149.13138889,500;http://www.wikidata.org/entity/Q497181
+Deutsches Museum;4;48.13,11.583333333,500;http://www.wikidata.org/entity/Q131617
+musée du quai Branly;4;48.860833333,2.2975,500;http://www.wikidata.org/entity/Q167863
+Ethnographic Museum;4;47.507806,19.048417,500;http://www.wikidata.org/entity/Q636088
+Museo archeologico di Napoli;4;40.853377777,14.250486111,500;http://www.wikidata.org/entity/Q637248
+Hadrian's Villa;4;41.941944,12.775278,500;http://www.wikidata.org/entity/Q272777
+Neue Pinakothek;4;48.149722,11.571111,500;http://www.wikidata.org/entity/Q170152
+Hungarian Railway Museum;4;47.541944444,19.097777777,500;http://www.wikidata.org/entity/Q573257
+National Dinosaur Museum;4;-35.1943,149.088,500;http://www.wikidata.org/entity/Q494881
+Gibraltar Museum;4;36.139,-5.3544,500;http://www.wikidata.org/entity/Q130775
+Museo Nacional Centro de Arte Reina Sofía;4;40.408888888,-3.694444444,500;http://www.wikidata.org/entity/Q460889
+Glyptothek;4;48.146389,11.565833,500;http://www.wikidata.org/entity/Q162077
+Pinakothek der Moderne;4;48.146944,11.572222,500;http://www.wikidata.org/entity/Q250195
+Kyushu National Museum;4;33.51835556,130.53829722,500;http://www.wikidata.org/entity/Q148543
+Museo Nacional de Colombia;4;4.615501,-74.068301,500;http://www.wikidata.org/entity/Q671264
+Aqaba Archaeological Museum;4;29.52166667,35.00138889,500;http://www.wikidata.org/entity/Q584088
+National Museum of Romanian History;4;44.43153056,26.097225,500;http://www.wikidata.org/entity/Q179283
+Kyoto National Museum;4;34.990022,135.772972,500;http://www.wikidata.org/entity/Q147286
+National Palace Museum;4;25.101944444,121.548611111,500;http://www.wikidata.org/entity/Q540668
+National Science Museum, South Korea;4;36.376155,127.375071,500;http://www.wikidata.org/entity/Q487077
+Mauritshuis;4;52.080278,4.314167,500;http://www.wikidata.org/entity/Q221092
+Baths of Caracalla;4;41.879444,12.493056,500;http://www.wikidata.org/entity/Q502098
+National Museum of Iraq;4;33.3283,44.3854,500;http://www.wikidata.org/entity/Q521251
+Naturalis;4;52.16472222,4.47333333,500;http://www.wikidata.org/entity/Q641676
+Bangladesh National Museum;4;23.7375,90.3945,500;http://www.wikidata.org/entity/Q51876
+Museo Nazionale della Magna Grecia;4;38.11472222,15.65111111,500;http://www.wikidata.org/entity/Q519204
+Natural History Museum;4;51.496111111,-0.176111111,500;http://www.wikidata.org/entity/Q309388
+National Museum of Sudan;4;15.606,32.508,500;http://www.wikidata.org/entity/Q643453
+Egyptian Museum;4;30.047778,31.233333,500;http://www.wikidata.org/entity/Q201219
+National Railroad Museum;4;44.484091666,-88.048644444,500;http://www.wikidata.org/entity/Q441849
+Germanisches Nationalmuseum;4;49.448333,11.075556,500;http://www.wikidata.org/entity/Q478695
+Nara National Museum;4;34.6837,135.8364,500;http://www.wikidata.org/entity/Q147312
+Centre Georges Pompidou;4;48.860653,2.352411,500;http://www.wikidata.org/entity/Q178065
+National Museum in Warsaw;4;52.23176111,21.02476667,500;http://www.wikidata.org/entity/Q153306
+Þjóðminjasafn Íslands;4;64.141902,-21.948111,500;http://www.wikidata.org/entity/Q626963
+Canadian Museum for Human Rights;4;49.8908,-97.131,500;http://www.wikidata.org/entity/Q630212
+Hungarian National Gallery;4;47.49611111,19.03972222,500;http://www.wikidata.org/entity/Q252071
+Museo Egizio;4;45.068333333,7.684444444,500;http://www.wikidata.org/entity/Q19877
+Staatliche Sammlung für Ägyptische Kunst;4;48.1473,11.5685,500;http://www.wikidata.org/entity/Q464872
+Louvre;4;48.861088888,2.33575,500;http://www.wikidata.org/entity/Q19675
+Reggia di Venaria Reale;4;45.1362,7.62644,500;http://www.wikidata.org/entity/Q19838
+Anıtkabir;4;39.925555555,32.8375,500;http://www.wikidata.org/entity/Q615404
+Villa Livia;4;42.00263,12.49187,500;http://www.wikidata.org/entity/Q639179
+Muzeum Narodowe w Krakowie;4;50.06027778,19.92361111,500;http://www.wikidata.org/entity/Q195311
+National Museum of Korea;4;37.52334167,126.97970278,500;http://www.wikidata.org/entity/Q494407
+Vatican Museums;4;41.906388888,12.454444444,500;http://www.wikidata.org/entity/Q182955
+Herculaneum;4;40.806111,14.3475,500;http://www.wikidata.org/entity/Q178813
+National Museum of Cambodia;4;11.5658,104.929,500;http://www.wikidata.org/entity/Q1929750
+Imperial Museum of Brazil;4;-22.50813889,-43.17522222,500;http://www.wikidata.org/entity/Q1887049
+château d'Écouen;4;49.0175,2.378333333,500;http://www.wikidata.org/entity/Q1817122
+Slot Loevestein;4;51.816389,5.021389,500;http://www.wikidata.org/entity/Q2177577
+National Gallery of Ireland;4;53.34091,-6.25255,500;http://www.wikidata.org/entity/Q2018379
+Archaeological Park of Urbs Salvia;4;43.1981,13.3853,500;http://www.wikidata.org/entity/Q2372655
+Welsh Slate Museum;4;53.1209,-4.11516,500;http://www.wikidata.org/entity/Q1967708
+National Museum of Eritrea;4;15.333401,38.927221,500;http://www.wikidata.org/entity/Q1968666
+Swedish Museum of National Antiquities;4;59.334722222,18.090277777,500;http://www.wikidata.org/entity/Q1726607
+National Museum of Colombo;4;6.91,79.9275,500;http://www.wikidata.org/entity/Q2033487
+Rijksmuseum van Oudheden;4;52.158333,4.485833,500;http://www.wikidata.org/entity/Q1860378
+Nederlands Scheepvaartmuseum;4;52.371389,4.914722,500;http://www.wikidata.org/entity/Q1616123
+National Museum of Prehistory;4;22.760277777,121.091666666,500;http://www.wikidata.org/entity/Q1540258
+Togo National Museum;4;6.130482,1.217473,500;http://www.wikidata.org/entity/Q1960688
+National Museum of Ghana;4;5.55667,-0.207778,500;http://www.wikidata.org/entity/Q1967472
+Niavaran Palace Complex;4;35.810833333,51.471666666,500;http://www.wikidata.org/entity/Q1984633
+Singapore Art Museum;4;1.29734,103.851,500;http://www.wikidata.org/entity/Q2032637
+National Museum of Rural Life;4;55.775388888,-4.221333333,500;http://www.wikidata.org/entity/Q1967487
+MAXXI museo;4;41.92807,12.46648,500;http://www.wikidata.org/entity/Q1881229
+Kunstmuseum Liechtenstein;4;47.139444444,9.5225,500;http://www.wikidata.org/entity/Q1792561
+Guólì Táiwān Wénxuéguǎn;4;22.992,120.2046,500;http://www.wikidata.org/entity/Q2422289
+Narodni muzej Crne Gore;4;42.38638889,18.925,500;http://www.wikidata.org/entity/Q2265459
+Red Castle Museum;4;32.89583333,13.18027778,500;http://www.wikidata.org/entity/Q2498401
+Salar Jung Museum;4;17.371426,78.480347,500;http://www.wikidata.org/entity/Q1864572
+Museo Nacional de Bellas Artes;4;-34.58405556,-58.39280556,500;http://www.wikidata.org/entity/Q1848918
+Galleria Nazionale d'Arte Antica;4;41.90351,12.49021,500;http://www.wikidata.org/entity/Q2266081
+Pinacoteca Nazionale;4;43.315624,11.330517,500;http://www.wikidata.org/entity/Q2095405
+Gambia National Museum;4;13.45638889,-16.57638889,500;http://www.wikidata.org/entity/Q1967468
+Lithuanian Art Museum;4;54.68083333,25.29,500;http://www.wikidata.org/entity/Q1865041
+National Historical Museum;4;41.329167,19.816944,500;http://www.wikidata.org/entity/Q1581154
+Tajikistan National Museum;4;38.5634,68.7991,500;http://www.wikidata.org/entity/Q1962119
+Musée de Nouakchott;4;18.08555556,-15.97472222,500;http://www.wikidata.org/entity/Q2370438
+Dubai Museum;4;25.263056,55.297222,500;http://www.wikidata.org/entity/Q2125281
+National Library of Ireland;4;53.341111111,-6.254444444,500;http://www.wikidata.org/entity/Q1672830
+National Museum of Yemen;4;12.779413,45.042538,500;http://www.wikidata.org/entity/Q1837324
+Château de Wiltz;4;49.966666666,5.938805555,500;http://www.wikidata.org/entity/Q2244220
+Museo di Palazzo Mansi;4;43.84361111,10.49916667,500;http://www.wikidata.org/entity/Q2219262
+Rashtriya Sangrahalaya;4;27.705605,85.289011,500;http://www.wikidata.org/entity/Q2157355
+Mūze-ye Melli-ye Irān;4;35.687044,51.414611,500;http://www.wikidata.org/entity/Q1631008
+Racławice Panorama;4;51.11013889,17.04458333,500;http://www.wikidata.org/entity/Q1753248
+National Museum of Costume;4;54.9832,-3.62583,500;http://www.wikidata.org/entity/Q1967480
+musée Gustave-Moreau;4;48.878,2.33436,500;http://www.wikidata.org/entity/Q2296362
+National Museum of Ireland;4;53.33972222,-6.25333333,500;http://www.wikidata.org/entity/Q1672840
+Chiang Mai National Museum;4;18.811302,98.976715,500;http://www.wikidata.org/entity/Q1642767
+Swedish Railway Museum;4;60.6615,17.1727,500;http://www.wikidata.org/entity/Q1787641
+musée national Eugène-Delacroix;4;48.8546,2.3354,500;http://www.wikidata.org/entity/Q1782606
+National Museum of Scotland;4;55.947222222,-3.189722222,500;http://www.wikidata.org/entity/Q1633842
+Israel Railway Museum;4;32.811191666,35.006711111,500;http://www.wikidata.org/entity/Q1674686
+Villa Atma;4;49.29233889,19.94845,500;http://www.wikidata.org/entity/Q1734162
+National Museum of Pakistan;4;24.853,67.018,500;http://www.wikidata.org/entity/Q1967486
+Palazzo Reale;4;44.414905555,8.926141666,500;http://www.wikidata.org/entity/Q1514006
+National Museum of Lithuania;4;54.687222,25.289167,500;http://www.wikidata.org/entity/Q1790447
+Palacio Nacional mexico;4;19.4325,-99.13111,500;http://www.wikidata.org/entity/Q1517884
+Villa Jovis;4;40.55833333,14.26222222,500;http://www.wikidata.org/entity/Q2165460
+Sa'dabad Palace;4;35.817252,51.423451,500;http://www.wikidata.org/entity/Q1969012
+Museu Nacional de Belas Artes;4;-22.90876944,-43.17570556,500;http://www.wikidata.org/entity/Q1954370
+National Museum, Gdańsk;4;54.345425,18.64691389,500;http://www.wikidata.org/entity/Q1968661
+musée d'Ennery;4;48.871666666,2.281388888,500;http://www.wikidata.org/entity/Q1579504
+Nasonal Miusium blong Vanuatu;4;-17.7452,168.318,500;http://www.wikidata.org/entity/Q1835708
+National Museum of Slovenia;4;46.05194444,14.49972222,500;http://www.wikidata.org/entity/Q2033282
+Royal Air Force Museum London;4;51.598888888,-0.238611111,500;http://www.wikidata.org/entity/Q1890450
+Irish Museum of Modern Art;4;53.3429,-6.3,500;http://www.wikidata.org/entity/Q1538285
+Kuwait National Museum;4;29.37305556,47.96666667,500;http://www.wikidata.org/entity/Q2498040
+Nakhon Si Thammarat National Museum;4;8.40037544,99.9701786,500;http://www.wikidata.org/entity/Q1968675
+musée national Jean-Jacques Henner;4;48.88294723,2.30781916,500;http://www.wikidata.org/entity/Q1955698
+National Museum Mali;4;12.658632,-7.999298,500;http://www.wikidata.org/entity/Q1867505
+Musée national d'Oman;4;23.6115826,58.5937595,500;http://www.wikidata.org/entity/Q2158194
+National Museum of Australia;4;-35.2931,149.121,500;http://www.wikidata.org/entity/Q1967496
+Muiderslot;4;52.334231,5.071806,500;http://www.wikidata.org/entity/Q2426916
+Kazakhstan National Museum of Instruments;4;43.2594,76.9569,500;http://www.wikidata.org/entity/Q2498214
+National Sculpture Museum;4;41.6569,-4.72361,500;http://www.wikidata.org/entity/Q1581475
+Rijksmuseum Twenthe;4;52.227778,6.896944,500;http://www.wikidata.org/entity/Q1505892
+Latvijas Nacionālais vēstures muzejs;4;56.95083333,24.10138889,500;http://www.wikidata.org/entity/Q1781530
+Bronbeek;4;51.99472,5.95,500;http://www.wikidata.org/entity/Q1948006
+Zayed National Museum;4;24.53456,54.4188,500;http://www.wikidata.org/entity/Q2349145
+Oorlogs- en Verzetsmuseum;4;51.570555555,5.956944444,500;http://www.wikidata.org/entity/Q1823028
+Chiang Mai National Museum;4;18.81152964,98.9762485,500;http://www.wikidata.org/entity/Q1642767
+Museo Nacional de Costa Rica;4;9.9327356,-84.0714387,500;http://www.wikidata.org/entity/Q1968698
+musée de l'Armée;4;48.85694444,2.31277778,500;http://www.wikidata.org/entity/Q1996069
+Maritime Museum;4;59.3325,18.11583333,500;http://www.wikidata.org/entity/Q1647895
+Zambaccian Museum;4;44.46085,26.091,500;http://www.wikidata.org/entity/Q1956195
+Hargeisa Provincial Museum;4;9.56194,44.0725,500;http://www.wikidata.org/entity/Q2033251
+Royal Coin Cabinet;4;59.32619,18.0729,500;http://www.wikidata.org/entity/Q1750428
+Musée National des Mines;4;49.46138889,6.02666667,500;http://www.wikidata.org/entity/Q2264492
+National Gallery of Jamaica;4;17.9648,-76.7947,500;http://www.wikidata.org/entity/Q2498011
+Musée de Cluny;4;48.850555555,2.343333333,500;http://www.wikidata.org/entity/Q1124095
+Bardo National Museum;4;36.809386,10.134508,500;http://www.wikidata.org/entity/Q1429003
+Poster Museum at Wilanów;4;52.16430556,21.08817778,500;http://www.wikidata.org/entity/Q1127288
+Szolnoki Repülőmúzeum;4;47.13138889,20.21972222,500;http://www.wikidata.org/entity/Q1162213
+National Museum of Finland;4;60.17501067,24.93145467,500;http://www.wikidata.org/entity/Q1418136
+Hungarian Natural History Museum;4;47.48222222,19.08555556,500;http://www.wikidata.org/entity/Q778686
+Australian War Memorial;4;-35.2805,149.1491,500;http://www.wikidata.org/entity/Q782783
+Palazzo Ducale;4;43.72411,12.63647,500;http://www.wikidata.org/entity/Q1267721
+Museum of Malawi;4;-15.80330556,35.03847222,500;http://www.wikidata.org/entity/Q1488889
+Canadian Museum of History;4;45.429722222,-75.708888888,500;http://www.wikidata.org/entity/Q1032269
+Danish Railway Museum;4;55.4029,10.3863,500;http://www.wikidata.org/entity/Q1138285
+National Museum, New Delhi;4;28.611811,77.219262,500;http://www.wikidata.org/entity/Q1356138
+Australian National Maritime Museum;4;-33.8692,151.199,500;http://www.wikidata.org/entity/Q844329
+National Museum of Serbia;4;44.8167,20.4594,500;http://www.wikidata.org/entity/Q1277393
+921 Earthquake Museum of Taiwan;4;24.0436,120.699,500;http://www.wikidata.org/entity/Q698241
+National Museum of San Matteo;4;43.71453333,10.40761389,500;http://www.wikidata.org/entity/Q1081881
+musée de l'Orangerie;4;48.863833,2.32225,500;http://www.wikidata.org/entity/Q726781
+The National Museum of Modern Art, Tokyo;4;35.690553,139.754642,500;http://www.wikidata.org/entity/Q1359908
+Museum of Anatolian Civilizations;4;39.938333,32.861944,500;http://www.wikidata.org/entity/Q754322
+Antalya Museum;4;36.8856,30.6797,500;http://www.wikidata.org/entity/Q843241
+National Gallery of Canada;4;45.429434,-75.698386,500;http://www.wikidata.org/entity/Q1068063
+Nederlands Spoorwegmuseum;4;52.087222,5.131389,500;http://www.wikidata.org/entity/Q847166
+National Museum of Marine Biology and Aquarium;4;22.046485,120.697678,500;http://www.wikidata.org/entity/Q697507
+Brukenthal National Museum;4;45.7965,24.15061111,500;http://www.wikidata.org/entity/Q850207
+Nigerian National Museum;4;6.444404,3.403273,500;http://www.wikidata.org/entity/Q1311732
+Dutch Resistance Museum;4;52.3677,4.91274,500;http://www.wikidata.org/entity/Q828307
+National Museum Cardiff;4;51.485646,-3.177259,500;http://www.wikidata.org/entity/Q1321874
+Slovak National Museum;4;48.140228,17.112933,500;http://www.wikidata.org/entity/Q1093925
+National Archaeological Museum of Spain;4;40.423645,-3.689422,500;http://www.wikidata.org/entity/Q1352282
+Hungarian National Museum;4;47.491111,19.062778,500;http://www.wikidata.org/entity/Q914141
+Canada Aviation and Space Museum;4;45.4577,-75.6429,500;http://www.wikidata.org/entity/Q1031932
+Chilean National Museum of Fine Arts;4;-33.435322,-70.643569,500;http://www.wikidata.org/entity/Q775376
+Muséum national d'histoire naturelle;4;48.8421,2.3562,500;http://www.wikidata.org/entity/Q838691
+National Museum of Saudi Arabia;4;24.6472,46.7108,500;http://www.wikidata.org/entity/Q1343912
+Musée de l'Air;4;48.947146,2.434915,500;http://www.wikidata.org/entity/Q1189955
+Villa dei Quintili;4;41.83027778,12.55111111,500;http://www.wikidata.org/entity/Q1235515
+National Army Museum;4;51.4861,-0.16,500;http://www.wikidata.org/entity/Q731616
+National Museum of China;4;39.903333,116.394444,500;http://www.wikidata.org/entity/Q1074318
+Cité du train;4;47.750556,7.293889,500;http://www.wikidata.org/entity/Q728562
+Museo ferroviario di Pietrarsa;4;40.8217,14.3205,500;http://www.wikidata.org/entity/Q832707
+Museo archeologico nazionale di Cagliari;4;39.221944,9.116944,500;http://www.wikidata.org/entity/Q1151133
+musée Picasso;4;48.859730555,2.362438888,500;http://www.wikidata.org/entity/Q743206
+Canada Science and Technology Museum;4;45.4033,-75.6203,500;http://www.wikidata.org/entity/Q1163464
+Al Ain National Museum;4;24.216008333,55.773897222,500;http://www.wikidata.org/entity/Q1052105
+National Museum of Military History;4;42.68839722,23.35071111,500;http://www.wikidata.org/entity/Q1066518
+Bahrain National Museum;4;26.2415,50.5975,500;http://www.wikidata.org/entity/Q869788
+Museo Nacional de Arte;4;19.436348,-99.139493,500;http://www.wikidata.org/entity/Q1138147
+Kremlin Armoury;4;55.74954306,37.61340611,500;http://www.wikidata.org/entity/Q1304121
+Crich Tramway Village;4;53.0893,-1.48632,500;http://www.wikidata.org/entity/Q840246
+Carpet Museum of Iran;4;35.7142,51.3908,500;http://www.wikidata.org/entity/Q970335
+National Gallery of Australia;4;-35.300368,149.136786,500;http://www.wikidata.org/entity/Q795228
+National Museum in Wrocław;4;51.111,17.0475,500;http://www.wikidata.org/entity/Q1329563
+Pinacoteca Nazionale di Bologna;4;44.49778,11.35333,500;http://www.wikidata.org/entity/Q1103550
+Musée national de la Marine;4;48.86197624,2.28798866,500;http://www.wikidata.org/entity/Q1286709
+Templo Mayor;4;19.435,-99.131389,500;http://www.wikidata.org/entity/Q774021
+Guimet Museum;4;48.86508333,2.293694444,500;http://www.wikidata.org/entity/Q860994
+Het Loo Palace;4;52.234167,5.945833,500;http://www.wikidata.org/entity/Q692381
+Risorgimento Museum;4;45.0691061,7.6851585,500;http://www.wikidata.org/entity/Q1062079
+Hong Kong Space Museum;4;22.2944,114.172,500;http://www.wikidata.org/entity/Q1144740
+Nationalmuseum;4;59.328611111,18.077777777,500;http://www.wikidata.org/entity/Q842858
+National Museum of Malaysia;4;3.138096,101.686728,500;http://www.wikidata.org/entity/Q917630
+State Historical Museum;4;55.755277777,37.617777777,500;http://www.wikidata.org/entity/Q1140429
+Galleria Estense;4;44.64825,10.92066,500;http://www.wikidata.org/entity/Q774128
+Liberian National Museum;4;6.31652778,-10.80380556,500;http://www.wikidata.org/entity/Q1345859
+National Rail Museum, New Delhi;4;28.584833,77.181428,500;http://www.wikidata.org/entity/Q1138924
+Norwegian Railway Museum;4;60.7975,11.035,500;http://www.wikidata.org/entity/Q1188798
+German Museum of Technology;4;52.498611111,13.3775,500;http://www.wikidata.org/entity/Q706530
+National Museum of Oriental Art;4;41.894462,12.500445,500;http://www.wikidata.org/entity/Q1318133
+Museo Nazionale Romano;4;41.90138889,12.49833333,500;http://www.wikidata.org/entity/Q1135392
+National Taiwan Museum;4;25.042752777,121.515038888,500;http://www.wikidata.org/entity/Q706692
+Indian Museum;4;22.558055555,88.350833333,500;http://www.wikidata.org/entity/Q1364900
+National Museum Zurich;4;47.379166666,8.539722222,500;http://www.wikidata.org/entity/Q691896
+Swedish Museum of Natural History;4;59.368889,18.053611,500;http://www.wikidata.org/entity/Q1420103
+Museum of New Zealand Te Papa Tongarewa;4;-41.2905,174.7821,500;http://www.wikidata.org/entity/Q915603
+Galleria Nazionale d'Arte Moderna e Contemporanea;4;41.916944,12.481944,500;http://www.wikidata.org/entity/Q1492387
+Kröller-Müller Museum;4;52.095833333,5.816944444,500;http://www.wikidata.org/entity/Q1051928
+Swedish Air Force Museum;4;58.41,15.523611111,500;http://www.wikidata.org/entity/Q1434569
+Muzeum Książąt Czartoryskich w Krakowie;4;50.064918,19.939566,500;http://www.wikidata.org/entity/Q1450630
+Latvian National Museum of Art;4;56.956278,24.112522,500;http://www.wikidata.org/entity/Q1370465
+Victoria Memorial;4;22.5449,88.3425,500;http://www.wikidata.org/entity/Q1356352
+Museo Nazionale Alinari della Fotografia;4;43.772997,11.249214,500;http://www.wikidata.org/entity/Q1075580
+Canadian Museum of Nature;4;45.41266,-75.68875,500;http://www.wikidata.org/entity/Q1032232
+National Museum of Art, Osaka;4;34.691786,135.492024,500;http://www.wikidata.org/entity/Q1055037
+Sèvres - Cité de la céramique;4;48.8286,2.22306,500;http://www.wikidata.org/entity/Q767164
+National Museum Soares dos Reis;4;41.14770833,-8.62155,500;http://www.wikidata.org/entity/Q1141468
+National Archaeological Museum;4;42.69633056,23.32456389,500;http://www.wikidata.org/entity/Q1497827
+Canadian War Museum;4;45.417156,-75.716829,500;http://www.wikidata.org/entity/Q1032442
+Cyprus Museum;4;35.17166667,33.35527778,500;http://www.wikidata.org/entity/Q1148462
+Estonian National Museum;4;58.395468055,26.745138888,500;http://www.wikidata.org/entity/Q1370397
+Netherlands Open Air Museum;4;52.009444,5.906389,500;http://www.wikidata.org/entity/Q674449
+National Museum of Indonesia;4;-6.176111,106.821667,500;http://www.wikidata.org/entity/Q1467125
+Cité des Sciences et de l'Industrie;4;48.895556,2.388056,500;http://www.wikidata.org/entity/Q1094338
+Australian War Memorial;4;-35.280815,149.148707,500;http://www.wikidata.org/entity/Q782783
+Baths of Diocletian;4;41.90277778,12.49833333,500;http://www.wikidata.org/entity/Q836108
+National Museum of Art of Romania;4;44.43978,26.09598,500;http://www.wikidata.org/entity/Q1319192
+Greenland National Museum;4;64.1772,-51.7462,500;http://www.wikidata.org/entity/Q3117388
+Grand Palais;4;48.866566666,2.311561111,500;http://www.wikidata.org/entity/Q3094695
+Chuncheon National Museum;4;37.8641,127.7537,500;http://www.wikidata.org/entity/Q5116242
+Earth and Man National Museum;4;42.67972222,23.32055556,500;http://www.wikidata.org/entity/Q5327147
+Dajing Ge Pavilion;4;31.2265,121.479,500;http://www.wikidata.org/entity/Q5209879
+National Gandhi Museum;4;29.07444,77.41611,500;http://www.wikidata.org/entity/Q2991098
+Brunei Museum;4;4.885361111,114.968638888,500;http://www.wikidata.org/entity/Q2756903
+National Museum of Kandy;4;7.29472,80.6408,500;http://www.wikidata.org/entity/Q3533580
+Musée national des douanes;4;44.840907,-0.569774,500;http://www.wikidata.org/entity/Q3330717
+Georgian National Museum;4;41.696059444,44.800178055,500;http://www.wikidata.org/entity/Q2586798
+musée Magnin;4;47.321,5.04226,500;http://www.wikidata.org/entity/Q3329260
+Canadian Children's Museum;4;45.4292,-75.7089,500;http://www.wikidata.org/entity/Q3329520
+Big Pit National Coal Museum;4;51.7724,-3.105,500;http://www.wikidata.org/entity/Q4906133
+Australian National Aviation Museum;4;-37.9767,145.091,500;http://www.wikidata.org/entity/Q4824444
+Canadian Postal Museum;4;45.4297,-75.7089,500;http://www.wikidata.org/entity/Q3329522
+National Museum of Ethiopia;4;9.03833,38.7619,500;http://www.wikidata.org/entity/Q2652168
+Burundi National Museum;4;-3.418236,29.908485,500;http://www.wikidata.org/entity/Q2688645
+Musée National de Guinée;4;9.5047,-13.709,500;http://www.wikidata.org/entity/Q2586343
+Rijksmuseum van Natuurlijke Historie;4;52.15833333,4.48583333,500;http://www.wikidata.org/entity/Q3432011
+Museo di Cividale del Friuli;4;46.0934,13.4322,500;http://www.wikidata.org/entity/Q3867697
+National Museum of Natural Science;4;24.1575,120.66638889,500;http://www.wikidata.org/entity/Q3847114
+Chad National Museum;4;12.125454,15.077433,500;http://www.wikidata.org/entity/Q2684769
+Museo de América;4;40.438131,-3.722069,500;http://www.wikidata.org/entity/Q2568412
+Haynes International Motor Museum;4;51.0355,-2.5655,500;http://www.wikidata.org/entity/Q5687074
+Galleria Spada;4;41.894194444,12.471944444,500;http://www.wikidata.org/entity/Q3757699
+Museo Nazionale d'Abruzzo;4;42.353689,13.405069,500;http://www.wikidata.org/entity/Q3328396
+Musée National d'Haïti;4;18.5264337,-72.3217706,500;http://www.wikidata.org/entity/Q2586490
+The main museum of Turkmenistan;4;37.885413888,58.349030555,500;http://www.wikidata.org/entity/Q4139208
+musée Hébert;4;48.84736,2.32264,500;http://www.wikidata.org/entity/Q3329213
+Galleria Nazionale dell'Umbria;4;43.1115627,12.3884514,500;http://www.wikidata.org/entity/Q2739127
+The Dominica Museum;4;15.2964,-61.3875,500;http://www.wikidata.org/entity/Q2652249
+AP State Archaeology Museum;4;17.385044,78.486671,500;http://www.wikidata.org/entity/Q4653501
+Musée de la Maison Bonaparte;4;41.9179,8.7383,500;http://www.wikidata.org/entity/Q3124818
+National Army Museum;4;-39.4804,175.6691,500;http://www.wikidata.org/entity/Q3330644
+National Museum in Szczecin;4;53.43,14.5648,500;http://www.wikidata.org/entity/Q2802195
+Gwangju National Museum;4;35.188956,126.883075,500;http://www.wikidata.org/entity/Q4896461
+musée Marc-Chagall;4;43.70916667,7.26953611,500;http://www.wikidata.org/entity/Q3329265
+New National Museum of Monaco;4;43.7328,7.41389,500;http://www.wikidata.org/entity/Q3345073
+Guyana National Museum;4;6.813611111,-58.1657,500;http://www.wikidata.org/entity/Q2586282
+Museum of Aviation;4;44.818888888,20.285277777,500;http://www.wikidata.org/entity/Q2539582
+Istanbul Aviation Museum;4;40.963862,28.825765,500;http://www.wikidata.org/entity/Q3394116
+Indira Gandhi Rashtriya Manav Sangrahalaya;4;23.232279,77.37761,500;http://www.wikidata.org/entity/Q6025006
+National Museum of Bhutan;4;27.42873,89.42556,500;http://www.wikidata.org/entity/Q4315025
+National Museum of History and Art;4;49.611944444,6.133055555,500;http://www.wikidata.org/entity/Q2585886
+Daegu National Museum;4;35.845839,128.637983,500;http://www.wikidata.org/entity/Q4896382
+Museo Archeologico Ostiense;4;41.7555889,12.287639,500;http://www.wikidata.org/entity/Q3867725
+National Showa Memorial Museum;4;35.69502778,139.75072222,500;http://www.wikidata.org/entity/Q3788883
+National Leprechaun Museum;4;53.347623,-6.266632,500;http://www.wikidata.org/entity/Q2811931
+National Maritime Museum in Gdańsk;4;54.351,18.659,500;http://www.wikidata.org/entity/Q4845346
+Great Palace Mosaic Museum;4;41.00444444,28.97666667,500;http://www.wikidata.org/entity/Q2719230
+Konya Ereğli Museum;4;37.51583,34.0473,500;http://www.wikidata.org/entity/Q6016927
+Jeonju National Museum;4;35.801,127.0897,500;http://www.wikidata.org/entity/Q4845795
+Museo Nacional de Antropología;4;40.407694,-3.688975,500;http://www.wikidata.org/entity/Q2917041
+National Museum of Chinese Writing;4;36.11237778,114.39383333,500;http://www.wikidata.org/entity/Q4306360
+Museo Storico Nazionale dell'Arte Sanitaria;4;41.9015389,12.462667,500;http://www.wikidata.org/entity/Q3868484
+Israeli National Maritime Museum;4;32.828944444,34.972302777,500;http://www.wikidata.org/entity/Q2904556
+National Media Museum;4;53.790556,-1.755556,500;http://www.wikidata.org/entity/Q3054692
+The National Museum of Computing;4;51.9985,-0.7435,500;http://www.wikidata.org/entity/Q2855072
+Cheongju National Museum;4;36.6493,127.5122,500;http://www.wikidata.org/entity/Q4896366
+Grão Vasco Museum;4;40.66015278,-7.91102778,500;http://www.wikidata.org/entity/Q5612742
+Air Force Museum of New Zealand;4;-43.5473,172.548,500;http://www.wikidata.org/entity/Q4697927
+Natural History Museum;4;53.33976,-6.252997,500;http://www.wikidata.org/entity/Q6033599
+Belize Archaeology Museum;4;17.246284,-88.772163,500;http://www.wikidata.org/entity/Q3083341
+Baratti and Populonia Archeological Park;4;42.9925,10.50055556,500;http://www.wikidata.org/entity/Q3363950
+Museo Nacional de Artes Decorativas;4;40.417911944,-3.689816944,500;http://www.wikidata.org/entity/Q5361303
+National Space Centre;4;52.6543,-1.13241,500;http://www.wikidata.org/entity/Q3873189
+Musée national des Arts et Traditions Populaires;4;48.87722222,2.26777778,500;http://www.wikidata.org/entity/Q3330726
+National Handicrafts and Handlooms Museum;4;28.613551,77.24232,500;http://www.wikidata.org/entity/Q3630755
+Cayman Islands National Museum;4;19.2941,-81.3827,500;http://www.wikidata.org/entity/Q2686650
+Institute for Protection of Cultural Monuments and National Museum;4;41.113138888,20.794583333,500;http://www.wikidata.org/entity/Q6039557
+National Museum of Taiwan History;4;23.060556,120.235833,500;http://www.wikidata.org/entity/Q3330712
+Turkish State Cemetery;4;39.936944444,32.807222222,500;http://www.wikidata.org/entity/Q2617627
+Musée national des douanes;4;44.841,-0.569814,500;http://www.wikidata.org/entity/Q3330717
+Canada Agriculture Museum;4;45.387766666,-75.709083333,500;http://www.wikidata.org/entity/Q4212098
+National Visual Arts Gallery;4;3.17353,101.705,500;http://www.wikidata.org/entity/Q3294835
+Museo Archeologico Ostiense;4;41.75559,12.28764,500;http://www.wikidata.org/entity/Q3867725
+Gimhae National Museum;4;35.2428,128.8734,500;http://www.wikidata.org/entity/Q5562690
+Museum of Macedonia;4;42.0025,21.43583333,500;http://www.wikidata.org/entity/Q3133557
+National Museum (Yangon);4;16.78861111,96.1425,500;http://www.wikidata.org/entity/Q2756611
+National Gallery of Iceland;4;64.14411111,-21.93925,500;http://www.wikidata.org/entity/Q3480309
+National Museum in Szczecin;4;53.43015,14.564588,500;http://www.wikidata.org/entity/Q2802195
+National Museum of Beirut;4;33.878219,35.514903,500;http://www.wikidata.org/entity/Q2915627
+CAPC musée d'art contemporain de Bordeaux;4;44.8481,-0.5718,500;http://www.wikidata.org/entity/Q2945071
+Museo nazionale d'arte medievale e moderna della Basilicata;4;40.663071,16.610134,500;http://www.wikidata.org/entity/Q3868416
+National Print Museum;4;53.3355,-6.2346,500;http://www.wikidata.org/entity/Q5804730
+National Art Gallery of The Bahamas;4;25.0754,-77.3473,500;http://www.wikidata.org/entity/Q2912593
+Sierra Leone National Museum;4;8.48669444,-13.23583889,500;http://www.wikidata.org/entity/Q3330698
+Palazzo Corsini;4;41.893327777,12.466586111,500;http://www.wikidata.org/entity/Q2517648
+Níngxià Bówùguǎn;4;38.485166,106.235146,500;http://www.wikidata.org/entity/Q27490888
+Sharjah Fort;4;25.3586,55.3864,500;http://www.wikidata.org/entity/Q18085720
+National Museum of Ethnology;4;52.16313,4.4825,500;http://www.wikidata.org/entity/Q17339437
+Ankara Hava Müzesi;4;39.943,32.7015,500;http://www.wikidata.org/entity/Q28220945
+Chángshā Bówùguǎn;4;28.248679,112.986445,500;http://www.wikidata.org/entity/Q28837838
+Royal Air Force Museum Cosford;4;52.644,-2.3115,500;http://www.wikidata.org/entity/Q7373617
+Reza Abbasi Museum;4;35.740775,51.446517,500;http://www.wikidata.org/entity/Q7319720
+National Horseracing Museum;4;52.2433,0.405,500;http://www.wikidata.org/entity/Q6973405
+Royal Elephant National Museum;4;13.773754,100.514447,500;http://www.wikidata.org/entity/Q7374139
+National Museum of Marine Science and Technology;4;25.14055556,121.79861111,500;http://www.wikidata.org/entity/Q8784491
+Turks and Caicos National Museum;4;21.4717,-71.1475,500;http://www.wikidata.org/entity/Q13525325
+Musée national de la Résistance;4;49.4924,5.976,500;http://www.wikidata.org/entity/Q6978080
+Portrait Gallery of Canada;4;45.4229,-75.6987,500;http://www.wikidata.org/entity/Q7232239
+National Museum of Ireland – Archaeology;4;53.340362,-6.254907,500;http://www.wikidata.org/entity/Q6974473
+Galleria dell'Accademia;4;43.77691,11.25848,500;http://www.wikidata.org/entity/Q10855544
+National Museum Machado de Castro;4;40.20879167,-8.42549444,500;http://www.wikidata.org/entity/Q6974439
+Jeju National Museum;4;33.5066,126.5557,500;http://www.wikidata.org/entity/Q6176560
+Museo del Romanticismo;4;40.425869,-3.698839,500;http://www.wikidata.org/entity/Q6974501
+Istanbul Naval Museum;4;41.04166667,29.00555556,500;http://www.wikidata.org/entity/Q11787082
+National Museum of Fine Arts;4;47.02833333,28.82555556,500;http://www.wikidata.org/entity/Q6974468
+National Taiwan Museum of Fine Arts;4;24.14138889,120.66361111,500;http://www.wikidata.org/entity/Q10927014
+Mersin Naval Museum;4;36.8063,34.6201,500;http://www.wikidata.org/entity/Q15917362
+Kosova National Art Gallery;4;42.6571,21.164,500;http://www.wikidata.org/entity/Q16334463
+National Etruscan Museum;4;41.918375,12.477657,500;http://www.wikidata.org/entity/Q15055388
+National Museum of Agriculture in Szreniawa;4;52.31611111,16.79777778,500;http://www.wikidata.org/entity/Q11787091
+Train World;4;50.8781,4.37944,500;http://www.wikidata.org/entity/Q14931504
+Museo Nacional de San Carlos;4;19.4382,-99.152,500;http://www.wikidata.org/entity/Q6940507
+Museo Nacional de Arqueología y Etnología;4;14.59761,-90.52956,500;http://www.wikidata.org/entity/Q6940495
+National Photographic Archive;4;53.345279,-6.265375,500;http://www.wikidata.org/entity/Q15261141
+National Museum of Contemporary Art;4;44.42803889,26.08700833,500;http://www.wikidata.org/entity/Q6963033
+National Museum of Costume and Fashion Monteiro-Mor Palace;4;38.775163,-9.164985,500;http://www.wikidata.org/entity/Q9047155
+Kosovo Museum;4;42.665679,21.166275,500;http://www.wikidata.org/entity/Q16854755
+National Museum of Underwater Archeology Cartagena;4;37.597777777,-0.980833333,500;http://www.wikidata.org/entity/Q9046882
+Grenada National Museum;4;12.05,-61.75,500;http://www.wikidata.org/entity/Q15222142
+National Polytechnical Museum Sofia;4;42.70405,23.31199,500;http://www.wikidata.org/entity/Q6974996
+National Waterfront Museum;4;51.61638889,-3.93861111,500;http://www.wikidata.org/entity/Q10994022
+Muzeum Broni Pancernej;4;52.432725,16.89094167,500;http://www.wikidata.org/entity/Q6944403
+Malik National Museum of Iran;4;35.687033,51.415394,500;http://www.wikidata.org/entity/Q6743603
+National Radio Museum Taiwan;4;23.56472222,120.42972222,500;http://www.wikidata.org/entity/Q10926809
+Galleria dell'Accademia;4;43.775917,11.258022,500;http://www.wikidata.org/entity/Q10855544
+National Motorcycle Museum;4;52.4444,-1.7069,500;http://www.wikidata.org/entity/Q6974400
+National Museum of History of Moldova;4;47.02361111,28.82666667,500;http://www.wikidata.org/entity/Q12736098
+Seized! The Border and Customs uncovered;4;53.4012,-2.9929,500;http://www.wikidata.org/entity/Q7447045
+National Roman Legion Museum;4;51.61005,-2.95529,500;http://www.wikidata.org/entity/Q6978140
+National Glyptotheque;4;37.98691111,23.77843611,500;http://www.wikidata.org/entity/Q6972907
+Muzeul Memoriei Neamului;4;47.02472222,28.8325,500;http://www.wikidata.org/entity/Q15260464
+Iziko South African Museum;4;-33.928641,18.415218,500;http://www.wikidata.org/entity/Q6102031
+Jinju National Museum;4;35.1888735,128.0768752,500;http://www.wikidata.org/entity/Q6202570
+Uffizi Gallery;4;43.7684,11.2559,500;http://www.wikidata.org/entity/Q16335227
+ASTRA Complexul Naţional Muzeal;4;45.797595,24.151031,500;http://www.wikidata.org/entity/Q12053061
+Museo Nacional y Centro de Investigación de Altamira;4;43.3774,-4.1225,500;http://www.wikidata.org/entity/Q6974445
+Ukrainian National Museum Chicago;4;41.8949,-87.6838,500;http://www.wikidata.org/entity/Q7878483
+Museo de la Máscara Mexico;4;22.150555555,-100.973888888,500;http://www.wikidata.org/entity/Q15961644
+National Transport Museum Ireland;4;53.386807,-6.081035,500;http://www.wikidata.org/entity/Q6979011
+National Gallery Singapore;4;1.29049,103.85186,500;http://www.wikidata.org/entity/Q6970475
+Museo Nacional de las Culturas;4;19.43326944,-99.13046389,500;http://www.wikidata.org/entity/Q6940503
+National Wool Museum;4;52.026,-4.399,500;http://www.wikidata.org/entity/Q6979452
+National Museum of Natural History;4;42.69568333,23.32846389,500;http://www.wikidata.org/entity/Q6974486
+Khon Kaen National Museum;4;16.44618,102.838643,500;http://www.wikidata.org/entity/Q15959888
+National Maritime Museum of Ireland;4;53.29222222,-6.13205556,500;http://www.wikidata.org/entity/Q6974254
+National Alpine Museum of Australia;4;-37.1452,146.449,500;http://www.wikidata.org/entity/Q6970324
+Museo Nazionale Tarquiniese;4;42.2536,11.7556,500;http://www.wikidata.org/entity/Q15961522
+Kosovo Museum;4;42.66555556,21.16611111,500;http://www.wikidata.org/entity/Q16854755
+National Museum of Ethnology;4;38.7048,-9.2085,500;http://www.wikidata.org/entity/Q6974467
+Kanjanaphisek National Museum;4;14.118935,100.619348,500;http://www.wikidata.org/entity/Q6363380
+Silpa Bhirasri National Museum;4;13.75277778,100.49083333,500;http://www.wikidata.org/entity/Q11308728
+Ramsar Palace;4;36.90305556,50.65833333,500;http://www.wikidata.org/entity/Q15078644
+Sukiennice Museum;4;50.0617,19.9372,500;http://www.wikidata.org/entity/Q7635861
+National Museum of Ireland – Decorative Arts and History;4;53.348367,-6.28581,500;http://www.wikidata.org/entity/Q6974474
+Maison des Lumières Denis Diderot;4;47.86683,5.334297,500;http://www.wikidata.org/entity/Q15056170
+National Museum of Flight;4;-27.47260,153.01849,500;http://www.wikidata.org/entity/Q11839325
