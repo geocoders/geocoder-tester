@@ -1,0 +1,11 @@
+comment;query;lat;lon;expected_name;expected_country;expected_postcode
+Hoyerswerda;Bautzener;51.440661;14.260983;Bautzener Allee;Germany;02977
+Dresden;Dresden;47.982568;7.844238;Dresden;Germany;
+Berlin;Erlanger;52.481944;13.431129;Erlanger Straße;Germany;12053
+Erlangen;Erlange;52.481944;13.431129;Erlangen;Germany;91052
+Bautzen;Bautzen;52.481944;13.431129;Bautzen;Germany;02625
+Berlin;Bautzener;52.481944;13.431129;Bautzener Platz;Germany;10829
+Berlin;Berlin;53.082606;8.798676;Berlin;Germany;10117
+Bremen;Berliner;53.082606;8.798676;Berliner Bär;Germany;28195
+Bremen;Bahnhof;53.094488;8.806057;Lloyd-Bahnhof;Germany;28215
+München;München;53.094488;8.806057;Munich;Germany;
