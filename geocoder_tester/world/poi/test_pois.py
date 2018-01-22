@@ -1,6 +1,7 @@
 import pytest
 
-from ..base import assert_search
+from ...base import assert_search
+
 
 
 @pytest.mark.germany
