@@ -18,6 +18,7 @@ CONFIG = {
     'FAILED': [],
 }
 
+http = requests.Session()
 
 class HttpSearchException(Exception):
 
@@ -105,7 +106,7 @@ class SearchException(Exception):
 
 
 def search(**params):
-    r = requests.get(CONFIG['API_URL'], params=params)
+    r = http.get(CONFIG['API_URL'], params=params)
     if not r.status_code == 200:
         raise HttpSearchException(error="Non 200 response")
     return r.json()
