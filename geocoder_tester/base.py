@@ -144,8 +144,9 @@ def assert_search(query, expected, limit=1,
     def assert_expected(expected):
         found = False
         for r in results['features']:
-            found = True
+            passed = True
             properties = None
+            failed = r['properties']['failed'] = []
             if 'geocoding' in r['properties']:
                 properties = r['properties']['geocoding']
             else:
@@ -164,9 +165,11 @@ def assert_search(query, expected, limit=1,
                         )
                         if int(deviation.meters) <= int(max_deviation):
                             continue  # Continue to other properties
-                    found = False
-            if found:
-                break
+                        failed.append('distance')
+                    passed = False
+                    failed.append(key)
+            if passed:
+                found = True
         if not found:
             raise SearchException(
                 params=params,
@@ -180,36 +183,36 @@ def assert_search(query, expected, limit=1,
         assert_expected(s)
 
 
-def dicts_to_table(dicts, keys=None):
+def dicts_to_table(dicts, keys):
     if not dicts:
         return []
-    if keys is None:
-        keys = dicts[0].keys()
-    cols = []
-    for i, key in enumerate(keys):
-        cols.append(len(key))
+    # Compute max length for each column.
+    lengths = {}
+    for key in keys:
+        lengths[key] = len(key) + 2  # Surrounding spaces.
     for d in dicts:
-        for i, key in enumerate(keys):
-            l = len(str(d.get(key, '')))
-            if l > cols[i]:
-                cols[i] = l
+        for key in keys:
+            i = len(str(d.get(key, '')))
+            if i > lengths[key]:
+                lengths[key] = i + 2  # Surrounding spaces.
     out = []
-
-    def fill(l, to, char=" "):
-        l = str(l)
-        return "{}{}".format(
-            l,
-            char * (to - len(l) if len(l) < to else 0)
-        )
-
-    def create_row(values, char=" "):
-        row = []
-        for i, v in enumerate(values):
-            row.append(fill(v, cols[i], char))
-        return " | ".join(row)
-
-    out.append(create_row(keys))
-    out.append(create_row(['' for k in keys], char="-"))
+    cell = '{{{key}:^{length}}}'
+    tpl = '|'.join(cell.format(key=key, length=lengths[key]) for key in keys)
+    # Headers.
+    out.append(tpl.format(**dict(zip(keys, keys))))
+    # Separators line.
+    out.append(tpl.format(**dict(zip(keys, ['—'*lengths[k] for k in keys]))))
     for d in dicts:
-        out.append(create_row([d.get(k, '—') for k in keys]))
+        row = {}
+        l = lengths.copy()
+        for key in keys:
+            value = d.get(key, '—')
+            if key in d['failed']:
+                l[key] += 10  # Add ANSI chars so python len will turn out.
+                value = "\033[1;4m{}\033[0m".format(value)
+            row[key] = value
+        # Recompute tpl with lengths adapted to failed rows (and thus ansi
+        # extra chars).
+        tpl = '|'.join(cell.format(key=key, length=l[key]) for key in keys)
+        out.append(tpl.format(**row))
     return out
