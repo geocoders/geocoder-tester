@@ -54,6 +54,10 @@ Then compare when running a new version
 
     py.test --compare-report path/to/report.log
 
+Note: in compare mode, only new failures will appear as "FAILED" and their
+traceback will be rendered; already known failures will appear as "XFAILED" and
+in yellow instead of red.
+
 
 ## Adding search cases
 

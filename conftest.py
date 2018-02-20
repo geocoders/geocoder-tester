@@ -104,6 +104,12 @@ def pytest_runtest_logreport(report):
                 'Limit of {} reached'.format(CONFIG['MAX_RUN']))
 
 
+def pytest_report_teststatus(report):
+    # Only highlight new failures when in "compare mode".
+    if report.failed and report.nodeid in CONFIG.get('COMPARE_WITH', []):
+        return 'xfailed', 'X', ('XFAILED', {'yellow': True})
+
+
 class CSVFile(pytest.File):
 
     def collect(self):
