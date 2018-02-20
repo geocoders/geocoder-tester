@@ -24,6 +24,8 @@ def pytest_itemcollected(item):
     for d in dirs:
         if d != ".":
             item.add_marker(d)
+            if item.nodeid in CONFIG.get('COMPARE_WITH', []):
+                item.add_marker('xfail')
 
 
 def pytest_addoption(parser):
@@ -94,7 +96,7 @@ REPORTS = 0
 
 
 def pytest_runtest_logreport(report):
-    if report.failed:
+    if report.failed or (not report.passed and 'xfail' in report.keywords):
         CONFIG['FAILED'].append(report.nodeid)
     if report.when == 'teardown' and not report.skipped:
         global REPORTS
@@ -102,12 +104,6 @@ def pytest_runtest_logreport(report):
         if CONFIG['MAX_RUN'] and REPORTS >= CONFIG['MAX_RUN']:
             raise KeyboardInterrupt(
                 'Limit of {} reached'.format(CONFIG['MAX_RUN']))
-
-
-def pytest_report_teststatus(report):
-    # Only highlight new failures when in "compare mode".
-    if report.failed and report.nodeid in CONFIG.get('COMPARE_WITH', []):
-        return 'xfailed', 'X', ('XFAILED', {'yellow': True})
 
 
 class CSVFile(pytest.File):
