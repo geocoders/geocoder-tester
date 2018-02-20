@@ -1,5 +1,6 @@
 import csv
 import os
+import sys
 import yaml
 
 import pytest
@@ -82,14 +83,22 @@ def pytest_unconfigure(config):
                   encoding='utf-8') as f:
             f.write('\n'.join(CONFIG['FAILED']))
     if config.getoption('--compare-report'):
-        print('# NEW FAILURES')
+        import _pytest.config
+        writer = _pytest.config.create_terminal_writer(config, sys.stdout)
+        total = 0
+        writer.sep('!', 'NEW FAILURES', red=True)
         for failed in CONFIG['FAILED']:
             if failed not in CONFIG['COMPARE_WITH']:
+                total += 1
                 print(failed)
-        print('# NEW PASSING')
+        writer.sep('!', 'TOTAL NEW FAILURES: {}'.format(total), red=True)
+        total = 0
+        writer.sep('=', 'NEW PASSING', green=True)
         for failed in CONFIG['COMPARE_WITH']:
             if failed not in CONFIG['FAILED']:
                 print(failed)
+                total += 1
+        writer.sep('=', 'TOTAL NEW PASSING: {}'.format(total), green=True)
 
 
 REPORTS = 0
