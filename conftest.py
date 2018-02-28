@@ -26,7 +26,8 @@ def pytest_itemcollected(item):
         if d != ".":
             item.add_marker(d)
             if item.nodeid in CONFIG.get('COMPARE_WITH', []):
-                item.add_marker('xfail')
+                item.add_marker(
+                    pytest.mark.xfail(run=not CONFIG['SKIP_XFAIL']))
 
 
 def pytest_addoption(parser):
@@ -63,6 +64,10 @@ def pytest_addoption(parser):
         dest="compare_report",
         help="Path where to load the report to compare with."
     )
+    parser.addoption(
+        '--skip-xfail', action="store_true",  dest="skip_xfail",
+        help="Do not run the tests known to fail when in compare mode."
+    )
 
 
 def pytest_configure(config):
@@ -70,6 +75,7 @@ def pytest_configure(config):
     CONFIG['MAX_RUN'] = config.getoption('--max-run')
     CONFIG['LOOSE_COMPARE'] = config.getoption('--loose-compare')
     CONFIG['GEOJSON'] = config.getoption('--geojson')
+    CONFIG['SKIP_XFAIL'] = config.getoption('--skip-xfail')
     if config.getoption('--compare-report'):
         with open(config.getoption('--compare-report')) as f:
             CONFIG['COMPARE_WITH'] = []
