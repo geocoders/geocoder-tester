@@ -80,7 +80,7 @@ def pytest_configure(config):
         with open(config.getoption('--compare-report')) as f:
             CONFIG['COMPARE_WITH'] = []
             for line in f:
-                CONFIG['COMPARE_WITH'].append(line[:-1])  # Remove \n.
+                CONFIG['COMPARE_WITH'].append(line.rstrip('\r\n'))
 
 
 def pytest_unconfigure(config):
