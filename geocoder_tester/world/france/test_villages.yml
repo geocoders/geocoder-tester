@@ -10,3 +10,18 @@ devesset:
 fornex:
     expected:
         name: Fornex
+
+village neuf:
+    expected:
+        name: Village-Neuf
+        postcode: 68128
+
+sainte adresse:
+    expected:
+        name: Sainte-Adresse
+        postcode: 76310
+
+wy dit joli village:
+    expected:
+        name: Wy-dit-Joli-Village
+        postcode: 95420
