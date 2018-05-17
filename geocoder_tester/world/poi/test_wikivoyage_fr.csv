@@ -1,0 +1,1355 @@
+query;lang;limit;expected_coordinate;wikidata_item
+Château de Compiègne;fr;4;49.41916667,2.83111111,500;http://www.wikidata.org/entity/Q516697
+Parc Senshū Akita;fr;4;39.7225946,140.126084,500;http://www.wikidata.org/entity/Q11405791
+Musée d'art Senshū Akita;fr;4;39.717532,140.12458,500;http://www.wikidata.org/entity/Q11595323
+Musée d'art d'Akita Akita;fr;4;39.717365,140.121539,500;http://www.wikidata.org/entity/Q11483668
+Musée Akarenga-kan Akita;fr;4;39.716681,140.115801,500;http://www.wikidata.org/entity/Q11595345
+Parc Hitotsumori Akita;fr;4;39.7008673,140.139641,500;http://www.wikidata.org/entity/Q11352256
+Parc préfectoral Koizumigatta Akita;fr;4;39.8149,140.0671,500;http://www.wikidata.org/entity/Q11595460
+Musée de la préfecture d'Akita Akita;fr;4;39.817453,140.066103,500;http://www.wikidata.org/entity/Q11595445
+Zoo d'Okomoriyama Akita;fr;4;39.672151,140.077384,500;http://www.wikidata.org/entity/Q11595312
+Château d’Angers;fr;4;47.470083,-0.559889,500;http://www.wikidata.org/entity/Q1048155
+Terra Botanica Angers;fr;4;47.501111,-0.57,500;http://www.wikidata.org/entity/Q3518517
+Maison Nebuta Wa Rasse Aomori;fr;4;40.82957,140.73595,500;http://www.wikidata.org/entity/Q11275091
+Bateau mémorial Hakkōda-maru Aomori;fr;4;40.83172,140.73656,500;http://www.wikidata.org/entity/Q11661114
+Musée de la préfecture d'Aomori Aomori;fr;4;40.82728,140.74866,500;http://www.wikidata.org/entity/Q11662265
+Musée d'art mémorial Munakata Shikō Aomori;fr;4;40.819444,140.76,500;http://www.wikidata.org/entity/Q11539040
+Sannai Maruyama Aomori;fr;4;40.80922,140.69667,500;http://www.wikidata.org/entity/Q911970
+Musée d'art de la préfecture d'Aomori Aomori;fr;4;40.80775,140.70258,500;http://www.wikidata.org/entity/Q11662266
+Aquarium d'Asamushi Aomori;fr;4;40.888689,140.877736,500;http://www.wikidata.org/entity/Q4803495
+Musée d'art MOA Atami;fr;4;35.1093,139.0752,500;http://www.wikidata.org/entity/Q843638
+Palais des Papes Avignon;fr;4;43.95083,4.8075,500;http://www.wikidata.org/entity/Q143463
+Château royal de Blois;fr;4;47.58572,1.33100,500;http://www.wikidata.org/entity/Q4055
+Cathédrale Saint-Louis Blois;fr;4;47.58858,1.33662,500;http://www.wikidata.org/entity/Q1102200
+Grand Théâtre Bordeaux;fr;4;44.8426,-0.5737,500;http://www.wikidata.org/entity/Q1541186
+Cathédrale Saint-André Bordeaux;fr;4;44.83778,-0.57778,500;http://www.wikidata.org/entity/Q656738
+Place de La Bourse Bordeaux;fr;4;44.841458,-0.570045,500;http://www.wikidata.org/entity/Q3390346
+Miroir d'eau Bordeaux;fr;4;44.842,-0.569,500;http://www.wikidata.org/entity/Q16664710
+Place des Quinconces Bordeaux;fr;4;44.84556,-0.57361,500;http://www.wikidata.org/entity/Q1431600
+Centre d'Arts Plastiques Contemporain Bordeaux;fr;4;44.848475,-0.571975,500;http://www.wikidata.org/entity/Q2945071
+Base sous-marine Bordeaux;fr;4;44.8699,-0.55864,500;http://www.wikidata.org/entity/Q3631797
+Musée D'Aquitaine Bordeaux;fr;4;44.8357,-0.5747,500;http://www.wikidata.org/entity/Q3329534
+Cathédrale Saint-Étienne Bourges;fr;4;47.08231,2.39876,500;http://www.wikidata.org/entity/Q207985
+Palais Jacques-Cœur Bourges;fr;4;47.08425,2.39370,500;http://www.wikidata.org/entity/Q3360877
+Jardin exotique Èze;fr;4;43.72806,7.3611,500;http://www.wikidata.org/entity/Q3162606
+Cathédrale Saint-Benoît Castres;fr;4;43.60417,2.241,500;http://www.wikidata.org/entity/Q2942316
+Musée d'art moderne Céret;fr;4;42.4858,2.74778,500;http://www.wikidata.org/entity/Q3329642
+Maison du Patrimoine Françoise-Claustre Céret;fr;4;42.485072,2.748735,500;http://www.wikidata.org/entity/Q3280039
+Chiba Port Tower Chiba;fr;4;35.6002,140.09806,500;http://www.wikidata.org/entity/Q5095310
+Aoba no Mori Kōen Chiba;fr;4;35.5903,140.1322,500;http://www.wikidata.org/entity/Q11662714
+Makuhari Messe Chiba;fr;4;35.6483,140.0347,500;http://www.wikidata.org/entity/Q862452
+Makuhari Techno Garden Chiba;fr;4;35.6508,140.04136,500;http://www.wikidata.org/entity/Q11481806
+Bay Town Chiba;fr;4;35.6405,140.0448,500;http://www.wikidata.org/entity/Q11481809
+Nokogiriyama Chiba (préfecture);fr;4;35.1625,139.8231,500;http://www.wikidata.org/entity/Q5120896
+Plage de Kujūkuri Chiba (préfecture);fr;4;35.5269,140.4511,500;http://www.wikidata.org/entity/Q996212
+Kamogawa Sea World Chiba (préfecture);fr;4;35.11651,140.12075,500;http://www.wikidata.org/entity/Q553044
+Mother Farm Chiba (préfecture);fr;4;35.24613,139.93475,500;http://www.wikidata.org/entity/Q575499
+Village allemand de Tokyo Chiba (préfecture);fr;4;35.40506,140.05504,500;http://www.wikidata.org/entity/Q11235188
+Biograph Theater Chicago;fr;4;41.92625,-87.649889,500;http://www.wikidata.org/entity/Q4914863
+Wrigley Field Chicago;fr;4;41.94833,-87.6556,500;http://www.wikidata.org/entity/Q1052807
+Ville-Close Concarneau;fr;4;47.8717,-3.91627,500;http://www.wikidata.org/entity/Q18536625
+Museum am Ostwall Dortmund;fr;4;51.513056,7.472222,500;http://www.wikidata.org/entity/Q314441
+Musée des beaux-arts et de l'histoire culturelle Dortmund;fr;4;51.516389,7.463056,500;http://www.wikidata.org/entity/Q164887
+Fontaine de la justice Francfort;fr;4;50.1103,8.68222,500;http://www.wikidata.org/entity/Q195201
+Musée juif de Francfort Francfort;fr;4;50.1072,8.67444,500;http://www.wikidata.org/entity/Q278571
+Vieil Opéra de Francfort Francfort;fr;4;50.11583,8.6719,500;http://www.wikidata.org/entity/Q436079
+Yamanakako Fujigoko;fr;4;35.4167,138.875,500;http://www.wikidata.org/entity/Q1203756
+Kawaguchiko Fujigoko;fr;4;35.518,138.755,500;http://www.wikidata.org/entity/Q577372
+Téléphérique du mont Tenjō Fujigoko;fr;4;35.5040,138.7721,500;http://www.wikidata.org/entity/Q7699891
+Saiko Fujigoko;fr;4;35.5,138.6833,500;http://www.wikidata.org/entity/Q1152394
+Shōjiko Fujigoko;fr;4;35.4903,138.6083,500;http://www.wikidata.org/entity/Q11190939
+Motosuko Fujigoko;fr;4;35.4667,138.5833,500;http://www.wikidata.org/entity/Q1262329
+Forêt d'Aokigahara Fujigoko;fr;4;35.47,138.62,500;http://www.wikidata.org/entity/Q615767
+Quartier de Nakasu Fukuoka;fr;4;33.593647,130.405295,500;http://www.wikidata.org/entity/Q6960335
+Sanctuaire Kushida Fukuoka;fr;4;33.592956,130.410504,500;http://www.wikidata.org/entity/Q865839
+Tōchō-ji Fukuoka;fr;4;33.595,130.41417,500;http://www.wikidata.org/entity/Q3547067
+Shōfuku-ji Fukuoka;fr;4;33.5975,130.41444,500;http://www.wikidata.org/entity/Q657825
+ACROS Fukuoka;fr;4;33.59946,130.41206,500;http://www.wikidata.org/entity/Q2819057
+Parc Ōhori Fukuoka;fr;4;33.585861,130.37625,500;http://www.wikidata.org/entity/Q846710
+Parc Nishi Fukuoka;fr;4;33.59778,130.37567,500;http://www.wikidata.org/entity/Q11627261
+Tour de Fukuoka Fukuoka;fr;4;33.59325,130.351472,500;http://www.wikidata.org/entity/Q847033
+Plage de Momochi Fukuoka;fr;4;33.59539,130.35409,500;http://www.wikidata.org/entity/Q11308788
+Sanctuaire Atago Fukuoka;fr;4;33.5855,130.3347,500;http://www.wikidata.org/entity/Q11676235
+Nokonoshima Fukuoka;fr;4;33.62,130.303,500;http://www.wikidata.org/entity/Q10859834
+Parc Hanamiyama Fukushima;fr;4;37.740,140.495,500;http://www.wikidata.org/entity/Q11615667
+Musée d'art préfectoral Fukushima;fr;4;37.767917,140.456528,500;http://www.wikidata.org/entity/Q5507735
+Centre culturel préfectoral Fukushima;fr;4;37.768083,140.473028,500;http://www.wikidata.org/entity/Q5507736
+Kotori no mori Fukushima;fr;4;37.762502,140.495995,500;http://www.wikidata.org/entity/Q11593087
+Goshiki-numa, cinq lacs colorés Fukushima;fr;4;37.6532,140.0867,500;http://www.wikidata.org/entity/Q3214907
+Château de Bonaguil Fumel;fr;4;44.5382,1.0143,500;http://www.wikidata.org/entity/Q2206135
+Château de Bonaguil Fumelois Lémance;fr;4;44.5382,1.0143,500;http://www.wikidata.org/entity/Q2206135
+Château de Gifu Gifu;fr;4;35.4339,136.78207,500;http://www.wikidata.org/entity/Q1367052
+Musée commémoratif Katō Eizō-Tōichi Gifu;fr;4;35.434981,136.7751,500;http://www.wikidata.org/entity/Q5350087
+Parc de Gifu Gifu;fr;4;35.43336,136.7752,500;http://www.wikidata.org/entity/Q5359350
+Musée d'histoire de la ville de Gifu Gifu;fr;4;35.4334,136.7728,500;http://www.wikidata.org/entity/Q5359247
+Musée Nawa d'entomologie Gifu;fr;4;35.433153,136.77315,500;http://www.wikidata.org/entity/Q5359335
+Shōhō-ji Gifu;fr;4;35.432753,136.771819,500;http://www.wikidata.org/entity/Q3482779
+Musée d'art Sankō Gifu;fr;4;35.44484,136.79037,500;http://www.wikidata.org/entity/Q11356786
+Musée des beaux arts de la préfecture de Gifu Gifu;fr;4;35.401585,136.730174,500;http://www.wikidata.org/entity/Q5359197
+Musée des sciences de la ville de Gifu Gifu;fr;4;35.4039,136.7309,500;http://www.wikidata.org/entity/Q5359267
+Alhambra Grenade (Espagne);fr;4;37.1758,-3.5897,500;http://www.wikidata.org/entity/Q47476
+Ōwakudani Hakone;fr;4;35.2419,139.0207,500;http://www.wikidata.org/entity/Q1134429
+Hakone-jinja Hakone;fr;4;35.20469,139.02532,500;http://www.wikidata.org/entity/Q705310
+Jardin de Gōra Hakone;fr;4;35.2486,139.04514,500;http://www.wikidata.org/entity/Q11487751
+Parc Onshi Hakone Hakone;fr;4;35.1964,139.0259,500;http://www.wikidata.org/entity/Q11492299
+Musée en plein air de Hakone Hakone;fr;4;35.245,139.0512,500;http://www.wikidata.org/entity/Q1134422
+Tour observatoire d'Act City Hamamatsu;fr;4;34.70557,137.73718,500;http://www.wikidata.org/entity/Q1096141
+Château de Hamamatsu Hamamatsu;fr;4;34.71178,137.72488,500;http://www.wikidata.org/entity/Q1152352
+Ruines du château de Futamata Hamamatsu;fr;4;34.85811,137.80544,500;http://www.wikidata.org/entity/Q11371339
+Rivière Keta Hamamatsu;fr;4;34.93184,137.84773,500;http://www.wikidata.org/entity/Q11548095
+Dunes de sable de Nakatajima Hamamatsu;fr;4;34.66113,137.74053,500;http://www.wikidata.org/entity/Q1963977
+Caverne de Ryūgashi Hamamatsu;fr;4;34.84539,137.64862,500;http://www.wikidata.org/entity/Q11598270
+Rivière Tenryū Hamamatsu;fr;4;34.75938,137.81696,500;http://www.wikidata.org/entity/Q13667
+Grotte du vent de Washizawa Hamamatsu;fr;4;34.84916,137.71246,500;http://www.wikidata.org/entity/Q11676274
+Musée de la ville de Hamamatsu Hamamatsu;fr;4;34.71263,137.70362,500;http://www.wikidata.org/entity/Q17220609
+Musée d'art municipal de Hamamatsu Hamamatsu;fr;4;34.71183,137.72375,500;http://www.wikidata.org/entity/Q11557851
+Musée des sciences de Hamamatsu Hamamatsu;fr;4;34.70503,137.73971,500;http://www.wikidata.org/entity/Q11557880
+Musée de la boîte à musique du Lac Hamana Hamamatsu;fr;4;34.76996,137.62033,500;http://www.wikidata.org/entity/Q11557595
+Temple Daifuku-ji Hamamatsu;fr;4;34.82909,137.54966,500;http://www.wikidata.org/entity/Q11438347
+Sanctuaires Gosha et Suwa Hamamatsu;fr;4;34.70605,137.72517,500;http://www.wikidata.org/entity/Q11372582
+Okuyama Hōkō-ji Hamamatsu;fr;4;34.84833,137.61490,500;http://www.wikidata.org/entity/Q3146367
+Temple Ryōtan-ji Hamamatsu;fr;4;34.8297,137.66781,500;http://www.wikidata.org/entity/Q11679294
+Sanctuaire Yamazumi Hamamatsu;fr;4;35.1348,137.914,500;http://www.wikidata.org/entity/Q11466290
+Parc Bentenjima Kaihin Hamamatsu;fr;4;34.68877,137.603,500;http://www.wikidata.org/entity/Q11486912
+Parc floral de Hamamatsu Hamamatsu;fr;4;34.76236,137.63496,500;http://www.wikidata.org/entity/Q9055804
+Zoo municipal de Hamamatsu Hamamatsu;fr;4;34.7641,137.62962,500;http://www.wikidata.org/entity/Q11557788
+Hamanako Garden Park Hamamatsu;fr;4;34.71452,137.60115,500;http://www.wikidata.org/entity/Q11557594
+Temple Honkō-ji Hamamatsu;fr;4;34.717167,137.538194,500;http://www.wikidata.org/entity/Q11520761
+Sanctuaire Okuni Hamamatsu;fr;4;34.8475,137.899167,500;http://www.wikidata.org/entity/Q421597
+Rathaus Hambourg;fr;4;53.5502,9.9922,500;http://www.wikidata.org/entity/Q3987
+Mönckebergstraße Hambourg;fr;4;53.5506,9.99806,500;http://www.wikidata.org/entity/Q534777
+Sankt Nikolai Hambourg;fr;4;53.5475,9.990556,500;http://www.wikidata.org/entity/Q425622
+Port de Hambourg Hambourg;fr;4;53.54,9.9828,500;http://www.wikidata.org/entity/Q3964
+Speicherstadt Hambourg;fr;4;53.5433,9.992,500;http://www.wikidata.org/entity/Q661881
+Église Saint-Michel Hambourg;fr;4;53.54833,9.9789,500;http://www.wikidata.org/entity/Q674472
+Sankt Pauli Hambourg;fr;4;53.556944,9.963889,500;http://www.wikidata.org/entity/Q1556
+Schanzenviertel Hambourg;fr;4;53.5618,9.9621,500;http://www.wikidata.org/entity/Q895550
+Quartier Sankt Georg Hambourg;fr;4;53.55513,10.01231,500;http://www.wikidata.org/entity/Q1560
+Ottensen Hambourg;fr;4;53.554,9.9178,500;http://www.wikidata.org/entity/Q1597
+Alter Botanischer Garten Hambourg;fr;4;53.561,9.983,500;http://www.wikidata.org/entity/Q11679872
+Friedhof Ohlsdorf Hambourg;fr;4;53.62472,10.06167,500;http://www.wikidata.org/entity/Q562211
+Stadtpark Hambourg;fr;4;53.5988,10.024,500;http://www.wikidata.org/entity/Q2472
+Neue Botanische Garten Hambourg;fr;4;53.5622,9.8611,500;http://www.wikidata.org/entity/Q613250
+Zoo de Hambourg Hambourg;fr;4;53.5964,9.93778,500;http://www.wikidata.org/entity/Q502326
+Altonaer Museum Hambourg;fr;4;53.54889,9.93444,500;http://www.wikidata.org/entity/Q126971
+Deichtorhallen Hambourg;fr;4;53.5464,10.0064,500;http://www.wikidata.org/entity/Q1183156
+Deutsches Zollmuseum Hambourg;fr;4;53.5461,9.99917,500;http://www.wikidata.org/entity/Q1206138
+Kunsthalle Hambourg;fr;4;53.555,10.0028,500;http://www.wikidata.org/entity/Q169542
+Museumshafen Övelgönne Hambourg;fr;4;53.5436,9.91417,500;http://www.wikidata.org/entity/Q1794664
+Museum für Kommunikation Hambourg;fr;4;53.5579,9.98797,500;http://www.wikidata.org/entity/Q1954642
+Hamburgmuseum Hambourg;fr;4;53.5511,9.97306,500;http://www.wikidata.org/entity/Q665171
+Museum für Kunst und Gewerbe Hambourg;fr;4;53.5511,10.00944,500;http://www.wikidata.org/entity/Q896052
+Museum für Völkerkunde Hambourg;fr;4;53.56833,9.9892,500;http://www.wikidata.org/entity/Q675774
+Imam-Ali-Mosque Hambourg;fr;4;53.57457,10.0084,500;http://www.wikidata.org/entity/Q668264
+Dôme de Genbaku Hiroshima;fr;4;34.39548,132.45363,500;http://www.wikidata.org/entity/Q231140
+Monument de la paix des enfants Hiroshima;fr;4;34.39414,132.45277,500;http://www.wikidata.org/entity/Q114718
+Tour commémorative de la bombe atomique Hiroshima;fr;4;34.39472,132.45194,500;http://www.wikidata.org/entity/Q11409709
+Maison de détente Hiroshima;fr;4;34.39383,132.4533,500;http://www.wikidata.org/entity/Q11349625
+Cénotaphe pour les victimes de la bombe atomique Hiroshima;fr;4;34.39297,132.45256,500;http://www.wikidata.org/entity/Q11409718
+Flamme de la Paix Hiroshima;fr;4;34.39346,132.45276,500;http://www.wikidata.org/entity/Q11482176
+Hall du Mémorial national de la Paix d'Hiroshima pour les victimes de la bombe atomique Hiroshima;fr;4;34.39333,132.4535,500;http://www.wikidata.org/entity/Q114067
+Musée du mémorial de la Paix Hiroshima;fr;4;34.39150,132.45295,500;http://www.wikidata.org/entity/Q1200076
+Centre de conférence international Hiroshima;fr;4;34.3921,132.451,500;http://www.wikidata.org/entity/Q11484485
+Musée de la Paix de l'école primaire de Honkawa Hiroshima;fr;4;34.3958,132.4502,500;http://www.wikidata.org/entity/Q11484615
+Musée de l'école élémentaire de Fukuro-machi Hiroshima;fr;4;34.39156,132.4583,500;http://www.wikidata.org/entity/Q5507712
+Parc Chūō Hiroshima;fr;4;34.4014,132.4547,500;http://www.wikidata.org/entity/Q17226480
+Château d'Hiroshima;fr;4;34.4027,132.459,500;http://www.wikidata.org/entity/Q41977
+Sanctuaire Gokoku Hiroshima;fr;4;34.40117,132.45875,500;http://www.wikidata.org/entity/Q84008
+Musée des enfants d'Hiroshima;fr;4;34.39867,132.4536,500;http://www.wikidata.org/entity/Q5771207
+Musée d'art de Hiroshima Hiroshima;fr;4;34.3987,132.45806,500;http://www.wikidata.org/entity/Q63828
+Parc de Hijiyama Hiroshima;fr;4;34.383,132.4732,500;http://www.wikidata.org/entity/Q11126130
+Bibliothèque de manga de la ville d'Hiroshima;fr;4;34.3877,132.47444,500;http://www.wikidata.org/entity/Q11484530
+Musée d'art contemporain de la ville d'Hiroshima;fr;4;34.3864,132.47336,500;http://www.wikidata.org/entity/Q93425
+Fudō-in Hiroshima;fr;4;34.42703,132.4711,500;http://www.wikidata.org/entity/Q73444
+Musée du transport de la ville d'Hiroshima;fr;4;34.47086,132.4286,500;http://www.wikidata.org/entity/Q5358361
+Musée d'art de la préfecture d'Hiroshima;fr;4;34.3998,132.4662,500;http://www.wikidata.org/entity/Q3330773
+Musée Mazda Hiroshima;fr;4;34.37706,132.503,500;http://www.wikidata.org/entity/Q11340571
+Mitaki-dera Hiroshima;fr;4;34.4203,132.4376,500;http://www.wikidata.org/entity/Q63712
+Shukkei-en Hiroshima;fr;4;34.3997,132.46747,500;http://www.wikidata.org/entity/Q2576732
+Cité impériale Huê;fr;4;16.46955,107.57782,500;http://www.wikidata.org/entity/Q10769129
+Pont Trang Tien Huê;fr;4;16.468889,107.588611,500;http://www.wikidata.org/entity/Q10752407
+Tombeau de Tự Đức Huê;fr;4;16.432778,107.565278,500;http://www.wikidata.org/entity/Q7481171
+Tombeau de Khải Định Huê;fr;4;16.398625,107.588028,500;http://www.wikidata.org/entity/Q7818621
+Tombeau de Minh Mạng Huê;fr;4;16.387778,107.567778,500;http://www.wikidata.org/entity/Q7481070
+Tombeau royal de Đồng Khánh Huê;fr;4;16.429444,107.568333,500;http://www.wikidata.org/entity/Q10788196
+Tombeau royal de Gia Long Huê;fr;4;16.361944,107.596667,500;http://www.wikidata.org/entity/Q7818615
+Ushiku Daibutsu Ibaraki;fr;4;35.9825,140.22028,500;http://www.wikidata.org/entity/Q542324
+Aqua World Ōarai Ibaraki;fr;4;36.333333,140.593889,500;http://www.wikidata.org/entity/Q4782624
+Hitachinaka Seaside Park Ibaraki;fr;4;36.400556,140.591389,500;http://www.wikidata.org/entity/Q10855585
+Sakurajima Kagoshima;fr;4;31.58841,130.66168,500;http://www.wikidata.org/entity/Q128841
+Château Tsurumaru Kagoshima;fr;4;31.59857,130.55470,500;http://www.wikidata.org/entity/Q1066957
+Musée préfectoral de la culture de Kagoshima;fr;4;31.59857,130.55470,500;http://www.wikidata.org/entity/Q11676739
+Musée de la restauration Meiji Kagoshima;fr;4;31.584639,130.54775,500;http://www.wikidata.org/entity/Q4141258
+Jardin Sengan-en Kagoshima;fr;4;31.61786,130.57761,500;http://www.wikidata.org/entity/Q10884282
+Aquarium de la ville de Kagoshima Kagoshima;fr;4;31.595892,130.56435,500;http://www.wikidata.org/entity/Q11259022
+Kappa-bashi Kamikōchi;fr;4;36.248694,137.637972,500;http://www.wikidata.org/entity/Q11554066
+Mont Yake Kamikōchi;fr;4;36.22694,137.58694,500;http://www.wikidata.org/entity/Q3276924
+Site du château de Kanazawa Kanazawa;fr;4;36.5643,136.6592,500;http://www.wikidata.org/entity/Q511412
+Nagamachi, quartier des samouraïs Kanazawa;fr;4;36.564,136.6499,500;http://www.wikidata.org/entity/Q11653513
+Kazuemachi Kanazawa;fr;4;36.5723,136.6635,500;http://www.wikidata.org/entity/Q11368794
+Higashi-Chayamachi Kanazawa;fr;4;36.572453,136.667164,500;http://www.wikidata.org/entity/Q5897562
+Ninja-dera Kanazawa;fr;4;36.55536,136.649,500;http://www.wikidata.org/entity/Q3342007
+Sanctuaire Oyama Kanazawa;fr;4;36.5663,136.6558,500;http://www.wikidata.org/entity/Q998709
+Tentoku-in Kanazawa;fr;4;36.55146,136.677,500;http://www.wikidata.org/entity/Q11442593
+Temple Daijō-ji Kanazawa;fr;4;36.53256,136.65894,500;http://www.wikidata.org/entity/Q1157584
+Musée d'art contemporain du 21e siècle Kanazawa;fr;4;36.5608,136.658,500;http://www.wikidata.org/entity/Q3242206
+Forêt Honda Kanazawa;fr;4;36.55944,136.6622,500;http://www.wikidata.org/entity/Q11519973
+Musée d'histoire de la préfecture d'Ishikawa Kanazawa;fr;4;36.558611,136.662778,500;http://www.wikidata.org/entity/Q4676340
+Tabatabaei House Kashan;fr;4;33.9747653,51.4391199895068,500;http://www.wikidata.org/entity/Q3196072
+Chinatown Kobe;fr;4;34.688,135.188,500;http://www.wikidata.org/entity/Q912392
+Maison à la girouette Kobe;fr;4;34.70138,135.18950,500;http://www.wikidata.org/entity/Q11282566
+Parc Meriken Kobe;fr;4;34.6822,135.1891,500;http://www.wikidata.org/entity/Q5365128
+Kobe Port Tower Kobe;fr;4;34.6826,135.1867,500;http://www.wikidata.org/entity/Q798766
+Plate-forme d'observation de la mairie Kobe;fr;4;34.68943,135.19574,500;http://www.wikidata.org/entity/Q3198121
+Musée des outils de charpenterie de Takenaka Kobe;fr;4;34.7069,135.1974,500;http://www.wikidata.org/entity/Q11598709
+Jardin Sōraku-en Kobe;fr;4;34.6926,135.1817,500;http://www.wikidata.org/entity/Q7667612
+Jardin d'herbes de Nunobiki Kobe;fr;4;34.7171,135.1908,500;http://www.wikidata.org/entity/Q7069905
+Zoo d'Ōji Kobe;fr;4;34.71,135.214444,500;http://www.wikidata.org/entity/Q11590062
+Statue Tetsujin 28 Kobe;fr;4;34.6562,135.1441,500;http://www.wikidata.org/entity/Q95159
+Fruit Flower Park Kobe;fr;4;34.8465,135.1917,500;http://www.wikidata.org/entity/Q11589937
+Château de Kōchi Kōchi;fr;4;33.561111,133.531389,500;http://www.wikidata.org/entity/Q1012815
+Musée d'art de la préfecture de Kōchi Kōchi;fr;4;33.561056,133.572949,500;http://www.wikidata.org/entity/Q2496483
+Sanctuaire Tosa Kōchi;fr;4;33.592647,133.576985,500;http://www.wikidata.org/entity/Q704890
+Zenraku-ji Kōchi;fr;4;33.591905,133.577502,500;http://www.wikidata.org/entity/Q11418945
+Musée de la ville de naissance de Sakamoto Ryōma Kōchi;fr;4;33.556454,133.524493,500;http://www.wikidata.org/entity/Q11672372
+Pont Harimayabashi Kōchi;fr;4;33.559778,133.542667,500;http://www.wikidata.org/entity/Q11498729
+Chikyū 33 Banchi Kōchi;fr;4;33.56254,133.55666,500;http://www.wikidata.org/entity/Q11424496
+Musée de la liberté et du peuple de la ville de Kōchi;fr;4;33.54307,133.55025,500;http://www.wikidata.org/entity/Q11672370
+Musée mémorial de Sakamoto Ryōma Kōchi;fr;4;33.496552,133.571876,500;http://www.wikidata.org/entity/Q5965394
+Sekkei-ji Kōchi;fr;4;33.500837,133.54311,500;http://www.wikidata.org/entity/Q11659947
+Godai-san Kōchi;fr;4;33.5468,133.57397,500;http://www.wikidata.org/entity/Q11372228
+Chikurin-ji Kōchi;fr;4;33.54658,133.577336,500;http://www.wikidata.org/entity/Q426742
+Jardin botanique Makino de la préfecture de Kōchi;fr;4;33.546587,133.577894,500;http://www.wikidata.org/entity/Q3780715
+Cathédrale Sainte-Élisabeth Košice;fr;4;48.720222,21.258106,500;http://www.wikidata.org/entity/Q569428
+Chapelle Saint-Michel Košice;fr;4;48.719889,21.258389,500;http://www.wikidata.org/entity/Q376474
+La tour Urban Košice;fr;4;48.720639,21.258083,500;http://www.wikidata.org/entity/Q1753933
+Sous-sol archéologique Košice;fr;4;48.71892,21.25894,500;http://www.wikidata.org/entity/Q3329443
+Le Théâtre d'État Košice;fr;4;48.72174,21.25734,500;http://www.wikidata.org/entity/Q133708
+Fontaine chantante Košice;fr;4;48.72119,21.25761,500;http://www.wikidata.org/entity/Q3076009
+Église de la Sainte Trinité Košice;fr;4;48.72228,21.25772,500;http://www.wikidata.org/entity/Q7240504
+Église Saint-Antoine de Padoue Košice;fr;4;48.72409,21.25687,500;http://www.wikidata.org/entity/Q5482978
+La maison de Levoča Košice;fr;4;48.72208,21.25788,500;http://www.wikidata.org/entity/Q1160696
+Ancien hôtel de ville Košice;fr;4;48.72169,21.25799,500;http://www.wikidata.org/entity/Q12776683
+Palais Andrassy Košice;fr;4;48.72339,21.25716,500;http://www.wikidata.org/entity/Q3360816
+Palais Csáky-Dezőfi Košice;fr;4;48.72304,21.25617,500;http://www.wikidata.org/entity/Q3360851
+Palais Forgács Košice;fr;4;48.71843,21.25860,500;http://www.wikidata.org/entity/Q3360863
+Église des Dominicains Košice;fr;4;48.72079,21.25490,500;http://www.wikidata.org/entity/Q3585911
+Temple de la Naissance de la Sainte Mère de Dieu Košice;fr;4;48.72052,21.25281,500;http://www.wikidata.org/entity/Q3056548
+Église du Saint-Esprit Košice;fr;4;48.71501,21.26165,500;http://www.wikidata.org/entity/Q5886247
+Église évangélique Košice;fr;4;48.72104,21.26105,500;http://www.wikidata.org/entity/Q5415659
+Église calviniste Košice;fr;4;48.72104,21.26105,500;http://www.wikidata.org/entity/Q5024546
+Le palais Jakab Košice;fr;4;48.72196,21.26272,500;http://www.wikidata.org/entity/Q3360878
+Nouvelle synagogue orthodoxe de Košic;fr;4;48.71905,21.26021,500;http://www.wikidata.org/entity/Q3345234
+Château de Kumamoto Kumamoto;fr;4;32.80513,130.70656,500;http://www.wikidata.org/entity/Q613355
+Lac Ezu Kumamoto;fr;4;32.77454,130.74190,500;http://www.wikidata.org/entity/Q11551239
+Jardin Suizenji Kumamoto;fr;4;32.790745,130.734800,500;http://www.wikidata.org/entity/Q1090968
+Temple Honmyō-ji Kumamoto;fr;4;32.81694,130.68944,500;http://www.wikidata.org/entity/Q3140143
+Hosokawa Gyōbutei Kumamoto;fr;4;32.8097,130.6997,500;http://www.wikidata.org/entity/Q11511120
+Hanaokayama Kumamoto;fr;4;32.79653,130.6856,500;http://www.wikidata.org/entity/Q11615318
+Fujisaki Hachimangu Shrine Kumamoto;fr;4;32.8083,130.71861,500;http://www.wikidata.org/entity/Q167146
+Mont Kinpō Kumamoto;fr;4;32.814056,130.639111,500;http://www.wikidata.org/entity/Q11647034
+Reigandō Kumamoto;fr;4;32.82,130.621389,500;http://www.wikidata.org/entity/Q1856438
+Hatenohama Kumejima;fr;4;26.3454,126.87348,500;http://www.wikidata.org/entity/Q17219306
+Zoo de La Flèche La Flèche;fr;4;47.6758,-0.0457,500;http://www.wikidata.org/entity/Q3576022
+Ancienne église Saint-Furcy Lagny-sur-Marne;fr;4;48.8776,2.70429,500;http://www.wikidata.org/entity/Q3581484
+Église abbatiale Notre-Dame-des-Ardents Lagny-sur-Marne;fr;4;48.87742,2.70626,500;http://www.wikidata.org/entity/Q16964575
+Maisons aux 5 pignons Lagny-sur-Marne;fr;4;48.8774,2.70493,500;http://www.wikidata.org/entity/Q17347086
+Fontaine Saint-Furcy Lagny-sur-Marne;fr;4;48.8773,2.70462,500;http://www.wikidata.org/entity/Q16964666
+Cathédrale Lausanne;fr;4;46.522615,6.635403,500;http://www.wikidata.org/entity/Q669544
+Ecozoo des Sables Les Sables-d'Olonne;fr;4;46.484679,-1.760884,500;http://www.wikidata.org/entity/Q3364797
+Palais des princes-évêques Liège;fr;4;50.64615,5.57430,500;http://www.wikidata.org/entity/Q704698
+Archéoforum Liège;fr;4;50.64529,5.57317,500;http://www.wikidata.org/entity/Q2216083
+Perron Liège;fr;4;50.64567,5.57568,500;http://www.wikidata.org/entity/Q18810486
+Hôtel de ville Liège;fr;4;50.64535,5.57561,500;http://www.wikidata.org/entity/Q679207
+Église Saint-André Liège;fr;4;50.64602,5.57594,500;http://www.wikidata.org/entity/Q3580902
+Église Saint-Antoine Liège;fr;4;50.64669,5.57637,500;http://www.wikidata.org/entity/Q3580952
+Musée de la vie wallonne Liège;fr;4;50.64696,5.57621,500;http://www.wikidata.org/entity/Q2099610
+Areine de Riche-Fontaine Liège;fr;4;50.64716,5.57684,500;http://www.wikidata.org/entity/Q2860791
+Montagne de Bueren Liège;fr;4;50.64830,5.57715,500;http://www.wikidata.org/entity/Q3247381
+Église Notre-Dame-de-l'Immaculée-Conception Liège;fr;4;50.6474,5.5790,500;http://www.wikidata.org/entity/Q3580327
+Couvent et église des Filles de la Croix Liège;fr;4;50.64776,5.58062,500;http://www.wikidata.org/entity/Q282233
+Cour Saint-Antoine Liège;fr;4;50.64757,5.58116,500;http://www.wikidata.org/entity/Q16271388
+Collégiale Saint-Barthélémy Liège;fr;4;50.647949,5.582962,500;http://www.wikidata.org/entity/Q2089683
+Musée du Grand Curtius Liège;fr;4;50.64711,5.58360,500;http://www.wikidata.org/entity/Q2304164
+Musée d'Ansembourg Liège;fr;4;50.64698,5.58214,500;http://www.wikidata.org/entity/Q2478313
+Maison Havart Liège;fr;4;50.64519,5.57946,500;http://www.wikidata.org/entity/Q3278777
+Ancienne halle aux viandes Liège;fr;4;50.64533,5.57816,500;http://www.wikidata.org/entity/Q2845920
+Église Saint-Antoine et Sainte-Catherine Liège;fr;4;50.64454,5.57713,500;http://www.wikidata.org/entity/Q3580959
+Favechamps Liège;fr;4;50.6497,5.5714,500;http://www.wikidata.org/entity/Q3067626
+Chapelle Saint-Roch en Volière Liège;fr;4;50.64736,5.57150,500;http://www.wikidata.org/entity/Q2956979
+Église Saint-Servais Liège;fr;4;50.64686,5.57089,500;http://www.wikidata.org/entity/Q3584475
+Rue Pierreuse Liège;fr;4;50.6497,5.5730,500;http://www.wikidata.org/entity/Q3449561
+Ancienne Commanderie de l'ordre Teutonique de Saint-André Liège;fr;4;50.64671,5.57396,500;http://www.wikidata.org/entity/Q879284
+Le Péri Liège;fr;4;50.6488,5.5748,500;http://www.wikidata.org/entity/Q2870266
+Terrasses des Minimes Liège;fr;4;50.6472,5.5743,500;http://www.wikidata.org/entity/Q3518587
+Parc de la citadelle Liège;fr;4;50.6508,5.5776,500;http://www.wikidata.org/entity/Q2215745
+Enclos des fusillés Liège;fr;4;50.6532,5.5782,500;http://www.wikidata.org/entity/Q3053799
+Cimetière de Robermont Liège;fr;4;50.6333,5.6086,500;http://www.wikidata.org/entity/Q2401934
+Ancien fort de la Chartreuse Liège;fr;4;50.6318,5.5984,500;http://www.wikidata.org/entity/Q2568743
+Maison de la métallurgie et de l'industrie Liège;fr;4;50.6307,5.5799,500;http://www.wikidata.org/entity/Q2113946
+Musée des transports en commun de Wallonie Liège;fr;4;50.62856,5.58392,500;http://www.wikidata.org/entity/Q839424
+Église Saint-Vincent Liège;fr;4;50.6226,5.5825,500;http://www.wikidata.org/entity/Q3584659
+Musée en plein air du Sart Tilman Liège;fr;4;50.5800,5.5667,500;http://www.wikidata.org/entity/Q3330553
+Château de Colonster Liège;fr;4;50.5789,5.5962,500;http://www.wikidata.org/entity/Q2969011
+Basilique Saint-Martin Liège;fr;4;50.644320,5.563864,500;http://www.wikidata.org/entity/Q2396658
+Ancienne abbaye de Saint-Laurent Liège;fr;4;50.6415,5.5594,500;http://www.wikidata.org/entity/Q2820390
+Museo de los Descalzos Lima;fr;4;-12.03385,-77.02437,500;http://www.wikidata.org/entity/Q18417014
+Basilique Sainte-Thérèse Lisieux;fr;4;49.1396,0.2364,500;http://www.wikidata.org/entity/Q810098
+Green Dome Maebashi Maebashi;fr;4;36.3976,139.0578,500;http://www.wikidata.org/entity/Q9276205
+Grotte bleue Malte;fr;4;35.821389,14.456667,500;http://www.wikidata.org/entity/Q882491
+Hypogée de Hal Saflieni Malte;fr;4;35.871333,14.507389,500;http://www.wikidata.org/entity/Q755514
+Temples de Tarxien Malte;fr;4;35.871,14.512611,500;http://www.wikidata.org/entity/Q1064331
+Temple de Hagar Qin Malte;fr;4;35.8278,14.4422,500;http://www.wikidata.org/entity/Q343053
+Temple de Mnajdra Malte;fr;4;35.826667,14.436389,500;http://www.wikidata.org/entity/Q584366
+Catacombes de saint Paul Malte;fr;4;35.88069,14.39761,500;http://www.wikidata.org/entity/Q3663203
+Palais des grands maîtres Malte;fr;4;35.898833,14.514056,500;http://www.wikidata.org/entity/Q1368885
+Cathédrale Saint-Jean Malte;fr;4;35.89778,14.51278,500;http://www.wikidata.org/entity/Q613619
+Auberge de Castille et de Léon Malte;fr;4;35.895806,14.511225,500;http://www.wikidata.org/entity/Q2499012
+Hôpital des chevaliers Malte;fr;4;35.899,14.518,500;http://www.wikidata.org/entity/Q16894983
+Fort Saint-Elme Malte;fr;4;35.901944,14.518611,500;http://www.wikidata.org/entity/Q1438745
+Palais de l'inquisiteur Malte;fr;4;35.887,14.522583,500;http://www.wikidata.org/entity/Q3361044
+Fort Saint-Ange Malte;fr;4;35.891944,14.518333,500;http://www.wikidata.org/entity/Q2207146
+Jardins du Bosquet Malte;fr;4;35.86139,14.39889,500;http://www.wikidata.org/entity/Q1017641
+Théâtre Manoel Malte;fr;4;35.900278,14.5125,500;http://www.wikidata.org/entity/Q576800
+Citadelle de Mdina Malte;fr;4;35.88583,14.40306,500;http://www.wikidata.org/entity/Q20078727
+Cathédrale Saint-Pierre-et-Saint-Paul de Mdina Malte;fr;4;35.88583,14.40306,500;http://www.wikidata.org/entity/Q1630170
+Fenêtre d'Azur Malte;fr;4;36.05333,14.18833,500;http://www.wikidata.org/entity/Q794354
+Temple de Ggantija Malte;fr;4;36.047222,14.269167,500;http://www.wikidata.org/entity/Q216862
+Cathédrale de Gozo Malte;fr;4;36.04621,14.23959,500;http://www.wikidata.org/entity/Q1736126
+Musée d'Art Contemporain Marseille;fr;4;43.2505,5.3895,500;http://www.wikidata.org/entity/Q3329581
+Château de Matsue Matsue;fr;4;35.4752,133.0508,500;http://www.wikidata.org/entity/Q151776
+Rue Shiomi Nawate Matsue;fr;4;35.478303,133.050678,500;http://www.wikidata.org/entity/Q11428879
+Pavillon de thé Meimei-an Matsue;fr;4;35.4788,133.05228,500;http://www.wikidata.org/entity/Q3304708
+Ancienne résidence de Lafcadio Hearn Matsue;fr;4;35.47928,133.04943,500;http://www.wikidata.org/entity/Q11462489
+Musée à la mémoire de Lafcadio Hearn Matsue;fr;4;35.479255,133.049133,500;http://www.wikidata.org/entity/Q1778875
+Musée d'art de Shimane Matsue;fr;4;35.45947,133.0525,500;http://www.wikidata.org/entity/Q2655425
+Temple Gesshō-ji Matsue;fr;4;35.47136,133.03995,500;http://www.wikidata.org/entity/Q3517478
+Musée de l'Université de Shimane - ancienne loge Okudani Matsue;fr;4;35.46806,133.048375,500;http://www.wikidata.org/entity/Q11476431
+Jardin japonais Yūshi-en Matsue;fr;4;35.490988,133.176162,500;http://www.wikidata.org/entity/Q11577586
+Sanctuaire Yaegaki Matsue;fr;4;35.42903,133.0737,500;http://www.wikidata.org/entity/Q3571285
+Matsue Vogel Park Matsue;fr;4;35.4762,132.94397,500;http://www.wikidata.org/entity/Q6788091
+Matsue English Garden Matsue;fr;4;35.47744,133.003841,500;http://www.wikidata.org/entity/Q11531634
+Sanctuaire Sada-jinja Matsue;fr;4;35.50892,133.00644,500;http://www.wikidata.org/entity/Q3461072
+Sanctuaire Kamosu jinja Matsue;fr;4;35.42553,133.0843,500;http://www.wikidata.org/entity/Q3192477
+Fudoki-no-Oka Matsue;fr;4;35.426337,133.090374,500;http://www.wikidata.org/entity/Q11473525
+Grand sanctuaire de Kumano Matsue;fr;4;35.37337,133.07034,500;http://www.wikidata.org/entity/Q11568887
+Entrée des enfers Matsue;fr;4;35.427762,133.162124,500;http://www.wikidata.org/entity/Q22084535
+Château de Matsumoto Matsumoto;fr;4;36.2389,137.96917,500;http://www.wikidata.org/entity/Q739612
+Musée d'art de Matsumoto Matsumoto;fr;4;36.231611,137.976472,500;http://www.wikidata.org/entity/Q11531052
+Musée japonais de l'ukiyo-e Matsumoto;fr;4;36.23183,137.93462,500;http://www.wikidata.org/entity/Q6157886
+Chutes françaises de la rivière Uchibuse Matsumoto;fr;4;36.161431,138.023428,500;http://www.wikidata.org/entity/Q11570076
+Musée de l'horlogerie de Matsumoto Matsumoto;fr;4;36.233889,137.968730,500;http://www.wikidata.org/entity/Q11531031
+Bansuisō Matsuyama;fr;4;33.842444,132.768222,500;http://www.wikidata.org/entity/Q11620495
+Parc Dōgo Matsuyama;fr;4;33.8483,132.7868,500;http://www.wikidata.org/entity/Q11641707
+Ruines du château de Yuzuki Matsuyama;fr;4;33.84856,132.7872,500;http://www.wikidata.org/entity/Q649463
+Sanctuaire Isaniwa Matsuyama;fr;4;33.85056,132.78917,500;http://www.wikidata.org/entity/Q3155126
+Château de Matsuyama;fr;4;33.84556,132.76583,500;http://www.wikidata.org/entity/Q981357
+Parc central de Matsuyama;fr;4;33.844494,132.741083,500;http://www.wikidata.org/entity/Q11529918
+Musée d'art d'Ehime Matsuyama;fr;4;33.840139,132.761944,500;http://www.wikidata.org/entity/Q11493678
+Musée Saka no Ue no Kumo Matsuyama;fr;4;33.841771,132.769208,500;http://www.wikidata.org/entity/Q7402728
+Shikidō Matsuyama;fr;4;33.8346,132.7634,500;http://www.wikidata.org/entity/Q11447937
+Jōruri-ji Matsuyama;fr;4;33.75356,132.81911,500;http://www.wikidata.org/entity/Q11556869
+Yasaka-ji Matsuyama;fr;4;33.75794,132.81286,500;http://www.wikidata.org/entity/Q11390686
+Sairin-ji Matsuyama;fr;4;33.79372,132.81394,500;http://www.wikidata.org/entity/Q11628773
+Jōdo-ji Matsuyama;fr;4;33.8167,132.80842,500;http://www.wikidata.org/entity/Q3191228
+Hanta-ji Matsuyama;fr;4;33.82814,132.80456,500;http://www.wikidata.org/entity/Q11608174
+Ishite-ji Matsuyama;fr;4;33.84786,132.79647,500;http://www.wikidata.org/entity/Q3155277
+Taizan-ji Matsuyama;fr;4;33.88056,132.7197,500;http://www.wikidata.org/entity/Q3514066
+Enmyō-ji Matsuyama;fr;4;33.89147,132.74003,500;http://www.wikidata.org/entity/Q3054442
+Dōgo Onsen Honkan Matsuyama;fr;4;33.852098,132.786427,500;http://www.wikidata.org/entity/Q11641713
+Jardin Kairaku-en Mito;fr;4;36.3753,140.4523,500;http://www.wikidata.org/entity/Q71952
+Tokiwa Jinja Mito;fr;4;36.374942,140.455644,500;http://www.wikidata.org/entity/Q3530470
+Seizansō Mito;fr;4;36.5419,140.50671,500;http://www.wikidata.org/entity/Q11627901
+Fondation artistique de Mito Mito;fr;4;36.380358,140.465848,500;http://www.wikidata.org/entity/Q705767
+Kōdōkan Mito;fr;4;36.3756,140.47765,500;http://www.wikidata.org/entity/Q3081773
+Aoshima Miyazaki;fr;4;31.8052,131.476,500;http://www.wikidata.org/entity/Q4778779
+Sanctuaire Udo Miyazaki;fr;4;31.6503,131.46667,500;http://www.wikidata.org/entity/Q704430
+Miyazaki-jingū Miyazaki;fr;4;31.9386,131.42333,500;http://www.wikidata.org/entity/Q704686
+Tour de la paix Miyazaki;fr;4;31.947778,131.414444,500;http://www.wikidata.org/entity/Q3364135
+Sites palafittiques Morges;fr;4;46.514697,6.508169,500;http://www.wikidata.org/entity/Q3324041
+Château de Morioka Morioka;fr;4;39.7,141.15,500;http://www.wikidata.org/entity/Q251650
+Hōon-ji Morioka;fr;4;39.7122,141.1561,500;http://www.wikidata.org/entity/Q11428045
+Musée d'art de la préfecture d'Iwate Morioka;fr;4;39.69357,141.12486,500;http://www.wikidata.org/entity/Q3298581
+Château de Shiwa Morioka;fr;4;39.68304,141.1054,500;http://www.wikidata.org/entity/Q11491083
+Morioka Hachiman-gū Morioka;fr;4;39.6954,141.164,500;http://www.wikidata.org/entity/Q11581351
+Daiji-ji Morioka;fr;4;39.6938,141.1578,500;http://www.wikidata.org/entity/Q11435475
+Zoo de Morioka Morioka;fr;4;39.69706,141.1905,500;http://www.wikidata.org/entity/Q11581372
+Place de la Réunion Mulhouse;fr;4;47.746667,7.3385,500;http://www.wikidata.org/entity/Q3390444
+Temple Saint-Étienne Mulhouse;fr;4;47.74722,7.33889,500;http://www.wikidata.org/entity/Q2402982
+Bollwerk Mulhouse;fr;4;47.74858,7.34211,500;http://www.wikidata.org/entity/Q2909470
+Tour de l'Europe Mulhouse;fr;4;47.75,7.340556,500;http://www.wikidata.org/entity/Q1398273
+Cité de l'automobile Mulhouse;fr;4;47.760833,7.328611,500;http://www.wikidata.org/entity/Q867719
+Cité du Train Mulhouse;fr;4;47.75056,7.29389,500;http://www.wikidata.org/entity/Q728562
+Musée EDF Electropolis Mulhouse;fr;4;47.749083,7.29525,500;http://www.wikidata.org/entity/Q3329134
+Musée des Beaux-Arts Mulhouse;fr;4;47.745799,7.338371,500;http://www.wikidata.org/entity/Q3330211
+Hôtel de ville de Mulhouse et musée historique de Mulhouse;fr;4;47.74663,7.3393,500;http://www.wikidata.org/entity/Q15818388
+Musée de l'impression sur étoffes Mulhouse;fr;4;47.745095,7.344596,500;http://www.wikidata.org/entity/Q3329839
+Musée du papier peint de Rixheim Mulhouse;fr;4;47.744222,7.396955,500;http://www.wikidata.org/entity/Q3330461
+Parc zoologique et botanique de Mulhouse Mulhouse;fr;4;47.734698,7.35039,500;http://www.wikidata.org/entity/Q220064
+Zenkō-ji Nagano;fr;4;36.66110,138.18765,500;http://www.wikidata.org/entity/Q189640
+Musée d'art Shinano de la préfecture de Nagano;fr;4;36.66167,138.1911,500;http://www.wikidata.org/entity/Q11654278
+Quartier-général impérial souterrain de Matsushiro Nagano;fr;4;36.545811,138.203931,500;http://www.wikidata.org/entity/Q3413024
+Parc de la Paix Nagasaki;fr;4;32.77558,129.86312,500;http://www.wikidata.org/entity/Q93490
+Cathédrale d'Urakami Nagasaki;fr;4;32.776194,129.8683,500;http://www.wikidata.org/entity/Q571980
+Musée de la Bombe Atomique Nagasaki;fr;4;32.77278,129.86500,500;http://www.wikidata.org/entity/Q1099077
+Demi Torii du Sanctuaire Sannō Nagasaki;fr;4;32.7675,129.86861,500;http://www.wikidata.org/entity/Q211522
+Aquarium du port de Nagoya Nagoya;fr;4;35.0906,136.8782,500;http://www.wikidata.org/entity/Q7231211
+Musée commémoratif de l'industrie et de la technologie de Toyota Nagoya;fr;4;35.183244,136.875944,500;http://www.wikidata.org/entity/Q7830774
+Musée d'art de la ville de Nagoya;fr;4;35.1639,136.9011,500;http://www.wikidata.org/entity/Q469573
+Château de Nagoya;fr;4;35.185555,136.898611,500;http://www.wikidata.org/entity/Q648629
+Sanctuaire Atsuta Nagoya;fr;4;35.1275,136.908333,500;http://www.wikidata.org/entity/Q482065
+Musée Toyota de l'automobile Nagoya;fr;4;35.172744,137.05802,500;http://www.wikidata.org/entity/Q7830749
+Musée des beaux arts Nagoya/Boston;fr;4;35.14268,136.9,500;http://www.wikidata.org/entity/Q6958940
+Temple Nittai-ji Nagoya;fr;4;35.17167,136.95528,500;http://www.wikidata.org/entity/Q3342235
+Parc Shirakawa Nagoya;fr;4;35.163991,136.900022,500;http://www.wikidata.org/entity/Q11579701
+Musée d'art Tokugawa Nagoya;fr;4;35.183692,136.933189,500;http://www.wikidata.org/entity/Q3077236
+Temple Kōshō-ji Nagoya;fr;4;35.14056,136.9625,500;http://www.wikidata.org/entity/Q3201314
+Sanctuaire Shiroyama Hakusan Nagoya;fr;4;35.1675,136.95972,500;http://www.wikidata.org/entity/Q3482375
+Temple Tōgan-ji Nagoya;fr;4;35.1613,136.965,500;http://www.wikidata.org/entity/Q3547068
+Musée de la science de la ville de Nagoya Nagoya;fr;4;35.164772,136.899666,500;http://www.wikidata.org/entity/Q11415016
+Temple Arako Kannon Nagoya;fr;4;35.136569,136.858225,500;http://www.wikidata.org/entity/Q2859467
+Temple Ōsu Kannon Nagoya;fr;4;35.1598,136.9,500;http://www.wikidata.org/entity/Q3594052
+Tour de télévision de Nagoya;fr;4;35.1724,136.908,500;http://www.wikidata.org/entity/Q283373
+Parc Hisaya-ōdōri Nagoya;fr;4;35.168708,136.908383,500;http://www.wikidata.org/entity/Q872549
+Musée d'art de la préfecture d'Aichi Nagoya;fr;4;35.171150,136.911308,500;http://www.wikidata.org/entity/Q11256823
+Château de Shuri Naha;fr;4;26.217,127.7195,500;http://www.wikidata.org/entity/Q907052
+Musée d'art Chichū Naoshima;fr;4;34.44976,133.9858,500;http://www.wikidata.org/entity/Q4556499
+Benesse House Naoshima;fr;4;34.445,133.9909,500;http://www.wikidata.org/entity/Q11337013
+Musée Lee Ufan Naoshima;fr;4;34.44889,133.9889,500;http://www.wikidata.org/entity/Q11522528
+Kōfuku-ji Nara;fr;4;34.683207,135.831302,500;http://www.wikidata.org/entity/Q1070863
+Étang de Sarusawa Nara;fr;4;34.681464,135.830972,500;http://www.wikidata.org/entity/Q11572131
+Sanctuaire Kasuga Taisha Nara;fr;4;34.6797,135.83894,500;http://www.wikidata.org/entity/Q714559
+Musée national de Nara;fr;4;34.68359,135.836672,500;http://www.wikidata.org/entity/Q147312
+Forêt primaire de la colline Kasuga-yama Nara;fr;4;34.683,135.8628,500;http://www.wikidata.org/entity/Q5367406
+Tōdai-ji Nara;fr;4;34.6869,135.8393,500;http://www.wikidata.org/entity/Q460367
+Yoshiki-en Nara;fr;4;34.685181,135.837331,500;http://www.wikidata.org/entity/Q23825091
+Isui-en Nara;fr;4;34.6857,135.8377,500;http://www.wikidata.org/entity/Q2745677
+Sanctuaire Himuro Nara;fr;4;34.6844,135.83788,500;http://www.wikidata.org/entity/Q11549570
+Shin-Yakushi-ji Nara;fr;4;34.67585,135.846167,500;http://www.wikidata.org/entity/Q3080305
+Musée de la photographie de la ville de Nara;fr;4;34.67558,135.8454,500;http://www.wikidata.org/entity/Q11388956
+Yakushi-ji Nara;fr;4;34.4927,135.8,500;http://www.wikidata.org/entity/Q945913
+Gangō-ji Nara;fr;4;34.6778,135.83136,500;http://www.wikidata.org/entity/Q1203099
+Site du palais Heijōkyū Nara;fr;4;34.6911,135.7956,500;http://www.wikidata.org/entity/Q211585
+Tōshōdai-ji Nara;fr;4;34.6756,135.78483,500;http://www.wikidata.org/entity/Q973175
+Centre des 100 ans de Nara;fr;4;34.6803,135.8164,500;http://www.wikidata.org/entity/Q6965228
+Musée national Boubou-Hama Niamey;fr;4;13.5126,2.10822,500;http://www.wikidata.org/entity/Q1989844
+Promenade des Anglais Nice;fr;4;43.691,7.24759,500;http://www.wikidata.org/entity/Q1849491
+Vieux-Nice Nice;fr;4;43.696727,7.275889,500;http://www.wikidata.org/entity/Q3558059
+Colline du Château Nice;fr;4;43.695962,7.279679,500;http://www.wikidata.org/entity/Q2970127
+Musée d'art moderne et d'art contemporain Nice;fr;4;43.70144,7.27852,500;http://www.wikidata.org/entity/Q936859
+Musée archéologique de Cimiez Nice;fr;4;43.718989,7.276184,500;http://www.wikidata.org/entity/Q3329446
+Musée de la préhistoire de Terra Amata Nice;fr;4;43.697856,7.289194,500;http://www.wikidata.org/entity/Q3330096
+Muséum d’histoire naturelle Nice;fr;4;43.70167,7.27944,500;http://www.wikidata.org/entity/Q3330894
+Musée des Beaux-Arts Jules Chéret Nice;fr;4;43.694583,7.248889,500;http://www.wikidata.org/entity/Q3330218
+Musée et d’Art naïf Anatole Jakovsky Nice;fr;4;43.686194,7.232858,500;http://www.wikidata.org/entity/Q3330613
+Musée Masséna Nice;fr;4;43.695219,7.258944,500;http://www.wikidata.org/entity/Q3329270
+Musée Prieuré du vieux logis Nice;fr;4;43.7207,7.255,500;http://www.wikidata.org/entity/Q24006488
+Musée des arts asiatiques Nice;fr;4;43.668106,7.216117,500;http://www.wikidata.org/entity/Q3330160
+Musée Marc-Chagall Nice;fr;4;43.70917,7.269536,500;http://www.wikidata.org/entity/Q3329265
+Musée national du Sport Nice;fr;4;43.706384,7.192385,500;http://www.wikidata.org/entity/Q3330734
+Mont Boron Nice;fr;4;43.69,7.30083,500;http://www.wikidata.org/entity/Q3321705
+Fort du Mont Alban Nice;fr;4;43.701297,7.300175,500;http://www.wikidata.org/entity/Q2133894
+Château de l'Anglais Nice;fr;4;43.68946,7.29421,500;http://www.wikidata.org/entity/Q2640864
+Parc Phœnix Nice;fr;4;43.6683,7.2175,500;http://www.wikidata.org/entity/Q3363889
+MINATOPIA - Musée d'histoire de la ville de Niigata;fr;4;37.92983,139.0577,500;http://www.wikidata.org/entity/Q11502895
+Musée de la culture du Nord Niigata;fr;4;37.8296,139.15215,500;http://www.wikidata.org/entity/Q11246368
+Pont d'observation de Toki Messe Niigata;fr;4;37.92616,139.06,500;http://www.wikidata.org/entity/Q705614
+Résidence Nakano - Musée de la fondation d'art Niigata;fr;4;37.75025,139.1142,500;http://www.wikidata.org/entity/Q17227042
+Tōshōgū Nikkō;fr;4;36.757161,139.599988,500;http://www.wikidata.org/entity/Q1190456
+Temple Rinnō-ji Nikkō;fr;4;36.754393,139.600857,500;http://www.wikidata.org/entity/Q1348249
+Sanctuaire Futarasan Nikkō;fr;4;36.75842,139.596443,500;http://www.wikidata.org/entity/Q701927
+Ancienne villa impériale Tamozawa Nikkō;fr;4;36.7525,139.591389,500;http://www.wikidata.org/entity/Q11504890
+Jardin botanique de Nikkō;fr;4;36.75,139.6,500;http://www.wikidata.org/entity/Q15262331
+Village de Chūzenji Nikkō;fr;4;36.7367,139.4592,500;http://www.wikidata.org/entity/Q117923
+Chutes de Kegon Nikkō;fr;4;36.73472,139.505,500;http://www.wikidata.org/entity/Q37580
+Lac Chūzenji Nikkō;fr;4;36.73667,139.45917,500;http://www.wikidata.org/entity/Q117923
+Chutes de Ryūzu Nikkō;fr;4;36.758822,139.451258,500;http://www.wikidata.org/entity/Q37814
+Chutes de Yudaki Nikkō;fr;4;36.796167,139.428425,500;http://www.wikidata.org/entity/Q11563734
+Lac Yunoko Nikkō;fr;4;36.8,139.423611,500;http://www.wikidata.org/entity/Q11563442
+Restes du château de Funai Oita;fr;4;33.2401,131.6114,500;http://www.wikidata.org/entity/Q1142070
+Takasakiyama Oita;fr;4;33.252,131.524,500;http://www.wikidata.org/entity/Q11669749
+Kōraku-en Okayama;fr;4;34.66802,133.93557,500;http://www.wikidata.org/entity/Q1377689
+Château d'Okayama;fr;4;34.66525,133.93605,500;http://www.wikidata.org/entity/Q1013448
+Musée de l'Orient d'Okayama;fr;4;34.66659,133.93018,500;http://www.wikidata.org/entity/Q4707582
+Musée préfectoral d'Okayama;fr;4;34.66867,133.93382,500;http://www.wikidata.org/entity/Q3247162
+Musée préfectoral d'art d'Okayama;fr;4;34.66775,133.92986,500;http://www.wikidata.org/entity/Q4677150
+Musée des beaux-arts Hayashibara Okayama;fr;4;34.66367,133.93325,500;http://www.wikidata.org/entity/Q4707602
+Yumeji Art Museum Okayama;fr;4;34.67079,133.93456,500;http://www.wikidata.org/entity/Q2386994
+Sanctuaire Kibitsuhiko Okayama;fr;4;34.676751,133.863895,500;http://www.wikidata.org/entity/Q500763
+Sanctuaire Kibitsu Okayama;fr;4;34.670725,133.850629,500;http://www.wikidata.org/entity/Q712824
+Tumulus de Tsukuriyama Okayama;fr;4;34.673785,133.803708,500;http://www.wikidata.org/entity/Q11639745
+Tumulus de Kōmori-zuka Okayama;fr;4;34.667591,133.786622,500;http://www.wikidata.org/entity/Q11266204
+Bitchū Kokubun-ji Okayama;fr;4;34.666386,133.782185,500;http://www.wikidata.org/entity/Q10889244
+Site du château de Takamatsu Okayama;fr;4;34.693001,133.822035,500;http://www.wikidata.org/entity/Q1071073
+Saijō Inari Okayama;fr;4;34.709379,133.832799,500;http://www.wikidata.org/entity/Q11515459
+Jardin botanique Handayama Okayama;fr;4;34.691769,133.931966,500;http://www.wikidata.org/entity/Q5647261
+Sōgen-ji Okayama;fr;4;34.659167,133.972713,500;http://www.wikidata.org/entity/Q11515227
+Saidai-ji Okayama;fr;4;34.654146,134.037866,500;http://www.wikidata.org/entity/Q11627549
+Hōkai-in Okayama;fr;4;34.693971,133.934077,500;http://www.wikidata.org/entity/Q11555275
+Seirensho Art Museum Okayama;fr;4;34.563736,134.106243,500;http://www.wikidata.org/entity/Q6059267
+Art House Project Okayama;fr;4;34.564553,134.103049,500;http://www.wikidata.org/entity/Q11455368
+Fort de Santa-Cruz Oran;fr;4;35.709191,-0.665317,500;http://www.wikidata.org/entity/Q524667
+Musée d'histoire d'Osaka;fr;4;34.682722,135.520806,500;http://www.wikidata.org/entity/Q11261312
+Musée de plein-air des vieilles fermes Osaka;fr;4;34.779167,135.488194,500;http://www.wikidata.org/entity/Q11508426
+Osaka International Peace Center Osaka;fr;4;34.68167,135.53000,500;http://www.wikidata.org/entity/Q7105564
+Temple Enryakuji Ōtsu;fr;4;35.070556,135.841111,500;http://www.wikidata.org/entity/Q917195
+Temple Gichu-ji Ōtsu;fr;4;35.002917,135.880194,500;http://www.wikidata.org/entity/Q11609925
+Ishiyama-dera Ōtsu;fr;4;34.960419,135.905625,500;http://www.wikidata.org/entity/Q1082791
+Temple Mii-dera Ōtsu;fr;4;35.013358,135.852850,500;http://www.wikidata.org/entity/Q1756307
+Hiyoshi Taisha Ōtsu;fr;4;35.073444,135.864972,500;http://www.wikidata.org/entity/Q656451
+Jardin du Luxembourg 6e arrondissement de Paris;fr;4;48.84694,2.33694,500;http://www.wikidata.org/entity/Q309458
+Palais du Luxembourg 6e arrondissement de Paris;fr;4;48.84833,2.3372,500;http://www.wikidata.org/entity/Q329852
+Cimetière américain de Henri-Chapelle Plombières;fr;4;50.69712,5.90054,500;http://www.wikidata.org/entity/Q1605663
+Tour Hassan Rabat;fr;4;34.02411,-6.82273,500;http://www.wikidata.org/entity/Q579331
+Basilique Saint-Pierre-aux-Liens Esquilino-San Giovanni;fr;4;41.893872,12.493069,500;http://www.wikidata.org/entity/Q542070
+Château de Saga Saga;fr;4;33.24574,130.3022,500;http://www.wikidata.org/entity/Q1071095
+Parc Kōno Saga;fr;4;33.2662,130.28097,500;http://www.wikidata.org/entity/Q11590958
+Musée d'histoire et du folklore de la ville de Saga Saga;fr;4;33.2541057,130.3065743,500;http://www.wikidata.org/entity/Q11384647
+Ruines de la capitale de la province de Hizen Saga;fr;4;33.316944,130.274,500;http://www.wikidata.org/entity/Q11611529
+Pont levant de la rivière Chikugo Saga;fr;4;33.214639,130.362444,500;http://www.wikidata.org/entity/Q1056242
+Château de Bonaguil Saint-Front-sur-Lemance;fr;4;44.538218,1.014308,500;http://www.wikidata.org/entity/Q2206135
+Cathédrale Notre-Dame de Kazan Saint-Pétersbourg;fr;4;59.9343,30.3245,500;http://www.wikidata.org/entity/Q404571
+Église du Sauveur-sur-le-Sang-Versé Saint-Pétersbourg;fr;4;59.94,30.328611,500;http://www.wikidata.org/entity/Q215208
+Cathédrale Saint-Isaac Saint-Pétersbourg;fr;4;59.934289,30.306667,500;http://www.wikidata.org/entity/Q215423
+Amirauté Saint-Pétersbourg;fr;4;59.9376,30.3086,500;http://www.wikidata.org/entity/Q359185
+Palais d'Hiver Saint-Pétersbourg;fr;4;59.9404,30.3139,500;http://www.wikidata.org/entity/Q182147
+Sanctuaire Hikawa Saitama;fr;4;35.91675,139.62973,500;http://www.wikidata.org/entity/Q703633
+Musée de l'histoire et du folklore de la préfecture de Saitama;fr;4;35.92117,139.6301,500;http://www.wikidata.org/entity/Q11248611
+Musée du chemin de fer Saitama;fr;4;35.92028,139.6178,500;http://www.wikidata.org/entity/Q846106
+Musée d'art Urawa Saitama;fr;4;35.860629,139.652457,500;http://www.wikidata.org/entity/Q11260799
+Jion-ji Saitama;fr;4;35.979476,139.710755,500;http://www.wikidata.org/entity/Q11494996
+Aquarium National Saint-Domingue;fr;4;18.468714°,-69.850217,500;http://www.wikidata.org/entity/Q5657019
+La tour de télévision Sapporo TV Tower Sapporo;fr;4;43.061111,141.356389,500;http://www.wikidata.org/entity/Q1063319
+Tour de l'horloge Sapporo;fr;4;43.062602,141.353681,500;http://www.wikidata.org/entity/Q1140619
+Musée de la Bière de Sapporo;fr;4;43.071666,141.368836,500;http://www.wikidata.org/entity/Q1055944
+Parc Ōdōri Sapporo;fr;4;43.059722,141.346389,500;http://www.wikidata.org/entity/Q3107971
+Village historique de Hokkaidō Sapporo;fr;4;43.048278,141.497056,500;http://www.wikidata.org/entity/Q11403710
+Parc du mémorial du 100e anniversaire Sapporo;fr;4;43.0565,141.496342,500;http://www.wikidata.org/entity/Q11402928
+Moiwayama Sapporo;fr;4;43.022139,141.322111,500;http://www.wikidata.org/entity/Q11625132
+Parc Asahiyama Sapporo;fr;4;43.039667,141.315028,500;http://www.wikidata.org/entity/Q11511678
+Sanctuaire de Hokkaidō Sapporo;fr;4;43.054235,141.307705,500;http://www.wikidata.org/entity/Q710826
+Jōzankei Sapporo;fr;4;42.915833,141.153611,500;http://www.wikidata.org/entity/Q6322282
+JR Tower Sapporo;fr;4;43.06813,141.352528,500;http://www.wikidata.org/entity/Q3041894
+Musée d'art moderne de Hokkaidō Sapporo;fr;4;43.060062,141.330378,500;http://www.wikidata.org/entity/Q11402992
+Sapporo Art Park Sapporo;fr;4;42.940166,141.340849,500;http://www.wikidata.org/entity/Q11249476
+Parc Moerenuma Sapporo;fr;4;43.124,141.43,500;http://www.wikidata.org/entity/Q1298335
+Jardin botanique de l'université de Hokkaidō Sapporo;fr;4;43.063667,141.342472,500;http://www.wikidata.org/entity/Q2842754
+Parc du patrimoine Wanuskewin Saskatoon;fr;4;52.223611,-106.595,500;http://www.wikidata.org/entity/Q3566179
+Musée d'art de Miyagi Sendai;fr;4;38.26406,140.8549,500;http://www.wikidata.org/entity/Q11453791
+Sanctuaire Ōsaki Hachiman Sendai;fr;4;38.2722,140.845,500;http://www.wikidata.org/entity/Q874428
+Statue de Kannon Sendai;fr;4;38.3007,140.8236,500;http://www.wikidata.org/entity/Q1621882
+Médiathèque de Sendai;fr;4;38.26556,140.86556,500;http://www.wikidata.org/entity/Q988508
+Musée de la ville de Sendai;fr;4;38.2561,140.85694,500;http://www.wikidata.org/entity/Q3330092
+Zoo de Yagiyama Sendai;fr;4;38.24433,140.8443,500;http://www.wikidata.org/entity/Q11377835
+Ruines du château de Sendai;fr;4;38.2525,140.85616,500;http://www.wikidata.org/entity/Q598621
+Musée de la forêt dans les profondeurs de la terre Sendai;fr;4;38.2228,140.8725,500;http://www.wikidata.org/entity/Q11424312
+Zuihō-den Sendai;fr;4;38.2508,140.8657,500;http://www.wikidata.org/entity/Q115856
+Miho no Matsubara Shizuoka;fr;4;34.995,138.52278,500;http://www.wikidata.org/entity/Q869275
+Nihondaira Shizuoka;fr;4;34.97556,138.46694,500;http://www.wikidata.org/entity/Q4026928
+Kunōzan Tōshō-gū Shizuoka;fr;4;34.964742,138.467642,500;http://www.wikidata.org/entity/Q712162
+Château de Sunpu Shizuoka;fr;4;34.979444,138.383611,500;http://www.wikidata.org/entity/Q1038629
+Le Conseil de l'Europe Strasbourg;fr;4;48.59478,7.77180,500;http://www.wikidata.org/entity/Q8908
+La Cour Européenne des Droits de l'Homme Strasbourg;fr;4;48.59701,7.77457,500;http://www.wikidata.org/entity/Q122880
+Musée d'Art Moderne et Contemporain Strasbourg;fr;4;48.57944,7.73604,500;http://www.wikidata.org/entity/Q845468
+Musée Alsacien Strasbourg;fr;4;48.57913,7.75061,500;http://www.wikidata.org/entity/Q565125
+Palais Rohan Strasbourg;fr;4;48.58092,7.75180,500;http://www.wikidata.org/entity/Q1561438
+Musée Tomi Ungerer Strasbourg;fr;4;48.58570,7.75500,500;http://www.wikidata.org/entity/Q3329373
+Musée Zoologique Strasbourg;fr;4;48.58273,7.76470,500;http://www.wikidata.org/entity/Q220280
+Musée historique de Strasbourg Strasbourg;fr;4;48.58098,7.75127,500;http://www.wikidata.org/entity/Q3330600
+Musée de l'Œuvre Notre-Dame Strasbourg;fr;4;48.58104,7.75140,500;http://www.wikidata.org/entity/Q847007
+Cabinet des Estampes et des Dessins Strasbourg;fr;4;48.58119,7.75039,500;http://www.wikidata.org/entity/Q655668
+Planétarium de Strasbourg Strasbourg;fr;4;48.58293,7.76879,500;http://www.wikidata.org/entity/Q3391658
+Jardin botanique de Strasbourg Strasbourg;fr;4;48.58355,7.76701,500;http://www.wikidata.org/entity/Q2743795
+Le parc de la Citadelle Strasbourg;fr;4;48.57585,7.77470,500;http://www.wikidata.org/entity/Q3364199
+Le parc de Pourtalès Strasbourg;fr;4;48.6099,7.8011,500;http://www.wikidata.org/entity/Q3364151
+Centre d'interprétation des mammifères marins Tadoussac;fr;4;48.1392,-69.7189,500;http://www.wikidata.org/entity/Q16536945
+Chapelle de Tadoussac Tadoussac;fr;4;48.141892,-69.715315,500;http://www.wikidata.org/entity/Q2957267
+Phare du haut-fond Prince Tadoussac;fr;4;48.1,-69.616667,500;http://www.wikidata.org/entity/Q2085048
+Parc Ritsurin Takamatsu;fr;4;34.329591,134.043968,500;http://www.wikidata.org/entity/Q1071520
+Parc Tamamo Takamatsu;fr;4;34.350309,134.051613,500;http://www.wikidata.org/entity/Q670725
+Musée de la préfecture de Kagawa Takamatsu;fr;4;34.349708,134.053266,500;http://www.wikidata.org/entity/Q7743932
+Musée d'art de la ville de Takamatsu;fr;4;34.344141,134.049173,500;http://www.wikidata.org/entity/Q11670406
+Takamatsu Symbol Tower Takamatsu;fr;4;34.352879,134.046464,500;http://www.wikidata.org/entity/Q7661149
+Plateau de Yashima Takamatsu;fr;4;34.358,134.102,500;http://www.wikidata.org/entity/Q3571905
+Shikoku-mura Takamatsu;fr;4;34.34556,134.10889,500;http://www.wikidata.org/entity/Q4250629
+Vieille ville de Yafo Tel Aviv-Yafo;fr;4;32.045,34.77,500;http://www.wikidata.org/entity/Q180294
+Musée d'art de Tel Aviv Tel Aviv-Yafo;fr;4;32.0774,34.78685,500;http://www.wikidata.org/entity/Q1267958
+Parc Ha'Yarkon Tel Aviv-Yafo;fr;4;32.0994,34.8104,500;http://www.wikidata.org/entity/Q1683522
+Musée de la Diaspora Tel Aviv-Yafo;fr;4;32.1138,34.8053,500;http://www.wikidata.org/entity/Q796764
+Awa Odori Kaikan Tokushima;fr;4;34.07014,134.5451,500;http://www.wikidata.org/entity/Q4829638
+Château de Tokushima;fr;4;34.0752,134.5553,500;http://www.wikidata.org/entity/Q8011246
+Awa Jūrōbe Yashiki Tokushima;fr;4;34.09156,134.58397,500;http://www.wikidata.org/entity/Q11657511
+Maison de l'indigo Tokushima;fr;4;34.11561,134.48228,500;http://www.wikidata.org/entity/Q11622548
+Musée d'art moderne de Tokushima;fr;4;34.0398,134.5267,500;http://www.wikidata.org/entity/Q11489972
+Musée préfectoral de Tokushima;fr;4;34.0395,134.5261,500;http://www.wikidata.org/entity/Q4707942
+Takeshita-dōri Harajuku;fr;4;35.67125,139.70481,500;http://www.wikidata.org/entity/Q3179287
+Parc Yoyogi Harajuku;fr;4;35.671975,139.697685,500;http://www.wikidata.org/entity/Q1204253
+Meiji Jingū Harajuku;fr;4;35.676111,139.699167,500;http://www.wikidata.org/entity/Q287165
+Tōgō-jinja Harajuku;fr;4;35.67111,139.70722,500;http://www.wikidata.org/entity/Q1384780
+Musée Okamoto Tarō Kinenkan Harajuku;fr;4;35.6613,139.71558,500;http://www.wikidata.org/entity/Q11473108
+TEPIA Harajuku;fr;4;35.673014,139.716845,500;http://www.wikidata.org/entity/Q11319358
+Carrefour de Shibuya;fr;4;35.65948,139.70053,500;http://www.wikidata.org/entity/Q21083961
+Center Gai Shibuya;fr;4;35.659835,139.700104,500;http://www.wikidata.org/entity/Q5059296
+Bunkamura Shibuya;fr;4;35.660232,139.695571,500;http://www.wikidata.org/entity/Q583055
+Hikarie Shibuya;fr;4;35.658846,139.703049,500;http://www.wikidata.org/entity/Q11561670
+Le mythe de demain Shibuya;fr;4;35.658445,139.699227,500;http://www.wikidata.org/entity/Q11512130
+Siège du gouvernement métropolitain de Tokyo Shinjuku;fr;4;35.68958,139.69182,500;http://www.wikidata.org/entity/Q111973
+Tour NTT DoCoMo Shinjuku;fr;4;35.68486,139.70300,500;http://www.wikidata.org/entity/Q2090752
+Shinjuku Gyoen Shinjuku;fr;4;35.68556,139.70998,500;http://www.wikidata.org/entity/Q776863
+Sanctuaire Hanazono Shinjuku;fr;4;35.693576,139.705254,500;http://www.wikidata.org/entity/Q3126680
+Tokyo Opera City Shinjuku;fr;4;35.68309,139.68707,500;http://www.wikidata.org/entity/Q1201889
+Meiji Jingu Stadium Shinjuku;fr;4;35.6745,139.7171,500;http://www.wikidata.org/entity/Q944559
+Bata Shoe Museum Toronto;fr;4;43.667244,-79.400076,500;http://www.wikidata.org/entity/Q810693
+Casa Loma Toronto;fr;4;43.678037,-79.409444,500;http://www.wikidata.org/entity/Q1046446
+Gare Union Toronto;fr;4;43.64524,-79.380577,500;http://www.wikidata.org/entity/Q511316
+Kensington Market Toronto;fr;4;43.654523,-79.401456,500;http://www.wikidata.org/entity/Q3195260
+Musée des beaux-arts de l'Ontario Toronto;fr;4;43.653607,-79.392512,500;http://www.wikidata.org/entity/Q670250
+Musée royal de l'Ontario Toronto;fr;4;43.66771,-79.394776,500;http://www.wikidata.org/entity/Q649250
+Rue Yonge Toronto;fr;4;43.719561,-79.401088,500;http://www.wikidata.org/entity/Q20725
+Temple de la renommée du hockey Toronto;fr;4;43.647272,-79.377690,500;http://www.wikidata.org/entity/Q1136687
+Tour CN Toronto;fr;4;43.642566,-79.387057,500;http://www.wikidata.org/entity/Q134883
+Zoo de Toronto Toronto;fr;4;43.817699,-79.185889,500;http://www.wikidata.org/entity/Q741395
+Dunes de sable de Tottori;fr;4;35.5418,134.2257,500;http://www.wikidata.org/entity/Q780905
+Ruines du château de Tottori;fr;4;35.50743,134.24,500;http://www.wikidata.org/entity/Q1073699
+Musée de la préfecture de Tottori;fr;4;35.508317,134.236128,500;http://www.wikidata.org/entity/Q4707652
+Maison Jinpūkaku Tottori;fr;4;35.507112,134.237469,500;http://www.wikidata.org/entity/Q6202742
+Kannon-in Tottori;fr;4;35.496056,134.241568,500;http://www.wikidata.org/entity/Q3192708
+Sanctuaire Ōchidani Tottori;fr;4;35.501163,134.246093,500;http://www.wikidata.org/entity/Q245830
+Warabekan, musée du jouet Tottori;fr;4;35.504303,134.233458,500;http://www.wikidata.org/entity/Q11281939
+Musée de l'artisanat Tottori Mingei Tottori;fr;4;35.496135,134.227154,500;http://www.wikidata.org/entity/Q7828504
+Genchū-ji Tottori;fr;4;35.506802,134.222153,500;http://www.wikidata.org/entity/Q11572280
+Musée d'histoire de la ville de Tottori;fr;4;35.498978,134.243998,500;http://www.wikidata.org/entity/Q4707166
+Sanctuaire Hakuto Tottori;fr;4;35.524203,134.115096,500;http://www.wikidata.org/entity/Q246667
+Musée d'histoire d'Inaba Manyō Tottori;fr;4;35.472808,134.274737,500;http://www.wikidata.org/entity/Q11420253
+Château de Kawahara Tottori;fr;4;35.403831,134.199515,500;http://www.wikidata.org/entity/Q11553574
+Hôtel Gouïn Tours;fr;4;47.39542,0.68473,500;http://www.wikidata.org/entity/Q1094425
+Maison de Tristant l'Hermite Tours;fr;4;47.39551,0.68152,500;http://www.wikidata.org/entity/Q13518368
+Basilique Saint-Martin Tours;fr;4;47.39306,0.68291,500;http://www.wikidata.org/entity/Q1464908
+Cathédrale Saint Gatien Tours;fr;4;47.39551,0.69406,500;http://www.wikidata.org/entity/Q547013
+Château de Tours Tours;fr;4;47.39713,0.69337,500;http://www.wikidata.org/entity/Q1094822
+Abbaye de Saint-Julien Tours;fr;4;47.39591,0.68753,500;http://www.wikidata.org/entity/Q17346966
+Hôtel de Ville Tours;fr;4;47.39060,0.68905,500;http://www.wikidata.org/entity/Q3146203
+Abbaye de Marmoutier Tours;fr;4;47.40290,0.71801,500;http://www.wikidata.org/entity/Q177050
+Jardin des Prébendes d'Oé Tours;fr;4;47.38528,0.68456,500;http://www.wikidata.org/entity/Q3162554
+Prieuré de Saint-Cosme Tours;fr;4;47.38942,0.65126,500;http://www.wikidata.org/entity/Q3403034
+Prieuré Saint-Éloi Tours;fr;4;47.38841,0.67611,500;http://www.wikidata.org/entity/Q17328846
+La Grande Bretèche Tours;fr;4;47.40106,0.68107,500;http://www.wikidata.org/entity/Q3209461
+Gohyaku-rakan Toyama;fr;4;36.711481,137.190375,500;http://www.wikidata.org/entity/Q11653002
+Château de Toyama;fr;4;36.693286,137.210883,500;http://www.wikidata.org/entity/Q911975
+Musée du Bardo Tunis;fr;4;36.81069,10.13506,500;http://www.wikidata.org/entity/Q1429003
+Musée d'art d'Utsunomiya;fr;4;36.60715,139.87399,500;http://www.wikidata.org/entity/Q11449808
+Musée de la fée d'Utsunomiya;fr;4;36.5615,139.88606,500;http://www.wikidata.org/entity/Q17227774
+Parc du château de Tobiyama Utsunomiya;fr;4;36.55615,139.9658,500;http://www.wikidata.org/entity/Q11665754
+Sanctuaire de Futaarayama Utsunomiya;fr;4;36.5625,139.8858,500;http://www.wikidata.org/entity/Q10946254
+Parc Hachimanyama Utsunomiya;fr;4;36.5702,139.8873,500;http://www.wikidata.org/entity/Q11390960
+Château d'Utsunomiya Utsunomiya;fr;4;36.55444,139.88583,500;http://www.wikidata.org/entity/Q8010544
+Église Matsugamine Utsunomiya;fr;4;36.55814,139.88133,500;http://www.wikidata.org/entity/Q11528856
+Romantic Mura Utsunomiya;fr;4;36.63333,139.8314,500;http://www.wikidata.org/entity/Q11640658
+Ponts suspendus de Oku-Iya Vallée d'Iya;fr;4;33.8535,134.045722,500;http://www.wikidata.org/entity/Q11446081
+Stephansdom Vienne (Autriche);fr;4;48.208466,16.373157,500;http://www.wikidata.org/entity/Q5943
+Hinokuma Jingū et Kunikakasu Jingū Wakayama;fr;4;34.2281,135.2020,500;http://www.wikidata.org/entity/Q888184
+Sanctuaire Kamayama Jinja Wakayama;fr;4;34.2007,135.2047,500;http://www.wikidata.org/entity/Q11597743
+Sanctuaire Itakiso Jinja Wakayama;fr;4;34.2017,135.2504,500;http://www.wikidata.org/entity/Q11379271
+Le chef de gare Tama Wakayama;fr;4;34.2090,135.3119,500;http://www.wikidata.org/entity/Q1201902
+Château de Wakayama Wakayama;fr;4;34.227628,135.171622,500;http://www.wikidata.org/entity/Q1151269
+Jardin Momijidani Teien Wakayama;fr;4;34.22894,135.17084,500;http://www.wikidata.org/entity/Q11417320
+Musée d'art moderne préfectoral de Wakayama;fr;4;34.2250,135.1714,500;http://www.wikidata.org/entity/Q11417477
+Eiun-ji Wakayama;fr;4;34.219384,135.171697,500;http://www.wikidata.org/entity/Q11492431
+Sanctuaire Awashima-jinja Wakayama;fr;4;34.2735,135.0668,500;http://www.wikidata.org/entity/Q7007362
+Îles Tomogashima Wakayama;fr;4;34.2829,135.0090,500;http://www.wikidata.org/entity/Q7820112
+Sanctuaire Kada Kasuga-jinja Wakayama;fr;4;34.27518,135.074676,500;http://www.wikidata.org/entity/Q11398578
+Kimii-dera Wakayama;fr;4;34.1845,135.1894,500;http://www.wikidata.org/entity/Q11153117
+Sanctuaire Kishū Tōshōgū Wakayama;fr;4;34.19079,135.16633,500;http://www.wikidata.org/entity/Q11605047
+Mont Akiba Wakayama;fr;4;34.1969,135.1728,500;http://www.wikidata.org/entity/Q11595832
+Jardin Yosui-en, palais Minato Goten Wakayama;fr;4;34.1940,135.1520,500;http://www.wikidata.org/entity/Q11666865
+Jardin Bandoko-Teien Wakayama;fr;4;34.1906,135.1396,500;http://www.wikidata.org/entity/Q11578762
+Wakanoura Wakayama;fr;4;34.1878,135.1716,500;http://www.wikidata.org/entity/Q11417713
+Pont Furobashi Wakayama;fr;4;34.18683,135.17291,500;http://www.wikidata.org/entity/Q11361846
+Sanctuaire Wakanoura Tenmangū Wakayama;fr;4;34.1908,135.1648,500;http://www.wikidata.org/entity/Q11417714
+Wakayama Marina City Wakayama;fr;4;34.1543,135.1772,500;http://www.wikidata.org/entity/Q11417294
+Abbatiale Saint-Pierre-et-Saint-Paul Wissembourg;fr;4;49.0372,7.94187,500;http://www.wikidata.org/entity/Q2322767
+Église Saint-Ulrich Wissembourg;fr;4;49.0305,7.9683,500;http://www.wikidata.org/entity/Q15953969
+Château de Yamagata Yamagata;fr;4;38.25357,140.32904,500;http://www.wikidata.org/entity/Q15604669
+Musée historique Mogami Yoshiaki Yamagata;fr;4;38.2551,140.3334,500;http://www.wikidata.org/entity/Q6890444
+Musée préfectoral de Yamagata;fr;4;38.2544,140.32946,500;http://www.wikidata.org/entity/Q4707630
+Bunshōkan Yamagata;fr;4;38.2569,140.34125,500;http://www.wikidata.org/entity/Q11500081
+Musée d'art de Yamagata Yamagata;fr;4;38.2559,140.3324,500;http://www.wikidata.org/entity/Q11468661
+Kyōdokan Yamagata;fr;4;38.25313,140.3285,500;http://www.wikidata.org/entity/Q11561525
+Musée d'art Yamadera Goto Yamagata;fr;4;38.30873,140.43956,500;http://www.wikidata.org/entity/Q11467765
+Musée commémoratif Yamadera Bashō Yamagata;fr;4;38.30955,140.439,500;http://www.wikidata.org/entity/Q11467772
+Temple Ryūshaku-ji Yamagata;fr;4;38.311849,140.434794,500;http://www.wikidata.org/entity/Q1760419
+Musée commémoratif Yamadera Bashō Yamagata;fr;4;38.309610,140.438912,500;http://www.wikidata.org/entity/Q11467772
+Rurikō-ji, parc Kōzan Yamaguchi;fr;4;34.18983,131.4718,500;http://www.wikidata.org/entity/Q11573988
+Jōei-ji Yamaguchi;fr;4;34.198,131.48987,500;http://www.wikidata.org/entity/Q11481412
+Église-mémorial Saint-François-Xavier Yamaguchi;fr;4;34.17833,131.4739,500;http://www.wikidata.org/entity/Q11466600
+Yamaguchi Daijin-gū Yamaguchi;fr;4;34.18477,131.46804,500;http://www.wikidata.org/entity/Q11466743
+Centre des arts et des médias de Yamaguchi;fr;4;34.1696,131.4673,500;http://www.wikidata.org/entity/Q11466848
+Quartier chinois Yokohama;fr;4;35.4428,139.646,500;http://www.wikidata.org/entity/Q1141498
+Yokohama Stadium;fr;4;35.4434,139.6401,500;http://www.wikidata.org/entity/Q1148681
+Nissan Stadium Yokohama;fr;4;35.51,139.6063,500;http://www.wikidata.org/entity/Q116601
+Tour marine Yokohama;fr;4;35.443889,139.650833,500;http://www.wikidata.org/entity/Q1207989
+Hikawa Maru Yokohama;fr;4;35.446667,139.651389,500;http://www.wikidata.org/entity/Q1186344
+Landmark Tower Yokohama;fr;4;35.4547,139.6317,500;http://www.wikidata.org/entity/Q587108
+Jardin Sankei-en Yokohama;fr;4;35.41694,139.6589,500;http://www.wikidata.org/entity/Q4249885
+Parc Yamashita Yokohama;fr;4;35.4458,139.64975,500;http://www.wikidata.org/entity/Q5372158
+Jetée Ōsanbashi Yokohama;fr;4;35.45167,139.6478,500;http://www.wikidata.org/entity/Q3518430
+Parc Kishine Yokohama;fr;4;35.4938,139.6155,500;http://www.wikidata.org/entity/Q1743714
+Yokohama Arena Yokohama;fr;4;35.5122,139.62,500;http://www.wikidata.org/entity/Q1196914
+Parc mémorial Hideyo Noguchi Yokohama;fr;4;35.3573,139.6365,500;http://www.wikidata.org/entity/Q17227134
+Sanctuaire Morooka Kumano Yokohama;fr;4;35.52417,139.63556,500;http://www.wikidata.org/entity/Q11481110
+Temple Shōmyō Yokohama;fr;4;35.344181,139.630392,500;http://www.wikidata.org/entity/Q11596183
+Université Keiō Yokohama;fr;4;35.55414,139.64818,500;http://www.wikidata.org/entity/Q815432
+Hall du mémorial Ohkurayama Yokohama;fr;4;35.52453,139.628,500;http://www.wikidata.org/entity/Q11543014
+Parc Negishi Shinrin Yokohama;fr;4;35.42306,139.6386,500;http://www.wikidata.org/entity/Q11536319
+Musée du cheval Yokohama;fr;4;35.422667,139.639583,500;http://www.wikidata.org/entity/Q17217536
+Abbaye de Fontfroide Narbonne;fr;4;43.127373,2.898335,500;http://www.wikidata.org/entity/Q334263
+Kompira-san Kotohira;fr;4;34.18417,133.80972,500;http://www.wikidata.org/entity/Q94760
+Cimetière Israélite Carpentras;fr;4;44.0621,5.0588,500;http://www.wikidata.org/entity/Q16964632
+Cathédrale de Nuuk;fr;4;64.179722,-51.744167,500;http://www.wikidata.org/entity/Q1355805
+Statue d'Hans Egede Nuuk;fr;4;64.1796,-51.745528,500;http://www.wikidata.org/entity/Q3129834
+Maison d'Hans Egede Nuuk;fr;4;64.1782,-51.7448,500;http://www.wikidata.org/entity/Q5649958
+Marché Kalaaliaraq Nuuk;fr;4;64.178611,-51.7425,500;http://www.wikidata.org/entity/Q6349986
+Musée national du Groenland Nuuk;fr;4;64.1773,-51.7463,500;http://www.wikidata.org/entity/Q3117388
+Musée d'art de Nuuk;fr;4;64.1779,-51.7293,500;http://www.wikidata.org/entity/Q3305271
+Fort de Tancrémont Theux;fr;4;50.55300,5.79055,500;http://www.wikidata.org/entity/Q965829
+Château de Franchimont Theux;fr;4;50.5277,5.8239,500;http://www.wikidata.org/entity/Q474267
+Église Saint-Jacques Theux;fr;4;50.53909,5.88108,500;http://www.wikidata.org/entity/Q15958221
+Charmille du Haut-Marais Theux;fr;4;50.47143,5.77735,500;http://www.wikidata.org/entity/Q2796809
+Église Saints-Hermès-et-Alexandre Theux;fr;4;50.53450,5.81141,500;http://www.wikidata.org/entity/Q3585307
+Hôtel de ville Theux;fr;4;50.53491,5.81326,500;http://www.wikidata.org/entity/Q3146192
+Village folklorique de Hida Takayama;fr;4;36.132660,137.235168,500;http://www.wikidata.org/entity/Q5751493
+Sanmachi Takayama;fr;4;36.140175,137.259461,500;http://www.wikidata.org/entity/Q11356789
+Takayama Jin'ya Takayama;fr;4;36.139694,137.257528,500;http://www.wikidata.org/entity/Q11669454
+Lac du Paty Caromb;fr;4;44.13398,5.1146,500;http://www.wikidata.org/entity/Q3215729
+Fontaine de Vaucluse Fontaine-de-Vaucluse;fr;4;43.917873,5.132760,500;http://www.wikidata.org/entity/Q1816468
+Château de Himeji Himeji;fr;4;34.8394,134.694,500;http://www.wikidata.org/entity/Q188754
+Kōko-en Garden Himeji;fr;4;34.83814,134.6896,500;http://www.wikidata.org/entity/Q6426700
+Musée d'histoire de la préfecture de Hyōgo Himeji;fr;4;34.8411,134.697,500;http://www.wikidata.org/entity/Q11393043
+Musée d'art de la ville de Himeji;fr;4;34.8397,134.6967,500;http://www.wikidata.org/entity/Q11447532
+Sanctuaire Senhime Himeji;fr;4;34.8415,134.6889,500;http://www.wikidata.org/entity/Q11405437
+Zoo de la ville de Himeji;fr;4;34.8368,134.6942,500;http://www.wikidata.org/entity/Q11447486
+Temple Engyō-ji Himeji;fr;4;34.8911,134.6581,500;http://www.wikidata.org/entity/Q3054354
+Himeji Central Park Himeji;fr;4;34.86775,134.7521,500;http://www.wikidata.org/entity/Q2585012
+Tegarayama Himeji;fr;4;34.819,134.6754,500;http://www.wikidata.org/entity/Q5765252
+Sanctuaire d'Itsukushima Miyajima;fr;4;34.29583,132.32025,500;http://www.wikidata.org/entity/Q191763
+Senjōkaku Miyajima;fr;4;34.297333,132.32025,500;http://www.wikidata.org/entity/Q11405762
+Daishō-in Miyajima;fr;4;34.29195,132.318475,500;http://www.wikidata.org/entity/Q3012169
+Aquarium public de Miyajima;fr;4;34.295392,132.315356,500;http://www.wikidata.org/entity/Q6764196
+Mine de Falun Falun;fr;4;60.5989,15.6122,500;http://www.wikidata.org/entity/Q636194
+Carl Larsson-gården Falun;fr;4;60.6503,15.775,500;http://www.wikidata.org/entity/Q10443072
+Église Sainte-Marie Lübeck;fr;4;53.868,10.6849,500;http://www.wikidata.org/entity/Q695065
+Église Saint-Pierre Lübeck;fr;4;53.865913,10.682831,500;http://www.wikidata.org/entity/Q896458
+Église Sainte-Catherine Lübeck;fr;4;53.86918,10.6894,500;http://www.wikidata.org/entity/Q317388
+Cathédrale de Lübeck Lübeck;fr;4;53.860859,10.685746,500;http://www.wikidata.org/entity/Q3916007
+Église Saint-Jacques Lübeck;fr;4;53.871100,10.689268,500;http://www.wikidata.org/entity/Q375042
+Église Saint-Gilles Lübeck;fr;4;53.863939,10.689698,500;http://www.wikidata.org/entity/Q316973
+Holstentor Lübeck;fr;4;53.8662,10.67967,500;http://www.wikidata.org/entity/Q321229
+Burgtor Lübeck;fr;4;53.87395,10.69115,500;http://www.wikidata.org/entity/Q538276
+Hospice du Saint-Esprit Lübeck;fr;4;53.8713,10.68983,500;http://www.wikidata.org/entity/Q317608
+Behnhaus Lübeck;fr;4;53.87,10.6897,500;http://www.wikidata.org/entity/Q814533
+Rathaus Lübeck;fr;4;53.867,10.6855,500;http://www.wikidata.org/entity/Q538453
+Maison de Willy Brandt Lübeck;fr;4;53.86972,10.68942,500;http://www.wikidata.org/entity/Q2581800
+Buddenbrookhaus Lübeck;fr;4;53.86825,10.68578,500;http://www.wikidata.org/entity/Q315187
+Maison de Günter-Grass Lübeck;fr;4;53.86944,10.69,500;http://www.wikidata.org/entity/Q1560511
+Musée portuaire Lübeck;fr;4;53.872,10.6818,500;http://www.wikidata.org/entity/Q1954827
+Quartier de Moisling Lübeck;fr;4;53.8411,10.6325,500;http://www.wikidata.org/entity/Q1880090
+Musée d'art moderne, d'art contemporain et d'art brut Villeneuve-d'Ascq;fr;4;50.6375,3.1488,500;http://www.wikidata.org/entity/Q1607765
+Forum départemental des sciences de Villeneuve-d'Ascq;fr;4;50.62027,3.1328,500;http://www.wikidata.org/entity/Q3078640
+Parc de reconstitution archéologique Asnapio Villeneuve-d'Ascq;fr;4;50.636522,3.156267,500;http://www.wikidata.org/entity/Q3363946
+Parc du Héron Villeneuve-d'Ascq;fr;4;50.63572,3.1712,500;http://www.wikidata.org/entity/Q3364350
+Téléphérique Kintetsu Beppu Beppu;fr;4;33.28153,131.4411,500;http://www.wikidata.org/entity/Q6414356
+Minamijima Archipel d'Ogasawara;fr;4;27.0385,142.176,500;http://www.wikidata.org/entity/Q11407776
+Anijima Archipel d'Ogasawara;fr;4;27.1214,142.214,500;http://www.wikidata.org/entity/Q10889854
+Iwo Jima Archipel d'Ogasawara;fr;4;24.75,141.289,500;http://www.wikidata.org/entity/Q201633
+Église sainte Radegonde Giverny;fr;4;49.07753,1.52355,500;http://www.wikidata.org/entity/Q3585258
+Cascades de Ooko-no-taki Yakushima;fr;4;30.299986,130.414136,500;http://www.wikidata.org/entity/Q11435119
+Exploramer Sainte-Anne-des-Monts;fr;4;49.130973,-66.487198,500;http://www.wikidata.org/entity/Q17454
+Église Sainte-Anne-des-Monts Sainte-Anne-des-Monts;fr;4;49.1299993,-66.4885738,500;http://www.wikidata.org/entity/Q3585622
+Parc national de la Gaspésie Sainte-Anne-des-Monts;fr;4;48.933333,-66.283333,500;http://www.wikidata.org/entity/Q2051988
+Musée du mont Aso Mont Aso;fr;4;32.885278,131.051944,500;http://www.wikidata.org/entity/Q4807478
+Santuaire d'Aso Mont Aso;fr;4;32.9478,131.11597,500;http://www.wikidata.org/entity/Q715639
+Aso Saru Mawashi Gekijō Mont Aso;fr;4;32.901464,130.999314,500;http://www.wikidata.org/entity/Q11657657
+Aso-san Mont Aso;fr;4;32.88202,131.08543,500;http://www.wikidata.org/entity/Q733710
+Archéosite d'Aubechies Belœil;fr;4;50.57487,3.67379,500;http://www.wikidata.org/entity/Q2860619
+Château de Belœil Belœil;fr;4;50.55066,3.73085,500;http://www.wikidata.org/entity/Q584031
+Fort Jesus Mombasa;fr;4;-4.062736,39.679636,500;http://www.wikidata.org/entity/Jesus Q379080
+Parc Haller Mombasa;fr;4;-4.016667,39.719444,500;http://www.wikidata.org/entity/Q3363831
+Temple Kongōbu-ji Mont Kōya;fr;4;34.21399,135.58395,500;http://www.wikidata.org/entity/Q1203429
+Le Four Solaire d'Odeillo-Heliodyssée Font-Romeu-Odeillo-Via;fr;4;42.493746,2.029279,500;http://www.wikidata.org/entity/Q782033
+Tokyo SkyTree Sumida;fr;4;35.710139,139.810833,500;http://www.wikidata.org/entity/Q57965
+Ryōgoku Kokugikan Sumida;fr;4;35.69694,139.79333,500;http://www.wikidata.org/entity/Q176821
+Musée d'Edo-Tōkyō Sumida;fr;4;35.696402,139.796102,500;http://www.wikidata.org/entity/Q1191042
+Palais impérial Chiyoda;fr;4;35.688322,139.754388,500;http://www.wikidata.org/entity/Q500681
+Jardins est du palais impérial Chiyoda;fr;4;35.6866,139.7561,500;http://www.wikidata.org/entity/Q6631907
+Parc Kitanomaru Chiyoda;fr;4;35.69043,139.753,500;http://www.wikidata.org/entity/Q1075966
+Douve Chidoriga-fuchi Chiyoda;fr;4;35.69421,139.74794,500;http://www.wikidata.org/entity/Q4204321
+Sanctuaire Yasukuni Chiyoda;fr;4;35.694167,139.743056,500;http://www.wikidata.org/entity/Q242803
+Musée Yūshūkan Chiyoda;fr;4;35.4143,139.4436,500;http://www.wikidata.org/entity/Q2855971
+Cathédrale de la sainte résurrection Chiyoda;fr;4;35.698036,139.765533,500;http://www.wikidata.org/entity/Q2660430
+Sanctuaire Kanda Chiyoda;fr;4;35.701944,139.767778,500;http://www.wikidata.org/entity/Q717682
+Musée national d'art moderne de Tokyo Chiyoda;fr;4;35.6905,139.75465,500;http://www.wikidata.org/entity/Q1359908
+Musée d'art Idemitsu Chiyoda;fr;4;35.676528,139.76075,500;http://www.wikidata.org/entity/Q3076590
+Musée d'art Yamatane Chiyoda;fr;4;35.690662,139.746111,500;http://www.wikidata.org/entity/Q3329572
+Tokyo International Forum Chiyoda;fr;4;35.676925,139.7642,500;http://www.wikidata.org/entity/Q1359892
+Marché aux poissons de Tsukiji Chūō (Tokyo);fr;4;35.661389,139.769722,500;http://www.wikidata.org/entity/Q859471
+Temple Tsukiji Hongwanji Chūō (Tokyo);fr;4;35.666472,139.772317,500;http://www.wikidata.org/entity/Q943255
+Bourse de Tokyo Chūō (Tokyo);fr;4;35.682667,139.778808,500;http://www.wikidata.org/entity/Q217475
+Jardin Hama-Rikyū Chūō (Tokyo);fr;4;35.659955,139.762219,500;http://www.wikidata.org/entity/Q1033333
+Tour de Tokyo Minato (Tokyo);fr;4;35.65857,139.74547,500;http://www.wikidata.org/entity/Q183536
+Temple Zōjō-ji Minato (Tokyo);fr;4;35.65726,139.74882,500;http://www.wikidata.org/entity/Q249139
+Nakagin Capsule Tower Minato (Tokyo);fr;4;35.665611,139.763389,500;http://www.wikidata.org/entity/Q1633586
+Sengaku-ji Minato (Tokyo);fr;4;35.637733,139.736275,500;http://www.wikidata.org/entity/Q3176144
+Parc d'Ueno Ueno;fr;4;35.712222,139.771111,500;http://www.wikidata.org/entity/Q746216
+Musée National de Tōkyō Ueno;fr;4;35.718889,139.775833,500;http://www.wikidata.org/entity/Q653433
+Musée national de l'art occidental Ueno;fr;4;35.715556,139.775833,500;http://www.wikidata.org/entity/Q1362629
+Musée national de la nature et des sciences de Tōkyō Ueno;fr;4;35.715939,139.776527,500;http://www.wikidata.org/entity/Q74940
+Musée de Shitamachi Ueno;fr;4;35.7102,139.7726,500;http://www.wikidata.org/entity/Q3915464
+Sunshine 60 Toshima;fr;4;35.729583,139.717778,500;http://www.wikidata.org/entity/Q602942
+Metropolitan Art Space Toshima;fr;4;35.729722,139.708056,500;http://www.wikidata.org/entity/Q1956181
+Cimetière Zōshigaya Toshima;fr;4;35.722,139.72,500;http://www.wikidata.org/entity/Q1457455
+Temple Kōgan-ji Toshima;fr;4;35.735703,139.735647,500;http://www.wikidata.org/entity/Q6587321
+Temple Honmyōji Toshima;fr;4;35.739659,139.735108,500;http://www.wikidata.org/entity/Q11520109
+Temple Hōmyōji Toshima;fr;4;35.724361,139.71375,500;http://www.wikidata.org/entity/Q11555197
+Sanctuaire Kumano Meguro;fr;4;35.6099,139.66914,500;http://www.wikidata.org/entity/Q11568958
+Musée parasitologique de Meguro Meguro;fr;4;35.63167,139.70667,500;http://www.wikidata.org/entity/Q11581651
+Meguro Gajōen Meguro;fr;4;35.63065,139.71423,500;http://www.wikidata.org/entity/Q11581684
+Tokyo Metropolitan Teien Art Museum Meguro;fr;4;35.636889,139.719083,500;http://www.wikidata.org/entity/Q743773
+Parc national pour l'étude de la nature Meguro;fr;4;35.63806,139.71944,500;http://www.wikidata.org/entity/Q11421296
+Gohyakurakanji Meguro;fr;4;35.6289,139.7093,500;http://www.wikidata.org/entity/Q11372569
+Musée d'art contemporain de Hara Shinagawa;fr;4;35.621028,139.736056,500;http://www.wikidata.org/entity/Q3736155
+Aquarium de Shinagawa Shinagawa;fr;4;35.5886,139.7374,500;http://www.wikidata.org/entity/Q11254393
+Koishikawa Kōraku-en Bunkyō;fr;4;35.705796,139.749371,500;http://www.wikidata.org/entity/Q1778881
+Rikugi-en Bunkyō;fr;4;35.733056,139.746667,500;http://www.wikidata.org/entity/Q1889010
+Jardins Kyū-Furukawa Bunkyō;fr;4;35.742972,139.746694,500;http://www.wikidata.org/entity/Q3082256
+Jardins botaniques de Koishikawa de l'université de Tōkyō Bunkyō;fr;4;35.717,139.75,500;http://www.wikidata.org/entity/Q1064892
+Nezu Jinja Bunkyō;fr;4;35.72028,139.76083,500;http://www.wikidata.org/entity/Q335612
+Gokoku-ji Bunkyō;fr;4;35.72175,139.725639,500;http://www.wikidata.org/entity/Q1534481
+Cathédrale Sainte-Marie Bunkyō;fr;4;35.71417,139.72667,500;http://www.wikidata.org/entity/Q1193480
+Bunkyō Civic Center Bunkyō;fr;4;35.707872,139.752424,500;http://www.wikidata.org/entity/Q2928236
+Pont Hijiri-bashi Bunkyō;fr;4;35.69972,139.76556,500;http://www.wikidata.org/entity/Q11611065
+Nishiarai Daishi Est de Tokyo;fr;4;35.780139,139.78,500;http://www.wikidata.org/entity/Q11608171
+Tokyo Budokan Est de Tokyo;fr;4;35.76548,139.82568,500;http://www.wikidata.org/entity/Q8193312
+Jardin de Kiyosumi Est de Tokyo;fr;4;35.68,139.79778,500;http://www.wikidata.org/entity/Q4388146
+Musée Fukagawa Edo Est de Tokyo;fr;4;35.681111,139.800556,500;http://www.wikidata.org/entity/Q3090685
+Shibamata Est de Tokyo;fr;4;35.758597,139.878247,500;http://www.wikidata.org/entity/Q11534647
+Parc de Kasai Rinkai Est de Tokyo;fr;4;35.642,139.860,500;http://www.wikidata.org/entity/Q1038727
+Grande roue Diamond and Flowers Est de Tokyo;fr;4;35.64394,139.85706,500;http://www.wikidata.org/entity/Q901219
+Sanctuaire Tomioka Hachiman Est de Tokyo;fr;4;35.67175,139.7996,500;http://www.wikidata.org/entity/Q654417
+Carrot Tower Setagaya;fr;4;35.64376,139.66908,500;http://www.wikidata.org/entity/Q5046710
+Temple Gotokuji Setagaya;fr;4;35.648772,139.647417,500;http://www.wikidata.org/entity/Q11634381
+Parc Hanegi Setagaya;fr;4;35.658056,139.655,500;http://www.wikidata.org/entity/Q11610224
+Parc Kinuta Setagaya;fr;4;35.6302,139.62027,500;http://www.wikidata.org/entity/Q4388776
+Parc olympique Komazawa Setagaya;fr;4;35.625806,139.661611,500;http://www.wikidata.org/entity/Q2021485
+Musée d'art Machiko Hasegawa Setagaya;fr;4;35.627967,139.643620,500;http://www.wikidata.org/entity/Q3788646
+Musée d'art de Setagaya Setagaya;fr;4;35.631758,139.621935,500;http://www.wikidata.org/entity/Q3892314
+Tamagawadaishi Setagaya;fr;4;35.618790,139.627179,500;http://www.wikidata.org/entity/Q20043965
+Abbaye de Brialmont Esneux;fr;4;50.55698,5.58305,500;http://www.wikidata.org/entity/Q2820293
+Ham Esneux;fr;4;50.5414,5.5588,500;http://www.wikidata.org/entity/Q16641182
+Château Le Fy Esneux;fr;4;50.5330,5.5708,500;http://www.wikidata.org/entity/Q2967923
+Grottes de Remouchamps Aywaille;fr;4;50.48014,5.71213,500;http://www.wikidata.org/entity/Q337424
+Vallée du Ninglinspo Aywaille;fr;4;50.4689,5.7457,500;http://www.wikidata.org/entity/Q2572821
+Fonds de Quarreux Aywaille;fr;4;50.45123,5.73958,500;http://www.wikidata.org/entity/Q3075816
+Château de Harzé Aywaille;fr;4;50.4413,5.6665,500;http://www.wikidata.org/entity/Q1862408
+Chapelle Sainte-Anne des Pouhons Aywaille;fr;4;50.4203,5.6657,500;http://www.wikidata.org/entity/Q16670833
+Banneux Sprimont;fr;4;50.53769,5.74975,500;http://www.wikidata.org/entity/Q1044403
+Akasuimon Nord de Tokyo;fr;4;35.7856,139.7336,500;http://www.wikidata.org/entity/Q11475353
+Parc d'Asukayama Nord de Tokyo;fr;4;35.750556,139.738889,500;http://www.wikidata.org/entity/Q901172
+Ikegami Honmon-ji Ōta (Tokyo);fr;4;35.5789,139.70517,500;http://www.wikidata.org/entity/Q1537312
+Parc de bord de mer de Jōnanjima Ōta (Tokyo);fr;4;35.5789,139.7851,500;http://www.wikidata.org/entity/Q11426038
+Suginami kōkaidō Suginami;fr;4;35.70656,139.6164,500;http://www.wikidata.org/entity/Q11521678
+Musée de l'animation de Suginami Suginami;fr;4;35.71044,139.6078,500;http://www.wikidata.org/entity/Q11095134
+Omiya hachiman-gū Suginami;fr;4;35.682375,139.639664,500;http://www.wikidata.org/entity/Q10934922
+Parc du temple Zenpuku Suginami;fr;4;35.7148,139.591,500;http://www.wikidata.org/entity/Q6630072
+Kawasaki Daishi Kawasaki;fr;4;35.5337,139.7294,500;http://www.wikidata.org/entity/Q1504465
+Sanctuaire Wakamiya Hachiman-gū Kawasaki;fr;4;35.5346,139.7246,500;http://www.wikidata.org/entity/Q11616250
+Nihon Minka-En Kawasaki;fr;4;35.6099,139.5620,500;http://www.wikidata.org/entity/Q1989934
+Immeuble Fuji TV Odaiba;fr;4;35.62668,139.77418,500;http://www.wikidata.org/entity/Q22002296
+Robot Gundam géant Odaiba;fr;4;35.62440,139.77543,500;http://www.wikidata.org/entity/Q11201874
+Toyota MEGA WEB Odaiba;fr;4;35.62479,139.77898,500;http://www.wikidata.org/entity/Q10854652
+Daikanransha Odaiba;fr;4;35.62647,139.78246,500;http://www.wikidata.org/entity/Q751175
+Miraikan Odaiba;fr;4;35.61918,139.77662,500;http://www.wikidata.org/entity/Q656957
+Musée océanographique de Tokyo Odaiba;fr;4;35.62060,139.77296,500;http://www.wikidata.org/entity/Q1048709
+Tokyo Big Sight Odaiba;fr;4;35.62975,139.79408,500;http://www.wikidata.org/entity/Q1359125
+Rainbow Bridge Odaiba;fr;4;35.63595,139.77496,500;http://www.wikidata.org/entity/Q1046736
+Centre national des Arts de Tokyo Roppongi;fr;4;35.66483,139.72685,500;http://www.wikidata.org/entity/Q1362638
+Maison et sanctuaire de Nogi Roppongi;fr;4;35.66836,139.72787,500;http://www.wikidata.org/entity/Q11368830
+Roppongi Hills Roppongi;fr;4;35.66090,139.72942,500;http://www.wikidata.org/entity/Q1071084
+Musée d'art Mori Roppongi;fr;4;35.660901,139.729424,500;http://www.wikidata.org/entity/Q4410434
+Tokyo Midtown Roppongi;fr;4;35.66527,139.73073,500;http://www.wikidata.org/entity/Q1364393
+21_21 Design Sight Roppongi;fr;4;35.667499,139.730416,500;http://www.wikidata.org/entity/Q863044
+Musée d'art Suntory Roppongi;fr;4;35.666464,139.730373,500;http://www.wikidata.org/entity/Q11249110
+Akasaka Sacas Akasaka;fr;4;35.672742,139.735972,500;http://www.wikidata.org/entity/Q864638
+Sanctuaire Hie Akasaka;fr;4;35.674722,139.739583,500;http://www.wikidata.org/entity/Q702042
+Collection Sumimoto Akasaka;fr;4;35.665058,139.741072,500;http://www.wikidata.org/entity/Q3478488
+Théâtre national du Japon Akasaka;fr;4;35.681389,139.743056,500;http://www.wikidata.org/entity/Q1369225
+Bâtiment de la Diète nationale Akasaka;fr;4;35.676107,139.744587,500;http://www.wikidata.org/entity/Q1338856
+Jardin Shinsen-en Centre de Kyoto;fr;4;35.011382,135.748369,500;http://www.wikidata.org/entity/Q11590468
+Château de Nijō Centre de Kyoto;fr;4;35.014167,135.7475,500;http://www.wikidata.org/entity/Q1013399
+Musée de Kyōto Centre de Kyoto;fr;4;35.00704,135.76246,500;http://www.wikidata.org/entity/Q11375592
+Musée international du manga de Kyōto Centre de Kyoto;fr;4;35.010807,135.760009,500;http://www.wikidata.org/entity/Q783923
+Nishi Honganji Centre de Kyoto;fr;4;34.991778,135.751694,500;http://www.wikidata.org/entity/Q1146038
+Higashi Honganji Centre de Kyoto;fr;4;34.99143,135.75854,500;http://www.wikidata.org/entity/Q910281
+Jardin Shōsei-en Centre de Kyoto;fr;4;34.991395,135.763238,500;http://www.wikidata.org/entity/Q795048
+Temple Tō-ji Centre de Kyoto;fr;4;34.980556,135.747778,500;http://www.wikidata.org/entity/Q1046403
+Tour de Kyōto Centre de Kyoto;fr;4;34.9875,135.759167,500;http://www.wikidata.org/entity/Q1201304
+Mibu-dera Centre de Kyoto;fr;4;35.0016,135.743339,500;http://www.wikidata.org/entity/Q1082935
+Palais impérial de Kyōto Centre de Kyoto;fr;4;35.024113,135.762163,500;http://www.wikidata.org/entity/Q1202239
+Palais impérial Sentō Centre de Kyoto;fr;4;35.021516,135.765262,500;http://www.wikidata.org/entity/Q909444
+Pont Togetsu-kyō Arashiyama;fr;4;35.012758,135.677741,500;http://www.wikidata.org/entity/Q11561923
+Tenryū-ji Arashiyama;fr;4;35.015833,135.673693,500;http://www.wikidata.org/entity/Q1759226
+Ōkōchi Sansō Arashiyama;fr;4;35.017281,135.669355,500;http://www.wikidata.org/entity/Q8081591
+Nonomiya-jinja Arashiyama;fr;4;35.017731,135.674184,500;http://www.wikidata.org/entity/Q501266
+Iwatayama Monkey Park Arashiyama;fr;4;35.009,135.674736,500;http://www.wikidata.org/entity/Q15229013
+Otagi Nenbutsu-ji Arashiyama;fr;4;35.03135,135.661131,500;http://www.wikidata.org/entity/Q3080421
+Daikaku-ji Arashiyama;fr;4;35.028325,135.677803,500;http://www.wikidata.org/entity/Q1157585
+Adashino Nenbutsu-ji Arashiyama;fr;4;35.026817,135.664545,500;http://www.wikidata.org/entity/Q2824122
+Giō-ji Arashiyama;fr;4;35.023363,135.666765,500;http://www.wikidata.org/entity/Q11588451
+Takiguchi-dera Arashiyama;fr;4;35.023003,135.666583,500;http://www.wikidata.org/entity/Q22119290
+Jōjakkō-ji Arashiyama;fr;4;35.019642,135.668673,500;http://www.wikidata.org/entity/Q11060322
+Nison-in Arashiyama;fr;4;35.021218,135.667881,500;http://www.wikidata.org/entity/Q3096514
+Hōkyō-in Arashiyama;fr;4;35.022512,135.673534,500;http://www.wikidata.org/entity/Q11452667
+Seiryō-ji Arashiyama;fr;4;35.023498,135.674289,500;http://www.wikidata.org/entity/Q534101
+Hōrin-ji Arashiyama;fr;4;35.010219,135.677001,500;http://www.wikidata.org/entity/Q3146371
+Senkō-ji Arashiyama;fr;4;35.015807,135.665579,500;http://www.wikidata.org/entity/Q11405369
+Temple Kōryū-ji Arashiyama;fr;4;35.015502,135.70731,500;http://www.wikidata.org/entity/Q3076920
+Tōei Kyoto Studio Park Arashiyama;fr;4;35.016271,135.708601,500;http://www.wikidata.org/entity/Q11103541
+Matsunoo Taisha Arashiyama;fr;4;34.999967,135.68517,500;http://www.wikidata.org/entity/Q710302
+Villa impériale de Katsura Arashiyama;fr;4;34.983991,135.709572,500;http://www.wikidata.org/entity/Q1736808
+Umenomiya-taisha Arashiyama;fr;4;35.004172,135.694908,500;http://www.wikidata.org/entity/Q276781
+Suzumushi-dera Arashiyama;fr;4;34.993624,135.684863,500;http://www.wikidata.org/entity/Q11620048
+Kokedera Arashiyama;fr;4;34.991964,135.683309,500;http://www.wikidata.org/entity/Q1516753
+Temple Kiyomizu Higashiyama;fr;4;34.9949,135.785,500;http://www.wikidata.org/entity/Q221716
+Sanctuaire Heian Higashiyama;fr;4;35.016509,135.782454,500;http://www.wikidata.org/entity/Q385141
+Temple Kinkaku-ji Nord de Kyoto;fr;4;35.03937,135.729243,500;http://www.wikidata.org/entity/Q270983
+Ryōan-ji Nord de Kyoto;fr;4;35.034494,135.718263,500;http://www.wikidata.org/entity/Q587371
+Temple Ninna-ji Nord de Kyoto;fr;4;35.031094,135.71382,500;http://www.wikidata.org/entity/Q1202871
+Temple Daitoku-ji Nord de Kyoto;fr;4;35.043891,135.74603,500;http://www.wikidata.org/entity/Q901256
+Sanctuaire Imamiya Nord de Kyoto;fr;4;35.046008,135.742039,500;http://www.wikidata.org/entity/Q500955
+Tōji-in Nord de Kyoto;fr;4;35.031554,135.723451,500;http://www.wikidata.org/entity/Q3138637
+Sanctuaire Hirano Nord de Kyoto;fr;4;35.032609,135.731946,500;http://www.wikidata.org/entity/Q738971
+Kitano Tenman-gū Nord de Kyoto;fr;4;35.031241,135.735118,500;http://www.wikidata.org/entity/Q662176
+Temple Myōshin-ji Nord de Kyoto;fr;4;35.023134,135.720195,500;http://www.wikidata.org/entity/Q376288
+Jingo-ji Nord de Kyoto;fr;4;35.05502,135.670866,500;http://www.wikidata.org/entity/Q1075034
+Saimyō-ji Temple Nord de Kyoto;fr;4;35.057191,135.67497,500;http://www.wikidata.org/entity/Q11628431
+Kōzan-ji Nord de Kyoto;fr;4;35.060119,135.678573,500;http://www.wikidata.org/entity/Q986750
+Sanctuaire Shimogamo Nord de Kyoto;fr;4;35.038759,135.773419,500;http://www.wikidata.org/entity/Q701620
+Sanctuaire Kamigamo Nord de Kyoto;fr;4;35.059281,135.75253,500;http://www.wikidata.org/entity/Q700448
+Jardin botanique de Kyōto Nord de Kyoto;fr;4;35.048255,135.761074,500;http://www.wikidata.org/entity/Q3106834
+Villa impériale Shūgaku-in Nord de Kyoto;fr;4;35.053929,135.80365,500;http://www.wikidata.org/entity/Q2223611
+Entsū-ji Nord de Kyoto;fr;4;35.064384,135.768512,500;http://www.wikidata.org/entity/Q10927539
+Myōman-ji Nord de Kyoto;fr;4;35.06765,135.774559,500;http://www.wikidata.org/entity/Q10943057
+Shisen-dō Nord de Kyoto;fr;4;35.043724,135.796129,500;http://www.wikidata.org/entity/Q3028486
+Jakko-in Nord de Kyoto;fr;4;35.1241,135.821045,500;http://www.wikidata.org/entity/Q911985
+Sanzen-in Nord de Kyoto;fr;4;35.119698,135.834431,500;http://www.wikidata.org/entity/Q1072538
+Raigō-in Nord de Kyoto;fr;4;35.118619,135.837655,500;http://www.wikidata.org/entity/Q11523758
+Shorin-in Nord de Kyoto;fr;4;35.121246,135.834575,500;http://www.wikidata.org/entity/Q11400358
+Hōsen-in Nord de Kyoto;fr;4;35.121353,135.834005,500;http://www.wikidata.org/entity/Q11452598
+Fushimi Inari Taisha Sud de Kyoto;fr;4;34.967222,135.772778,500;http://www.wikidata.org/entity/Q714828
+Château Fushimi Momoyama Sud de Kyoto;fr;4;34.939501,135.77686,500;http://www.wikidata.org/entity/Q1196273
+Tōfuku-ji Sud de Kyoto;fr;4;34.976757,135.774351,500;http://www.wikidata.org/entity/Q2166743
+Sanctuaire Jōnan-gū Sud de Kyoto;fr;4;34.951066,135.746555,500;http://www.wikidata.org/entity/Q11426034
+Daigo-ji Sud de Kyoto;fr;4;34.951024,135.819563,500;http://www.wikidata.org/entity/Q1157535
+Zuishin-in Sud de Kyoto;fr;4;34.959648,135.816379,500;http://www.wikidata.org/entity/Q11658945
+Kajū-ji Sud de Kyoto;fr;4;34.96169,135.807414,500;http://www.wikidata.org/entity/Q772598
+Sanctuaire Ōharano Sud de Kyoto;fr;4;34.960363,135.656246,500;http://www.wikidata.org/entity/Q3594020
+Shōbō-ji Sud de Kyoto;fr;4;34.956932,135.655572,500;http://www.wikidata.org/entity/Q11123495
+Shōji-ji Sud de Kyoto;fr;4;34.960728,135.65175,500;http://www.wikidata.org/entity/Q11400336
+Yoshimine-dera Sud de Kyoto;fr;4;34.938015,135.644159,500;http://www.wikidata.org/entity/Q169621
+Chapelle Saint-Sixte Aubignan;fr;4;44.0995833,5.06661111,500;http://www.wikidata.org/entity/Q2956985
+Chapelle Saint-Blaise Bollène;fr;4;44.27547293190634,4.786863327026367,500;http://www.wikidata.org/entity/Q15945239
+Usine-barrage André-Blondel Bollène;fr;4;44.30327,4.74309,500;http://www.wikidata.org/entity/Q2885111
+Château de Châteauneuf Châteauneuf-du-Pape;fr;4;44.05767,4.8292,500;http://www.wikidata.org/entity/Q8822076
+Chäteau de l'Hers Châteauneuf-du-Pape;fr;4;44.05325,4.79458,500;http://www.wikidata.org/entity/Q15944493
+Musée du château de Hikone Hikone;fr;4;35.275611,136.253528,500;http://www.wikidata.org/entity/Q11487933
+Château de Sawayama Hikone;fr;4;35.2795,136.268925,500;http://www.wikidata.org/entity/Q1195682
+Ryōtan-ji Hikone;fr;4;35.28278,136.26672,500;http://www.wikidata.org/entity/Q11679295
+Cathédrale Notre-Dame de Fribourg Fribourg-en-Brisgau;fr;4;47.9956,7.8529,500;http://www.wikidata.org/entity/Q250212
+Altes Kaufhaus Fribourg-en-Brisgau;fr;4;47.99500,7.85267,500;http://www.wikidata.org/entity/Q1520195
+Schlossberg Fribourg-en-Brisgau;fr;4;47.99417,7.85944,500;http://www.wikidata.org/entity/Q277106
+Altes Rathaus et office du tourisme Fribourg-en-Brisgau;fr;4;47.99640,7.84920,500;http://www.wikidata.org/entity/Q2132439
+Neues Rathaus Fribourg-en-Brisgau;fr;4;47.99612,7.84900,500;http://www.wikidata.org/entity/Q2132439
+Porte Saint-Martin Fribourg-en-Brisgau;fr;4;47.99361,7.8489,500;http://www.wikidata.org/entity/Q328965
+Porte de Souabe Fribourg-en-Brisgau;fr;4;47.99278,7.85417,500;http://www.wikidata.org/entity/Schwabentor
+Seepark Fribourg-en-Brisgau;fr;4;48.0106,7.8189,500;http://www.wikidata.org/entity/Q2265460
+Augustinermuseum Fribourg-en-Brisgau;fr;4;47.99382,7.85278,500;http://www.wikidata.org/entity/Q542932
+Musée d'art moderne Fribourg-en-Brisgau;fr;4;47.992778,7.8525,500;http://www.wikidata.org/entity/Q1954668
+Musée archéologique Colombischlössle Fribourg-en-Brisgau;fr;4;47.99775,7.84613,500;http://www.wikidata.org/entity/Q329255
+Musée d'histoire de la ville Fribourg-en-Brisgau;fr;4;47.99493,7.85313,500;http://www.wikidata.org/entity/Q1954675
+Musée de la nature et des hommes Fribourg-en-Brisgau;fr;4;47.99333,7.85161,500;http://www.wikidata.org/entity/Q1970389
+Musée de Shiodome Shiodome;fr;4;35.66582,139.76195,500;http://www.wikidata.org/entity/Q11550512
+Plaine des Sables Piton de la Fournaise;fr;4;-21.23155,55.65850,500;http://www.wikidata.org/entity/Q3391001
+Pas de Bellecombe Piton de la Fournaise;fr;4;-21.22514,55.68434,500;http://www.wikidata.org/entity/Q3367142
+Musée d'art Ōhara Kurashiki;fr;4;34.5961,133.771,500;http://www.wikidata.org/entity/Q2977589
+Musée de l'artisanat Kurashiki;fr;4;34.59551,133.7716,500;http://www.wikidata.org/entity/Q11386763
+Musée d'art de la ville de Kurashiki Kurashiki;fr;4;34.5947,133.7689,500;http://www.wikidata.org/entity/Q11386746
+Maison Õhashi Kurashiki;fr;4;34.596941,133.768379,500;http://www.wikidata.org/entity/Q11436586
+Yugasan Rendai-ji Kurashiki;fr;4;34.5056,133.8507,500;http://www.wikidata.org/entity/Q11621649
+Musée mémorial du pont Seto Ohashi Kurashiki;fr;4;34.46833,133.8036,500;http://www.wikidata.org/entity/Q11388659
+Ruines du château Shimotsui Kurashiki;fr;4;34.4406,133.7956,500;http://www.wikidata.org/entity/Q11361097
+Colline Washuzan Kurashiki;fr;4;34.4355,133.81245,500;http://www.wikidata.org/entity/Q11676287
+Enryaku-ji Mont Hiei;fr;4;35.070556,135.841111,500;http://www.wikidata.org/entity/Q917195
+Musée de l'ancien Izumo de Shimane Izumo;fr;4;35.3988,132.68875,500;http://www.wikidata.org/entity/Q4802099
+Phare de Hinomisaki Izumo;fr;4;35.4339,132.62917,500;http://www.wikidata.org/entity/Q10896678
+Gorge de Tachikue Izumo;fr;4;35.29627,132.737,500;http://www.wikidata.org/entity/Q11597754
+Sanctuaire de Hinomisaki Izumo;fr;4;35.4296,132.62936,500;http://www.wikidata.org/entity/Q1619446
+Gakuen-ji Izumo;fr;4;35.42325,132.7494,500;http://www.wikidata.org/entity/Q11674322
+Ichibata Yakushi Izumo;fr;4;35.4968,132.8741,500;http://www.wikidata.org/entity/Q5986097
+Sanctuaire Susa Izumo;fr;4;35.23444,132.7369,500;http://www.wikidata.org/entity/Q11664502
+Forêt de Soignes Promenade verte;fr;4;50.7843,4.3986,500;http://www.wikidata.org/entity/Q2254455
+Parc Tournay-Solvay Promenade verte;fr;4;50.7936,4.4108,500;http://www.wikidata.org/entity/Q3363920
+Forêt de Soignes Promenade verte;fr;4;50.7981,4.4310,500;http://www.wikidata.org/entity/Q2254455
+Parc Ten Reuken Promenade verte;fr;4;50.8064,4.4282,500;http://www.wikidata.org/entity/Q3363917
+Parc Seny Promenade verte;fr;4;50.8095,4.4288,500;http://www.wikidata.org/entity/Q3363908
+Parc du Bergoje Promenade verte;fr;4;50.8140,4.4301,500;http://www.wikidata.org/entity/Q3364332
+Parc de Woluwe Promenade verte;fr;4;50.8284,4.4275,500;http://www.wikidata.org/entity/Q3364173
+Parc des Étangs Mellaerts Promenade verte;fr;4;50.8269,4.4343,500;http://www.wikidata.org/entity/Q3364328
+Musée du transport urbain bruxellois Promenade verte;fr;4;50.83160,4.43397,500;http://www.wikidata.org/entity/Q609692
+Parc Malou Promenade verte;fr;4;50.8424,4.4398,500;http://www.wikidata.org/entity/Q867140
+Le Slot Promenade verte;fr;4;50.84616,4.43942,500;http://www.wikidata.org/entity/Q3227235
+Chapelle de Marie-la-Misérable Promenade verte;fr;4;50.8463,4.4425,500;http://www.wikidata.org/entity/Q2957223
+Église Saint-Joseph Promenade verte;fr;4;50.85877,4.41482,500;http://www.wikidata.org/entity/Q3582136
+Cimetière de Bruxelles Promenade verte;fr;4;50.8682,4.4167,500;http://www.wikidata.org/entity/Q579666
+Moeraske Promenade verte;fr;4;50.8813,4.3934,500;http://www.wikidata.org/entity/Q3318200
+Parc Walckiers Promenade verte;fr;4;50.8797,4.3875,500;http://www.wikidata.org/entity/Q3363925
+Train World Promenade verte;fr;4;50.87806,4.37970,500;http://www.wikidata.org/entity/Q14931504
+Tour japonaise Promenade verte;fr;4;50.89307,4.36114,500;http://www.wikidata.org/entity/Q94564
+Pavillon chinois Promenade verte;fr;4;50.89383,4.36009,500;http://www.wikidata.org/entity/Q94564
+Parc de Laeken Promenade verte;fr;4;50.8904,4.3516,500;http://www.wikidata.org/entity/Q1801127
+Parc d'Osseghem Promenade verte;fr;4;50.8947,4.3463,500;http://www.wikidata.org/entity/Q20669821
+Atomium Promenade verte;fr;4;50.89493,4.34154,500;http://www.wikidata.org/entity/Q180901
+Mini-Europe Promenade verte;fr;4;50.89421,4.33869,500;http://www.wikidata.org/entity/Q1067006
+Jardin colonial Promenade verte;fr;4;50.8887,4.3452,500;http://www.wikidata.org/entity/Q3162432
+Parc Sobieski et jardins du Fleuriste Promenade verte;fr;4;50.8859,4.3464,500;http://www.wikidata.org/entity/Q3162682
+Parc Roi Baudouin Promenade verte;fr;4;50.8830,4.3263,500;http://www.wikidata.org/entity/Q3363894
+Parc Roi Baudouin Promenade verte;fr;4;50.8815,4.3092,500;http://www.wikidata.org/entity/Q3363894
+Parc régional du Scheutbos Promenade verte;fr;4;50.8524,4.2924,500;http://www.wikidata.org/entity/Q3364761
+Parc de la Pede Promenade verte;fr;4;50.8236,4.2713,500;http://www.wikidata.org/entity/Q17636361
+Vogelenzang Promenade verte;fr;4;50.8089,4.2813,500;http://www.wikidata.org/entity/Q3562066
+Jardin Shūrakuen Tsuyama;fr;4;35.071729,134.006096,500;http://www.wikidata.org/entity/Q11625972
+Sanctuaire Sakura Tsuyama;fr;4;35.062201,133.943149,500;http://www.wikidata.org/entity/Q11385386
+Chutes de Yokono Tsuyama;fr;4;35.163867,133.997331,500;http://www.wikidata.org/entity/Q11543484
+Sanctuaire Nakayama Tsuyama;fr;4;35.900223,139.66376,500;http://www.wikidata.org/entity/Q11364246
+Sanctuaire Tokumori Tsuyama;fr;4;35.060186,133.99515,500;http://www.wikidata.org/entity/Q19754765
+Sanctuaire Sōja Tsuyama;fr;4;35.074069,133.994322,500;http://www.wikidata.org/entity/Q11608754
+Sumiyoshi-jinja Shimonoseki;fr;4;33.9996,130.95656,500;http://www.wikidata.org/entity/Q11381858
+Château de Chantilly Chantilly;fr;4;49.19397,2.485767,500;http://www.wikidata.org/entity/Q766938
+Grandes Écuries et musée du cheval Chantilly;fr;4;49.19361,2.47889,500;http://www.wikidata.org/entity/Q3330824
+Pavillon de Manse Chantilly;fr;4;49.195401,2.467192,500;http://www.wikidata.org/entity/Q3373074
+Potager des Princes Chantilly;fr;4;49.196008,2.475733,500;http://www.wikidata.org/entity/Q3399917
+Église Notre-Dame-de-l'Assomption Chantilly;fr;4;49.19435,2.47894,500;http://www.wikidata.org/entity/Q3580275
+Hippodrome de Chantilly Chantilly;fr;4;49.1889,2.4744,500;http://www.wikidata.org/entity/Q3135878
+Cimetière de Bruxelles Evere;fr;4;50.8682,4.4167,500;http://www.wikidata.org/entity/Q579666
+Cimetière de Schaerbeek Evere;fr;4;50.86976,4.42333,500;http://www.wikidata.org/entity/Q263432
+Église Saint-Joseph Evere;fr;4;50.85877,4.41482,500;http://www.wikidata.org/entity/Q3582136
+Musée bruxellois du moulin et de l'alimentation Evere;fr;4;50.87312,4.39498,500;http://www.wikidata.org/entity/Q3329505
+'t Hoeveke Evere;fr;4;50.87664,4.39659,500;http://www.wikidata.org/entity/Q1239040
+Église Saint-Vincent Evere;fr;4;50.88131,4.40313,500;http://www.wikidata.org/entity/Q3584644
+Moeraske Evere;fr;4;50.8813,4.3934,500;http://www.wikidata.org/entity/Q3318200
+Signal Hill Saint-Jean de Terre-Neuve;fr;4;47.569722,-52.681944,500;http://www.wikidata.org/entity/Q245680
+Maison Green Gables Parc national de l'Île-du-Prince-Édouard;fr;4;46.49166667,-63.385,500;http://www.wikidata.org/entity/Q1109932
+Baie de Kabira Ishigaki;fr;4;24.4461,124.1403,500;http://www.wikidata.org/entity/Q2654598
+Île Yubu Iriomote;fr;4;24.3428,123.9336,500;http://www.wikidata.org/entity/Q700908
+Musée-maison de Dostoevsky Staraïa Roussa;fr;4;57.98138,31.35715,500;http://www.wikidata.org/entity/Q4165223
+Kihōin Taketomi;fr;4;24.33176,124.08415,500;http://www.wikidata.org/entity/Q11419195
+Nagomi-no-tō Taketomi;fr;4;24.33073,124.08552,500;http://www.wikidata.org/entity/Q11274224
+Sunayama Miyako (Okinawa);fr;4;24.8394,125.2806,500;http://www.wikidata.org/entity/Q11587400
+Kremenec Parc national des Poloniny;fr;4;49.0880,22.5657,500;http://www.wikidata.org/entity/Q153054
+Ďurkovec Parc national des Poloniny;fr;4;49.09867,22.42837,500;http://www.wikidata.org/entity/Q9248977
+Stužica Parc national des Poloniny;fr;4;49.0833,22.5333,500;http://www.wikidata.org/entity/Q1786462
+Havešová Parc national des Poloniny;fr;4;49.0097,22.3367,500;http://www.wikidata.org/entity/Q3128707
+Rožok Parc national des Poloniny;fr;4;48.98333,22.4647,500;http://www.wikidata.org/entity/Q3646675
+Église Saint-Michel-Archange de Ruský Potok Parc national des Poloniny;fr;4;49.0291,22.4108,500;http://www.wikidata.org/entity/Q19595869
+Église Saint-Michel-Archange de Topoľa Parc national des Poloniny;fr;4;49.04465,22.35658,500;http://www.wikidata.org/entity/Q19595850
+Église Saint-Michel-Archange d'Uličské Krivé Parc national des Poloniny;fr;4;48.99103,22.43637,500;http://www.wikidata.org/entity/Q19595809
+Église Saint-Jean-Baptiste de Kalná Roztoka Parc national des Poloniny;fr;4;48.9745,22.3093,500;http://www.wikidata.org/entity/Q19597762
+Parc aux singes de Jigokudani Yamanouchi;fr;4;36.73262,138.46199,500;http://www.wikidata.org/entity/Q5302436
+Magome Vallée de Kiso;fr;4;35.526667,137.5675,500;http://www.wikidata.org/entity/Q1433284
+Tsumago Vallée de Kiso;fr;4;35.5753,137.595,500;http://www.wikidata.org/entity/Q1079904
+Narai Vallée de Kiso;fr;4;35.9653,137.8114,500;http://www.wikidata.org/entity/Q3336018
+Mont Ontake Vallée de Kiso;fr;4;35.893,137.48,500;http://www.wikidata.org/entity/Q1754806
+Château d'Inuyama Inuyama;fr;4;35.3883,136.9393,500;http://www.wikidata.org/entity/Q1155484
+Japan Monkey Center Inuyama;fr;4;35.39063,136.9575,500;http://www.wikidata.org/entity/Q11506990
+Japan Monkey Park Inuyama;fr;4;35.3915,136.9539,500;http://www.wikidata.org/entity/Q11506991
+Little World Inuyama;fr;4;35.3745,137.023,500;http://www.wikidata.org/entity/Q6652601
+Musée Meiji Mura Inuyama;fr;4;35.3406,136.9887,500;http://www.wikidata.org/entity/Q985290
+Uraku-en Inuyama;fr;4;35.38799,136.94235,500;http://www.wikidata.org/entity/Q4924573
+Jakkō-in Inuyama;fr;4;35.3953,136.96367,500;http://www.wikidata.org/entity/Q11455665
+Cinq lac de Shiretoko Parc national de Shiretoko;fr;4;44.126,145.081,500;http://www.wikidata.org/entity/Q11584571
+Abbaye de Gellone Saint-Guilhem-le-Désert;fr;4;43.733879,3.549471,500;http://www.wikidata.org/entity/Q981723
+Kaiser-Franz-Josefs-Höhe Carinthie;fr;4;47.0763,12.7517,500;http://www.wikidata.org/entity/Q1660474
+Lac Wörthersee Carinthie;fr;4;46.625,14.143,500;http://www.wikidata.org/entity/Q546146
+Lac Millstätter Carinthie;fr;4;46.8,13.567,500;http://www.wikidata.org/entity/Q220241
+Turracher Höhe Carinthie;fr;4;46.914444,13.875,500;http://www.wikidata.org/entity/Q872329
+Parc national de Hohe Tauern Carinthie;fr;4;47.099527,12.656825,500;http://www.wikidata.org/entity/Q696014
+Asahi-dake Parc national de Daisetsuzan;fr;4;43.66357,142.85411,500;http://www.wikidata.org/entity/Q2271725
+Tokachi-dake Parc national de Daisetsuzan;fr;4;43.4176,142.6858,500;http://www.wikidata.org/entity/Q2620173
+Furano-dake Parc national de Daisetsuzan;fr;4;43.39356,142.63511,500;http://www.wikidata.org/entity/Q8526591
+Château et jardins de Losse Thonac;fr;4;45.03,1.13,500;http://www.wikidata.org/entity/Q2242266
+Réserve naturelle nationale des étangs de Senné Senné;fr;4;48.6952,22.0745,500;http://www.wikidata.org/entity/Q13537653
+Abbaye de Stavelot Stavelot;fr;4;50.39327,5.93173,500;http://www.wikidata.org/entity/Q314520
+Cascade de Coo Stavelot;fr;4;50.39356,5.87674,500;http://www.wikidata.org/entity/Q153791
+Château de Vincennes Vincennes;fr;4;48.8427,2.4357,500;http://www.wikidata.org/entity/Q663673
+Canal d'Otaru Otaru;fr;4;43.198004,141.003047,500;http://www.wikidata.org/entity/Q10959355
+Mont Hakodate Hakodate;fr;4;41.75923,140.7044,500;http://www.wikidata.org/entity/Q3526214
+Fort Goryōkaku Hakodate;fr;4;41.79710,140.75684,500;http://www.wikidata.org/entity/Q1196357
+Goryōkaku Tower Hakodate;fr;4;41.79461,140.75385,500;http://www.wikidata.org/entity/Q17222936
+Entrepôts de briques rouges de Kanemori Hakodate;fr;4;41.76614,140.71757,500;http://www.wikidata.org/entity/Q11647285
+Mine d'or de Sado Sado;fr;4;38.04203,138.2591,500;http://www.wikidata.org/entity/Q11248197
+Rengebu-ji Sado;fr;4;37.836028,138.287833,500;http://www.wikidata.org/entity/Q11621751
+Port de Shukunegi Sado;fr;4;37.8067,138.2432,500;http://www.wikidata.org/entity/Q11455626
+Toki no Kane Kawagoe;fr;4;35.92349,139.48331,500;http://www.wikidata.org/entity/Q17221309
+Musée du festival de Kawagoe Kawagoe;fr;4;35.924284,139.482816,500;http://www.wikidata.org/entity/Q11479196
+Musée de Kurazukuri Kawagoe;fr;4;35.923747,139.482808,500;http://www.wikidata.org/entity/Q11479246
+Résidence Osawa Kawagoe;fr;4;35.924451,139.483194,500;http://www.wikidata.org/entity/Q11436948
+Musée municipal Kawagoe;fr;4;35.92568,139.49082,500;http://www.wikidata.org/entity/Q11479227
+Château de Kawagoe Kawagoe;fr;4;35.92442,139.49145,500;http://www.wikidata.org/entity/Q1073688
+Temple Kita-in Kawagoe;fr;4;35.91741,139.48899,500;http://www.wikidata.org/entity/Q3080561
+Signal de Botrange Réserve naturelle domaniale des Hautes-Fagnes;fr;4;50.5017,6.0926,500;http://www.wikidata.org/entity/Q322824
+Baraque Michel Réserve naturelle domaniale des Hautes-Fagnes;fr;4;50.5188,6.0629,500;http://www.wikidata.org/entity/Q321168
+Wakkanai Kōen Wakkanai;fr;4;45.41967,141.6669,500;http://www.wikidata.org/entity/Q11596309
+Tour commémorative du centenaire Motoe Hiraku, Mémorial du Nord Wakkanai;fr;4;45.416917,141.663333,500;http://www.wikidata.org/entity/Q11596338
+Cap Sōya Wakkanai;fr;4;45.52139,141.93667,500;http://www.wikidata.org/entity/Q389239
+Aquarium d'eau froide Noshappu Wakkanai;fr;4;45.44933,141.6449,500;http://www.wikidata.org/entity/Q11596319
+Mont Haguro Dewa Sanzan;fr;4;38.7026,139.9819,500;http://www.wikidata.org/entity/Q3090765
+Mont Gassan Dewa Sanzan;fr;4;38.5489,140.02694,500;http://www.wikidata.org/entity/Q3174863
+Mont Yudono Dewa Sanzan;fr;4;38.5319,139.985,500;http://www.wikidata.org/entity/Q3322191
+Sanctuaire du mont Yudono Dewa Sanzan;fr;4;38.54156,139.9861,500;http://www.wikidata.org/entity/Q11563607
+Temple Dainichibō Dewa Sanzan;fr;4;38.59253,139.90036,500;http://www.wikidata.org/entity/Q11435616
+Temple Chūren-ji Dewa Sanzan;fr;4;38.60261,139.88706,500;http://www.wikidata.org/entity/Q11555689
+Château de Nagahama Nagahama;fr;4;35.3775,136.261111,500;http://www.wikidata.org/entity/Q1013195
+Quartier de Kurokabe Nagahama;fr;4;35.3811,136.26665,500;http://www.wikidata.org/entity/Q11678068
+Temple Daitsū-ji Nagahama;fr;4;35.3835,136.26914,500;http://www.wikidata.org/entity/Q11583061
+Musée des figurines de Kaiyōdō Nagahama;fr;4;35.381194,136.268389,500;http://www.wikidata.org/entity/Q11558989
+Sanctuaire Hachimangū Nagahama;fr;4;35.382639,136.274333,500;http://www.wikidata.org/entity/Q11653283
+Place du chemin de fer de Nagahama Nagahama;fr;4;35.37686,136.26575,500;http://www.wikidata.org/entity/Q11653326
+Bibliothèque d'État de Bamberg Bamberg;fr;4;49.8918,10.8823,500;http://www.wikidata.org/entity/Q324689
+Église Sainte-Genevièvre Gouvieux;fr;4;49.18962,2.41570,500;http://www.wikidata.org/entity/Q15954020
+Chateau de Montvillargenne Gouvieux;fr;4;49.18476,2.42744,500;http://www.wikidata.org/entity/Q2970057
+Abbaye du Val-Dieu Aubel;fr;4;50.69819,5.80525,500;http://www.wikidata.org/entity/Q1776216
+Brasserie Val-Dieu Aubel;fr;4;50.69812,5.80412,500;http://www.wikidata.org/entity/Q2537924
+Église de la Clouse Aubel;fr;4;50.6927,5.8982,500;http://www.wikidata.org/entity/Q2182238
+Siroperie Meurens Aubel;fr;4;50.70355,5.86351,500;http://www.wikidata.org/entity/Q3032267
+Lac Schluchsee Sud de la Forêt-Noire;fr;4;47.8214,8.1528,500;http://www.wikidata.org/entity/Q835671
+Abbaye Saint-Blaise Sud de la Forêt-Noire;fr;4;47.76,8.13,500;http://www.wikidata.org/entity/Q532367
+Lac Titisee Sud de la Forêt-Noire;fr;4;47.8933,8.1461,500;http://www.wikidata.org/entity/Q700097
+Musée de plein air Vogtsbauernhof Centre de la Forêt-Noire;fr;4;48.2714,8.1981,500;http://www.wikidata.org/entity/Q2254559
+Cascades de Triberg Centre de la Forêt-Noire;fr;4;48.126111,8.2275,500;http://www.wikidata.org/entity/Q650634
+Gouffre de Cabrespine Cabrespine;fr;4;43.3597,2.45722,500;http://www.wikidata.org/entity/Q3111597
+Site du Pont du Gard Vers-Pont-du-Gard;fr;4;43.9472525,4.53528857533381,500;http://www.wikidata.org/entity/Q189764
+Abbaye Saint-Martin du Canigou Casteil;fr;4;42.5281475,2.4012346,500;http://www.wikidata.org/entity/Q287751
+Forteresse de Salses Salses-le-Château;fr;4;42.83963015,2.91875431690509,500;http://www.wikidata.org/entity/Q371069
+Château du Loewenstein Wingen;fr;4;49.05353625,7.7862689017338,500;http://www.wikidata.org/entity/Q441306
+Ouvrage du Four-à-Chaux Lembach;fr;4;48.99389,7.79583,500;http://www.wikidata.org/entity/Q1439997
+Château de Fleckenstein Lembach;fr;4;49.0455841,7.7733341,500;http://www.wikidata.org/entity/Q75401
+Château du Frœnsbourg Lembach;fr;4;49.03687855,7.74331503286511,500;http://www.wikidata.org/entity/Q441301
+Le village de Clermont Thimister-Clermont;fr;4;50.6589,5.8838,500;http://www.wikidata.org/entity/Q2621830
+Monument au cavalier Fonck Thimister-Clermont;fr;4;50.6455,5.8517,500;http://www.wikidata.org/entity/Q16011229
+Familistère de Guise Guise;fr;4;49.90424,3.62636,500;http://www.wikidata.org/entity/Q1395337
+Château-fort de Guise Guise;fr;4;49.896,3.623,500;http://www.wikidata.org/entity/Q1869481
+Église Saint-Pierre et Saint-Paul Guise;fr;4;49.8986,3.62393,500;http://www.wikidata.org/entity/Q3583626
+Le village de Soiron Pepinster;fr;4;50.5923,5.7907,500;http://www.wikidata.org/entity/Q968169
+Le village d'Olne Olne;fr;4;50.5901,5.7486,500;http://www.wikidata.org/entity/Q710358
+Jardins royaux de Herrenhäuser Hanovre;fr;4;52.3922,9.70023,500;http://www.wikidata.org/entity/Q574773
+Calvaire-fontaine Miribel (Ain);fr;4;45.823871,4.951511,500;http://www.wikidata.org/entity/Q2934450
+Vierge du Mas Rillier Miribel (Ain);fr;4;45.8288,4.95011,500;http://www.wikidata.org/entity/Q3558014
+Carillon du Mas Rillier Miribel (Ain);fr;4;45.8288,4.9501,500;http://www.wikidata.org/entity/Q2938784
+Musée ethnographique Oliva Carta Cannas Aggius;fr;4;40.928384,9.065516,500;http://www.wikidata.org/entity/Q20770745
+Musée du banditisme Aggius;fr;4;40.929564,9.065857,500;http://www.wikidata.org/entity/Q20770633
+Nuraghe Izzana Aggius;fr;4;40.9881,9.0824,500;http://www.wikidata.org/entity/Q2113739
+Église Sainte-Victoire Aggius;fr;4;40.9302,40.9302,500;http://www.wikidata.org/entity/Q18785449
+Musée Qaqortoq Qaqortoq;fr;4;60.718333,-46.0375,500;http://www.wikidata.org/entity/Q4570969
+Lac Wolfgang Sankt Wolfgang im Salzkammergut;fr;4;47.7385,13.4330,500;http://www.wikidata.org/entity/Q871584
+Aquarium et centre marin du Nouveau-Brunswick Shippagan;fr;4;47.746105,-64.708271,500;http://www.wikidata.org/entity/Q2859188
+Lieu historique national Alexander-Graham-Bell Baddeck;fr;4;46.1028,-60.7458,500;http://www.wikidata.org/entity/Q4718994
+Phare de l'île Kidston Baddeck;fr;4;46.098140,-60.742030,500;http://www.wikidata.org/entity/Q6405042
+Lieu historique national de Fort Laramie Fort Laramie;fr;4;42.2092,-104.536,500;http://www.wikidata.org/entity/Q3077927
+Fort la Reine Portage la Prairie;fr;4;49.9512,-98.3276,500;http://www.wikidata.org/entity/Q3077911
+Château de Snina Snina;fr;4;48.9850,22.1468,500;http://www.wikidata.org/entity/Q12769060
+Église Saint-Maurice Saint-Maurice-de-Beynost;fr;4;45.8356,4.97583,500;http://www.wikidata.org/entity/Q3583120
+Parc de La Sathonette Saint-Maurice-de-Beynost;fr;4;45.8336,4.9778,500;http://www.wikidata.org/entity/Q3364138
+Lac Wolfgang Sankt Gilgen;fr;4;47.764,13.378,500;http://www.wikidata.org/entity/Q871584
+Église Saint-Julien de Beynost Beynost;fr;4;45.8405,5.0023,500;http://www.wikidata.org/entity/Q3582182
+Seconde église Saint-Julien de Beynost Beynost;fr;4;45.8398,5.0008,500;http://www.wikidata.org/entity/Q3477198
+Viaduc ferroviaire de la Côtière Beynost;fr;4;45.8348,5.0230,500;http://www.wikidata.org/entity/Q3556652
+Maison Delorme Beynost;fr;4;45.8391,4.9989,500;http://www.wikidata.org/entity/Q16034597
+Arboretum de Beynost Beynost;fr;4;45.8441,4.9949,500;http://www.wikidata.org/entity/Q2406629
+Centre canadien de découvertes de fossiles Morden;fr;4;49.1978,-98.0949,500;http://www.wikidata.org/entity/Q5030049
+Église Saint-Florent Thil (Ain);fr;4;45.814662,5.021739,500;http://www.wikidata.org/entity/Q17498596
+Parc Fuchinobe Sagamihara;fr;4;35.5543,139.3915,500;http://www.wikidata.org/entity/Q11560368
+Parc Kanuma Sagamihara;fr;4;35.5666,139.3924,500;http://www.wikidata.org/entity/Q11677218
+Lac Sagami Sagamihara;fr;4;35.6139,139.1833,500;http://www.wikidata.org/entity/Q720883
+Ruines de Tanamukaihara Sagamihara;fr;4;35.528694,139.3555,500;http://www.wikidata.org/entity/Q11576407
+Domaine Joly-De Lotbinière Sainte-Croix;fr;4;46.6659900,-71.8505001,500;http://www.wikidata.org/entity/Q3034372
+Anse des cascades Est de la Réunion;fr;4;-21.1856,55.8269,500;http://www.wikidata.org/entity/Q2852451
+Temple Chūson-ji Hiraizumi;fr;4;39.00145,141.0998,500;http://www.wikidata.org/entity/Q2660144
+Temple Mōtsu-ji Hiraizumi;fr;4;38.9878,141.108,500;http://www.wikidata.org/entity/Q975227
+Takkoku no Iwaya Bishamon-dō Hiraizumi;fr;4;38.96817,141.05844,500;http://www.wikidata.org/entity/Q11641901
+Kanjizaiō-in Ato Hiraizumi;fr;4;38.9885,141.11033,500;http://www.wikidata.org/entity/Q3080218
+Muryōkō-in Ato Hiraizumi;fr;4;38.99306,141.1156,500;http://www.wikidata.org/entity/Q11567538
+Yanagi no gosho Iseki Hiraizumi;fr;4;38.9936,141.11917,500;http://www.wikidata.org/entity/Q11534074
+Mont Kinkeisan Hiraizumi;fr;4;38.9934,141.1092,500;http://www.wikidata.org/entity/Q11648027
+Parc de la Boverie Outremeuse;fr;4;50.6289,5.5766,500;http://www.wikidata.org/entity/Q3364189
+La Boverie Outremeuse;fr;4;50.6274,5.5775,500;http://www.wikidata.org/entity/Q21511875
+Palais des congrès Outremeuse;fr;4;50.6300,5.5746,500;http://www.wikidata.org/entity/Q3361101
+Institut de zoologie Outremeuse;fr;4;50.6388,5.5787,500;http://www.wikidata.org/entity/Q3152142
+Musée Tchantchès Outremeuse;fr;4;50.63924,5.58159,500;http://www.wikidata.org/entity/Q2482757
+Rue Roture Outremeuse;fr;4;50.63985,5.58256,500;http://www.wikidata.org/entity/Q3449785
+Musée Grétry Outremeuse;fr;4;50.64103,5.58365,500;http://www.wikidata.org/entity/Q3329180
+Hôpital de Bavière Outremeuse;fr;4;50.64373,5.58778,500;http://www.wikidata.org/entity/Q3145272
+Église Saint-Pholien Outremeuse;fr;4;50.64300,5.58119,500;http://www.wikidata.org/entity/Q3583523
+Lac Sagami Hachiōji;fr;4;35.6139,139.1833,500;http://www.wikidata.org/entity/Q720883
+Mausolée impérial Hachiōji;fr;4;35.65022,139.28004,500;http://www.wikidata.org/entity/Q6940153
+Traces du château de Hachiōji Hachiōji;fr;4;35.653,139.25215,500;http://www.wikidata.org/entity/Q2969389
+Parc Nagaike Hachiōji;fr;4;35.6113,139.392,500;http://www.wikidata.org/entity/Q6631493
+Grotte de l'Abîme Comblain-au-Pont;fr;4;50.4768,5.5664,500;http://www.wikidata.org/entity/Q2470816
+Chapelle de Vieuxville Ferrières;fr;4;50.3953,5.5506,500;http://www.wikidata.org/entity/Q2957495
+Château de Logne Ferrières;fr;4;50.3939,5.5356,500;http://www.wikidata.org/entity/Q3258047
+Cathédrale Saint-Rombaut Malines;fr;4;51.02895,4.47831,500;http://www.wikidata.org/entity/Q1086358
+Grottes de Remouchamps Route des Légendes;fr;4;50.48014,5.71213,500;http://www.wikidata.org/entity/Q337424
+Château de Harzé Route des Légendes;fr;4;50.4413,5.6665,500;http://www.wikidata.org/entity/Q1862408
+Chapelle Sainte-Anne des Pouhons Route des Légendes;fr;4;50.4203,5.6657,500;http://www.wikidata.org/entity/Q16670833
+Fonds de Quarreux Route des Légendes;fr;4;50.45123,5.73958,500;http://www.wikidata.org/entity/Q3075816
+Vallée du Ninglinspo Route des Légendes;fr;4;50.4689,5.7457,500;http://www.wikidata.org/entity/Q2572821
+Charmille du Haut-Marais Route des Légendes;fr;4;50.47143,5.77735,500;http://www.wikidata.org/entity/Q2796809
+Banneux (Sprimont) Route des Légendes;fr;4;50.53769,5.74975,500;http://www.wikidata.org/entity/Q1044403
+Temple Naritasan Shinshō-ji Narita;fr;4;35.78608,140.31831,500;http://www.wikidata.org/entity/Q3083875
+Sakura-no-Yama Narita;fr;4;35.776003,140.363389,500;http://www.wikidata.org/entity/Q11495655
+Musée des sciences aéronautiques Narita;fr;4;35.7402,140.39797,500;http://www.wikidata.org/entity/Q11613905
+Battistero di San Giovanni Parme;fr;4;44.80304,10.33039,500;http://www.wikidata.org/entity/Q2883692
+Château de Muraň Parc national de Muránska planina;fr;4;48.75999,20.060928,500;http://www.wikidata.org/entity/Q573241
+Cimetière militaire américain Neupré;fr;4;50.5453,5.4668,500;http://www.wikidata.org/entity/Q638977
+Roche-aux-faucons Neupré;fr;4;50.5519,5.5504,500;http://www.wikidata.org/entity/Q2720925
+Musée du village slovaque Martin;fr;4;49.0386,18.92925,500;http://www.wikidata.org/entity/Q15631840
+Tiesnavy Parc national Malá Fatra;fr;4;49.2444,19.0381,500;http://www.wikidata.org/entity/Q9358678
+Église articulaire en bois Hronsek;fr;4;48.6491,19.155,500;http://www.wikidata.org/entity/Q595992
+Château d'Orava Oravský Podzámok;fr;4;49.2617,19.3588,500;http://www.wikidata.org/entity/Q29894
+Vieille Synagogue Kazimierz;fr;4;50.05138,19.94858,500;http://www.wikidata.org/entity/Q3502453
+"Synagogue Rem""ou Kazimierz";fr;4;50.05266,19.94730,500;http://www.wikidata.org/entity/Q3618
+Synagogue Tempel Kazimierz;fr;4;50.052917,19.944444,500;http://www.wikidata.org/entity/Q3354482
+Haute Synagogue Kazimierz;fr;4;50.051389,19.947389,500;http://www.wikidata.org/entity/Q598951
+Synagogue Bne Emuna Kazimierz;fr;4;50.051344,19.944425,500;http://www.wikidata.org/entity/Q9349015
+Synagogue Chewra Thilim Kazimierz;fr;4;50.051111,19.9433,500;http://www.wikidata.org/entity/Q9349046
+Synagogue Isaac Jakubowicz Kazimierz;fr;4;50.051667,19.9466,500;http://www.wikidata.org/entity/Q3109262
+Synagogue Kowea Itim le-Tora Kazimierz;fr;4;50.051389,19.947694,500;http://www.wikidata.org/entity/Q6435020
+Synagogue Kupa Kazimierz;fr;4;50.05266,19.9457,500;http://www.wikidata.org/entity/Q3507991
+Synagogue Mizrachi Kazimierz;fr;4;50.05166,19.9463,500;http://www.wikidata.org/entity/Q9349331
+Synagogue Wolf Popper Kazimierz;fr;4;50.052436,19.948781,500;http://www.wikidata.org/entity/Q3511288
+Abbaye bénédictine de Tyniec Sud de Cracovie;fr;4;50.0187,19.8021,500;http://www.wikidata.org/entity/Q334336
+Sanctuaire et église Saint Jean-Paul II Sud de Cracovie;fr;4;50.0131,19.9364,500;http://www.wikidata.org/entity/Q9186292
+Abbaye de Maredsous Anhée;fr;4;50.3023,4.7667,500;http://www.wikidata.org/entity/Q2719216
+Cap Iri Yonaguni;fr;4;24.44944,122.9336,500;http://www.wikidata.org/entity/Q5034876
+Cap Agari Yonaguni;fr;4;24.46167,123.0433,500;http://www.wikidata.org/entity/Q11526783
+Tindabana Yonaguni;fr;4;24.4675,122.99806,500;http://www.wikidata.org/entity/Q18337414
+Village d'artisanat artistique traditionnel de Hokkaidō Asahikawa;fr;4;43.7718,142.3085,500;http://www.wikidata.org/entity/Q11402569
+Pont Asahibashi Asahikawa;fr;4;43.7785,142.36,500;http://www.wikidata.org/entity/Q11511817
+Zoo d'Asahiyama Asahikawa;fr;4;43.76870,142.47646,500;http://www.wikidata.org/entity/Q993926
+Village de la poterie d'Arashiyama Asahikawa;fr;4;43.79361,142.31099,500;http://www.wikidata.org/entity/Q11400789
+Sanctuaire d'Enoshima Enoshima;fr;4;35.3006,139.4797,500;http://www.wikidata.org/entity/Q11259219
+Aquarium d'Enoshima Enoshima;fr;4;35.30967,139.4799,500;http://www.wikidata.org/entity/Q11502657
+Village américain de Mihama Île d'Okinawa;fr;4;26.3153,127.7586,500;http://www.wikidata.org/entity/Q11609171
+Aquarium Churaumi d'Okinawa Île d'Okinawa;fr;4;26.6944,127.87794,500;http://www.wikidata.org/entity/Q1445750
+Cap Kiyan Île d'Okinawa;fr;4;26.0782,127.6689,500;http://www.wikidata.org/entity/Q11419196
+Cape Hedo Île d'Okinawa;fr;4;26.87325,128.2647,500;http://www.wikidata.org/entity/Q4521065
+Baie de Nago Île d'Okinawa;fr;4;26.5722,127.9328,500;http://www.wikidata.org/entity/Q11415625
+Mer intérieure de Haneji Île d'Okinawa;fr;4;26.644,128.0125,500;http://www.wikidata.org/entity/Q4518067
+Île de Hamahiga Île d'Okinawa;fr;4;26.3207,127.9584,500;http://www.wikidata.org/entity/Q4518764
+Okinawa World Île d'Okinawa;fr;4;26.1,127.75,500;http://www.wikidata.org/entity/Q11408656
+Château de Katsuren Île d'Okinawa;fr;4;26.33056,127.8789,500;http://www.wikidata.org/entity/Q2471589
+Zakimi Île d'Okinawa;fr;4;26.40833,127.74194,500;http://www.wikidata.org/entity/Q2338956
+Château de Nakijin Île d'Okinawa;fr;4;26.69083,127.93028,500;http://www.wikidata.org/entity/Q508866
+Château de Nakagusuku Île d'Okinawa;fr;4;26.2839,127.8014,500;http://www.wikidata.org/entity/Q1013209
+Andreasstift Worms;fr;4;49.6281,8.3572,500;http://www.wikidata.org/entity/Q501567
+Magnuskirche Worms;fr;4;49.6287,8.3586,500;http://www.wikidata.org/entity/Q1884629
+Nibelungenmuseum Worms;fr;4;49.6295,8.3670,500;http://www.wikidata.org/entity/Q1465938
+Stadtmuseum im Andreasstift Worms;fr;4;49.6281,8.3572,500;http://www.wikidata.org/entity/Q501567
+Jüdisches Museum im Raschi-Haus Worms;fr;4;49.6334,8.3663,500;http://www.wikidata.org/entity/Q13639970
+Forts de Lévis Lévis;fr;4;46.814444,-71.158056,500;http://www.wikidata.org/entity/Q3078530
+Maison Alphonse-Desjardins Lévis;fr;4;46.809444,-71.181944,500;http://www.wikidata.org/entity/Q15767921
+Château de Chinon Chinon;fr;4;47.16822,0.23630,500;http://www.wikidata.org/entity/Q912447
+Collégiale Saint-Mexme Chinon;fr;4;47.16785,0.24543,500;http://www.wikidata.org/entity/Q2820409
+Chapelle Sainte-Radegonde Chinon;fr;4;47.16847,0.25381,500;http://www.wikidata.org/entity/Q18559756
+Cité royale de Loches Loches;fr;4;47.12660,0.99768,500;http://www.wikidata.org/entity/Q1061061
+Collégiale Saint-Ours Loches;fr;4;47.12684,0.99844,500;http://www.wikidata.org/entity/Q2984002
+Château d'Amboise Amboise;fr;4;47.41339,0.98647,500;http://www.wikidata.org/entity/Q389908
+Iwami Ginzan Ōda;fr;4;35.1128,132.435,500;http://www.wikidata.org/entity/Q174139
+Abbaye de la Trinité Vendôme;fr;4;47.79126,1.06877,500;http://www.wikidata.org/entity/Q745084
+La Pierre de la Fée Draguignan;fr;4;43.544806,6.453056,500;http://www.wikidata.org/entity/Q1306578
+Tour de l'horloge de Draguignan Draguignan;fr;4;43.539999,6.466291,500;http://www.wikidata.org/entity/Q3533578
+Le cimetière américain Draguignan;fr;4;43.5367,6.4736,500;http://www.wikidata.org/entity/Q7321408
+Habitation de la Grivelière Vieux-Habitants;fr;4;16.0716,-61.7288,500;http://www.wikidata.org/entity/Q15950314
+Musée du Café Vieux-Habitants;fr;4;16.0606,-61.7602,500;http://www.wikidata.org/entity/Q3330412
+Château d'Odawara Odawara;fr;4;35.25083,139.15361,500;http://www.wikidata.org/entity/Q1013437
+Chinriu Honten Odawara;fr;4;35.25527,139.15651,500;http://www.wikidata.org/entity/Q11272106
+Château de Hagi Hagi;fr;4;34.421419,131.381389,500;http://www.wikidata.org/entity/Q1064830
+Meirin-kan Hagi;fr;4;34.40944,131.3992,500;http://www.wikidata.org/entity/Q3304746
+Sanctuaire Shōin Hagi;fr;4;34.412139,131.418222,500;http://www.wikidata.org/entity/Q11532416
+Tōkō-ji Hagi;fr;4;34.412528,131.426056,500;http://www.wikidata.org/entity/Q11526033
+Musée de Hagi Hagi;fr;4;34.41325,131.390472,500;http://www.wikidata.org/entity/Q11620299
+Musée d'art préfectoral de Hagi - Pavillon Commémoratif d’Uragami Hagi;fr;4;34.409444,131.394361,500;http://www.wikidata.org/entity/Q11467091
+Daishō-in Hagi;fr;4;34.3954,131.39136,500;http://www.wikidata.org/entity/Q11437731
+Kasayama Hagi;fr;4;34.449611,131.401861,500;http://www.wikidata.org/entity/Q11599864
+Étang Myōjin Hagi;fr;4;34.448833,131.409111,500;http://www.wikidata.org/entity/Q11512588
+Four à reverbère Hagi;fr;4;34.428153,131.418297,500;http://www.wikidata.org/entity/Q20637540
+Monument Valley Monument national du Canyon de Chelly;fr;4;36.9821,-110.1164,500;http://www.wikidata.org/entity/Q192017
+Le Parc national de la forêt pétrifiée - Monument national du Canyon de Chelly;fr;4;35.028,-109.641,500;http://www.wikidata.org/entity/Q305949
+Vieux dispensaire Zanzibar (ville);fr;4;-6.15833,39.19262,500;http://www.wikidata.org/entity/Q4009183
+Mosquée Ijumaa Zanzibar (ville);fr;4;-6.15926,39.19240,500;http://www.wikidata.org/entity/Q16964197
+Musée du Palace Zanzibar (ville);fr;4;-6.15997,39.19045,500;http://www.wikidata.org/entity/Q1960500
+Maison des merveilles Zanzibar (ville);fr;4;-6.16092,39.18959,500;http://www.wikidata.org/entity/Q2568900
+Vieux fort Zanzibar (ville);fr;4;-6.16137,39.18902,500;http://www.wikidata.org/entity/Q3748659
+Parc Forodhani Zanzibar (ville);fr;4;-6.16069,39.18866,500;http://www.wikidata.org/entity/Q3077682
+Cathédrale Saint-Joseph Zanzibar (ville);fr;4;-6.16279,39.18872,500;http://www.wikidata.org/entity/Q2942370
+Maison de Tippu Tip Zanzibar (ville);fr;4;-6.16403,39.18699,500;http://www.wikidata.org/entity/Q17094038
+Bains publics perses Hamamni Zanzibar (ville);fr;4;-6.16234,39.19098,500;http://www.wikidata.org/entity/Q3632906
+Cathédrale du Christ Zanzibar (ville);fr;4;-6.16292,39.19251,500;http://www.wikidata.org/entity/Q5108733
+Marché Darajani Zanzibar (ville);fr;4;-6.16244,39.19371,500;http://www.wikidata.org/entity/Q5222054
+Pont Kintai-kyō Iwakuni;fr;4;34.167603,132.178367,500;http://www.wikidata.org/entity/Q1196460
+Château d'Iwakuni Iwakuni;fr;4;34.17526,132.17423,500;http://www.wikidata.org/entity/Q1156906
+Formations de rochers de Hashigui-Iwa Kushimoto;fr;4;33.4847,135.796553,500;http://www.wikidata.org/entity/Q11121906
+Mémorial et musée turcs Kushimoto;fr;4;33.46912,135.8580771,500;http://www.wikidata.org/entity/Q11322055
+Hall de l'amitié américano-japonaise Kushimoto;fr;4;33.4618207,135.850103,500;http://www.wikidata.org/entity/Q11510122
+Phare de Kashinozaki Kushimoto;fr;4;33.4716763,135.8596067,500;http://www.wikidata.org/entity/Q6374339
+Koza Kushimoto;fr;4;33.5156341,135.8268919,500;http://www.wikidata.org/entity/Q2675119
+Îles de Kuroshima et de Taijima Kushimoto;fr;4;33.504447,135.825628,500;http://www.wikidata.org/entity/Q6446399
+Parc marin de Kushimoto Kushimoto;fr;4;33.480861,135.744972,500;http://www.wikidata.org/entity/Q11367893
+Musée d'art Ōkyoro Kushimoto;fr;4;33.4704347,135.7781626,500;http://www.wikidata.org/entity/Q11367892
+Phare de Shiono-Misaki Kushimoto;fr;4;33.4375651,135.7532327,500;http://www.wikidata.org/entity/Q11565692
+Barrage de Shichikawa Kushimoto;fr;4;33.597822,135.6953382,500;http://www.wikidata.org/entity/Q11353516
+Formations de rochers d'Umikongō Kushimoto;fr;4;33.465167,135.854639,500;http://www.wikidata.org/entity/Q11559374
+Musée de la sculpture Cham Da Nang;fr;4;16.059894,108.222641,500;http://www.wikidata.org/entity/Q6940790
+Montagnes de marbre Da Nang;fr;4;16.00333,108.26370,500;http://www.wikidata.org/entity/Q6755207
+Musée de la paix Himeyuri Itoman;fr;4;26.0965,127.6907,500;http://www.wikidata.org/entity/Q1619050
+Ruines du château de Gushikawa Itoman;fr;4;26.080951,127.664789,500;http://www.wikidata.org/entity/Q11393737
+Musée préfectoral mémorial de la paix d'Okinawa Itoman;fr;4;26.09645,127.7254,500;http://www.wikidata.org/entity/Q4555530
+Sanctuaire Tenman-gū Dazaifu;fr;4;33.521,130.535,500;http://www.wikidata.org/entity/Q710786
+Kōmyōzen-ji Dazaifu;fr;4;33.518381,130.534175,500;http://www.wikidata.org/entity/Q865845
+Musée National Kyūshū Dazaifu;fr;4;33.518,130.538,500;http://www.wikidata.org/entity/Q148543
+Mosquée Kizimkazi;fr;4;-6.43609,39.46234,500;http://www.wikidata.org/entity/Q1137520
+Dom St. Martin und St. Stephan Mayence;fr;4;49.998889,8.274167,500;http://www.wikidata.org/entity/Q666960
+St. Stephan Mayence;fr;4;49.995556,8.268611,500;http://www.wikidata.org/entity/Q661125
+St. Ignaz Mayence;fr;4;49.995833,8.278056,500;http://www.wikidata.org/entity/Q879179
+St. Quintin Mayence;fr;4;50.00075,8.27199,500;http://www.wikidata.org/entity/Q72745
+Johanniskirche Mayence;fr;4;49.998333,8.272222,500;http://www.wikidata.org/entity/Q1415719
+Augustinerkirche Mayence;fr;4;49.997083,8.274711,500;http://www.wikidata.org/entity/Q76886
+St. Christoph Mayence;fr;4;50.00197,8.27226,500;http://www.wikidata.org/entity/Q871057
+Karmeliterkirche Mayence;fr;4;50.002735,8.273301,500;http://www.wikidata.org/entity/Q3585896
+Pfarrkirche St. Peter Mayence;fr;4;50.004722,8.27,500;http://www.wikidata.org/entity/Q883791
+Christuskirche Mayence;fr;4;50.007222,8.266389,500;http://www.wikidata.org/entity/Q319281
+Auferstehungskirche Mayence;fr;4;50.004522,8.247564,500;http://www.wikidata.org/entity/Q15106942
+St. Franziskus Mayence;fr;4;49.96089,8.186848,500;http://www.wikidata.org/entity/Q2318243
+Deutschhaus Mayence;fr;4;50.00527,8.271667,500;http://www.wikidata.org/entity/Q530788
+Altwied Burg Rhin;fr;4;50.48330,7.46718,500;http://www.wikidata.org/entity/Q1010788
+Hangar à dirigeables Écausseville;fr;4;49.4514,-1.38178,500;http://www.wikidata.org/entity/Q3126756
+Cathédrale Saint-Étienne Sens;fr;4;48.1980,3.2838,500;http://www.wikidata.org/entity/Q489014
+Palais Synodal Sens;fr;4;48.19763,3.28349,500;http://www.wikidata.org/entity/Q18736777
+Marché couvert Sens;fr;4;48.19789,3.28181,500;http://www.wikidata.org/entity/Q22668755
+Maison d'Abraham Sens;fr;4;48.19587,3.28317,500;http://www.wikidata.org/entity/Q22248823
+Église Saint-Maurice Sens;fr;4;48.19773,3.27561,500;http://www.wikidata.org/entity/Q3583127
+Palais archiépiscopal Sens;fr;4;48.19753,3.28439,500;http://www.wikidata.org/entity/Q22668876
+Yebisu Garden Place Ebisu;fr;4;35.642389,139.713889,500;http://www.wikidata.org/entity/Q11259433
+Musée métropolitain de photographie de Tokyo Ebisu;fr;4;35.6417,139.7132,500;http://www.wikidata.org/entity/Q862884
+Forteresse Orechek Chlisselbourg;fr;4;59.953828,31.039159,500;http://www.wikidata.org/entity/Q14690
+Col Rogers Parc national des Glaciers;fr;4;51.301389,-117.52,500;http://www.wikidata.org/entity/Q383051
+Chōkoku-ji Yurihonjō;fr;4;39.428091,140.103051,500;http://www.wikidata.org/entity/Q11653680
+Parc Honjō Yurihonjō;fr;4;39.384766,140.04752,500;http://www.wikidata.org/entity/Q11520772
+Chute de Hottai Yurihonjō;fr;4;39.108138,140.156084,500;http://www.wikidata.org/entity/Q11555021
