@@ -1,0 +1,7 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,comment
+2 rue du 10e niort,,,4,,2,Rue du Dixième,Niort,
+4 rue 11 novembre Frénouville,,,4,,4,Rue du Onze Novembre,Frénouville,OSM dit « Onze » - OA dit « 11 ».  Les deux sont acceptables mais devraient être équivalents
+1 place du cc Lomprez,,,4,,1,Place du Centre Commercial Lomprez,Valenciennes,
+2 Place du 12 Mai Figeac,,,4,,2,Place du Douze Mai,Figeac,OSM dit «Douze» -  OA dit « 12 ».  Les deux sont acceptables mais devraient être équivalents
+4 Place du 1er Mai Ennezat,,,4,,4,Place du Premier Mai,Ennezat,OSM dit «Premier» - OA dit « 1er ».  Les deux sont acceptables mais devraient être équivalents
+12 rue mlle bourgeois,,,4,,12,Rue Mademoiselle Bourgeois,Nevers,
