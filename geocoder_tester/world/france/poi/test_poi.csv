@@ -1,0 +1,53 @@
+query;lon;lat;limit;lang;expected_name;expected_housenumber;expected_street;expected_city;expected_postcode;expected_coordinate
+notre dame de la brosse;;;4;fr;;;;;88240;48.00360996060565,6.2705503629168469,500
+Château du Vau Garni ;;;4;fr;;;;;35400;48.623674910406926,-2.010241767185882,500
+menhir Roche Longue ;;;4;fr;;;;;22800;48.3981966,-2.9075546,500
+musée du louvre;;;4;fr;Musée du Louvre;;;Paris;;48.86114726113347,2.338027583323689,500
+Piscine Arche Guédon ;;;4;fr;;;;;77200;48.85170743606793,2.6345054222093323,500
+cinéma CGR Torcy;;;4;fr;;;;Torcy;77200;
+cc bay 2;;;4;fr;;;;;;48.83654,2.66194,500
+piscine Youri Gagarine villejuif;;;4;fr;;;;;94800;48.78402905807247,2.3592525478378854,500
+lycée guillaume budée;;;4;fr;;;;Limeil-Brévannes;;48.74446831923762,2.5099350236488016,500
+créteil soleil;;;4;fr;;;;Créteil;;48.77998,2.45708,500
+stade duvauchelle;;;4;fr;;;;Créteil;94000;
+gare de lyon;;;4;fr;;;;Paris;75012;48.8448057,2.3734794,500
+école savereau boissy;;;4;fr;École maternelle Savereau;;;Boissy-Saint-Léger;;
+école wallou boissy;;;4;fr;École primaire Vallou;;;Boissy-Saint-Léger;;
+chateau de grosbois boissy;;;4;fr;Château de Grosbois;;;Boissy-Saint-Léger;;
+chateau du piple boissy;;;4;fr;Château du Piple;;;Boissy-Saint-Léger;;
+mairie de luzinay;;;4;fr;;;;Luzinay;38200;45.589085,4.955909565800863,500
+hippodrome vincennes;;;4;fr;;;;;75012;48.8209418,2.4517372,500
+ambassade d’autriche paris;;;4;fr;;;Rue de l'Université;;75007;
+Les pères populaires paris;;;4;fr;;;Rue des Grands Champs;;75020;
+le rossli paris;;;4;fr;;;;Paris;75012;
+victoria station paris;;;4;fr;;;Passage des Panoramas;;75002;
+cimetière père lachaise;;;4;fr;;;;Paris;75020;
+plage du prophète marseille;;;4;fr;;;;Marseille;;43.27296285,5.362165501997708,500
+mayflower paris;;;4;fr;;;Rue Descartes;Paris;;
+hopital trousseau;;;4;fr;Hôpital Armand-Trousseau;;;Paris;;
+point ephemere;;;4;fr;;;;Paris;;48.88150082706196,2.368598390500296,500
+arènes de nîmes;;;4;fr;Arènes de Nimes;;;;30020;
+port le béal;;;4;fr;Port Abri du Béal;;;;;43.535721089287094,6.953452614525425,500
+université des sciences nice;;;4;fr;;;;Nice;;43.71689145,7.267556824708512,500
+Parc Valrose Université de Nice;;;4;fr;;;;Nice;;43.71689145,7.267556824708512,500
+angevin vallauris;;;4;fr;Groupe Scolaire Langevin;;;Vallauris;;
+aeroport de cannes;;;4;fr;Aéroport de Cannes-Mandelieu;;;;;
+Aeroport de cannes mandelieux;;;4;fr;Aéroport de Cannes-Mandelieu;;;;;
+le dome de vincennes;;;4;fr;Centre Aquatique Le Dôme de Vincennes;;;Vincennes;;48.84588212649522,2.455920962155227,500
+piscine roger le gall;;;4;fr;Piscine Roger Le Gall;;;Paris;;48.84163331095995,2.412566082696992,500
+la maison blanche vaux sur mer;;;4;fr;La Maison Blanche;;;Vaux-sur-Mer;;45.638316429301334,-1.0751546227315013,200
+mémorial de caen;;;4;fr;;;;Caen;;49.197605445968975,-0.3841887943139227,200
+la coupole d’helfaut;;;4;fr;;;;Helfaut;;50.7061413,2.240516,500
+lycée wallon;;;4;fr;;;;Valenciennes;;50.363649,3.520428,500
+phénix valenciennes;;;4;fr;;;;Valenciennes;;50.364624,3.528693,200
+beffroi arras;;;4;fr;;;;Arras;;50.291017,2.776980,200
+cinéma st pol sur ternoise;;;4;fr;;;;Saint-Pol-sur-Ternoise;;50.381491,2.337155,200
+planetarium nîmes;;;4;fr;;;;Nîmes;;43.84315576590549,4.365429430313909,200
+hopital Yves Le Foll;;;4;fr;;;;Saint-Brieuc;;48.49245370461272,-2.7511098756933,200
+ Arènes de Lutèce;;;4;fr;;;;;75005;48.8450606,2.352937445936398,500
+les charmettes Chambéry;;;4;fr;Les Charmettes;;;Chambéry;; 45.55333333, 5.92972222,200
+chateau du sailhant;;;4;fr;;;;Andelat;;45.06916667, 3.04166667,200
+station biologique de paimpont;;;4;fr;;;;Paimpont;;
+la fontaine des éléphants chambéry;;;4;fr;;;;Chambéry;;45.56666667, 5.92305556,200
+chateau des ducs de savoie;;;4;fr;Château des Ducs de Savoie;;;Chambéry;;45.56444444, 5.91777778,200
+fort des salettes;;;4;fr;Fort des Salettes;;;Briançon;;44.90472222, 6.65166667,200

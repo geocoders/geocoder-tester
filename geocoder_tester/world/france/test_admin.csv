@@ -1,0 +1,51 @@
+query;lon;lat;limit;lang;expected_name;expected_housenumber;expected_street;expected_city;expected_postcode;expected_coordinate
+Gard;;;1;fr;Gard;;;;;43.95995,4.297637002377168,15000
+occitanie;;;1;fr;Occitanie;;;;;43.6487851,2.3435684,50000
+nimes;;;1;fr;Nîmes;;;;;43.8374249,4.3600687,5000
+cannes;;;1;fr;Cannes;;;;;43.5515198,7.0134418,5000
+saint raphael;;;4;fr;Saint-Raphaël;;;;;43.4322,6.7863,5000
+ajaccio;;;1;fr;Ajaccio;;;;;41.9263991, 8.7376029,5000
+aix en provence;;;1;fr;Aix-en-Provence;;;;;43.5319,5.4175,5000
+paris 17e;;;1;fr;Paris 17e Arrondissement;;;Paris;75017;
+paris 17eme;;;1;fr;Paris 17e Arrondissement;;;Paris;75017;
+chateauroux;;;4;fr;Châteauroux;;;;36000;
+indre et loire;;;1;fr;Indre-et-Loire;;;;;47.2232046,0.6866702523286876,50000
+indre;;;1;fr;Indre;;;;;46.81210565,1.5382051557056249,15000
+tours;;;1;fr;Tours;;;;;47.3900474,0.6889268,5000
+nice;;;4;fr;Nice;;;;;43.7009358,7.2683912,5000
+saint martin du var;;;1;fr;Saint-Martin-du-Var;;;;06670;
+st martin du var;;;1;fr;Saint-Martin-du-Var;;;;06670;
+les arcs;;;1;fr;Les Arcs;;;;83460;
+royan;;;1;fr;Royan;;;;17200;
+vaux sur mer;;;1;fr;Vaux-sur-Mer;;;;17640;
+rue;;;4;fr;Rue;;;;80120;
+rue france;;;1;fr;Rue;;;;80120;
+france;;;1;fr;France;;;;;46.603354,1.8883335,95000
+pas de calais;;;1;fr;Pas-de-Calais;;;;;50.514137649999995,2.2585790358700244,50000
+azincourt;;;1;fr;Azincourt;;;;62310;
+azinc;;;4;fr;Azincourt;;;;62310;
+longfos;;;4;fr;Longfossé;;;;62240;
+longfossé;;;1;fr;Longfossé;;;;62240;
+lille;;;1;fr;Lille;;;;;50.6305089,3.0706414,5000
+arras;;;4;fr;Arras;;;;62000;
+marck;;;1;fr;Marck;;;;62730;
+cournols;;;1;fr;Cournols;;;;63450;
+valenciennes;;;1;fr;Valenciennes;;;;59300;
+briançon;;;1;fr;Briançon;;;;05100;
+serre chevalier;;;1;fr;Serre Chevalier;;;;05100;
+chamonix;;;1;fr;Chamonix-Mont-Blanc;;;;74400;
+montgenevre;;;1;fr;Montgenèvre;;;;05100;
+gap;;;4;fr;Gap;;;;05000;
+chambéry;;;1;fr;Chambéry;;;;73000;
+aix les bains;;;1;fr;Aix-les-Bains;;;;73100;
+saint baldoph;;;1;fr;Saint-Baldoph;;;;73190;
+la motte servolex;;;1;fr;La Motte-Servolex;;;;73290;
+les déserts savoie;;;1;fr;Les Déserts;;;;73230;
+toulouse;;;1;fr;Toulouse;;;;;43.6044622,1.4442469,5000
+torcy;;;4;fr;Torcy;;;;77200;
+lognes;;;1;fr;Lognes;;;;77185;
+vincennes;;;1;fr;Vincennes;;;;94300;
+boissy saint léger;;;1;fr;Boissy-Saint-Léger;;;;94470;
+créteil;;;1;fr;Créteil;;;;94000;
+metz;;;1;fr;Metz;;;;;49.1196964,6.1763552,5000
+domrémy la pucelle;;;1;fr;Domrémy-la-Pucelle;;;;88630;

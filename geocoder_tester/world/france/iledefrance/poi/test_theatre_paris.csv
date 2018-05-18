@@ -1,0 +1,106 @@
+query;limit;expected_coordinate;expected_city
+AccorHotels Arena;4;48.83870845,2.3787666192264645,100;Paris
+Aktéon;4;48.8617458,2.3781602,100;Paris
+Alhambra Paris;4;48.8706168,2.362969,100;Paris
+Artistic-Athévains;4; 48.8566373,2.3809209,100;Paris
+Ateliers Berthier;4;48.89290625,2.3090573,200;Paris
+Bataclan paris;4;48.8631169, 2.3708919,100;Paris
+Le Batofar;4;48.83335375,2.3793216800,100;Paris
+Le Boeuf sur le Toit;4;48.8714038,2.3104401,100;Paris
+Bobino Paris;4;48.839865,2.323069,100;Paris
+Théâtre Bouffes du Nord;4;48.8839948,2.3588579,100;Paris
+Boule Noire Paris;4;48.882339,2.340260,100;Paris
+Cabaret Michou;4;48.8830455,2.3398008,100;Paris
+Café de la Danse;4;48.8541145,2.3728427,100;Paris
+Café de la Gare paris;4;48.859792,2.3532563,100;Paris
+Casino de Paris;4;48.878448,2.3305066,100;Paris
+Caveau de la République;4;48.8677538,2.3619056,100;Paris
+La Cigale Paris;4;48.8824587,2.340182,100;Paris
+Theatre Les Cinq Diamants;4;48.8295361,2.3515265,100;Paris
+Cirque d'hiver;4;48.8635363,2.3675917,100;Paris
+Comédie-Caumartin;4;48.8716302,2.3279234,100;Paris
+Comédie de Paris;4;48.8829861,2.3333274,100;Paris
+La Comédie des boulevards;4;48.8702624,2.3461888,100;Paris
+Comédie-Française;4;48.8635374,2.3361929,100;Paris
+Crazy Horse Paris;4;48.865960,2.3017221,100;Paris
+Le Divan du Monde;4;48.882443,2.3395146,100;Paris
+Élysée Montmartre;4;48.8831627,2.3434327,100;Paris
+Espace Cardin;4;48.8673922,2.3186947,100;Paris
+l’Étoile du Nord Paris;4;48.8956054,2.3330161,100;Paris
+Théatre l’Européen paris;4;48.8837701,2.3265034,100;Paris
+Folies Bergère;4;48.8741222,2.3448869 ,100;Paris
+Laurette Théâtre paris;4;48.8714948,2.3681825,100;Paris
+Lido paris;4;48.8724266,2.3008705,100;Paris
+Le Lucernaire;4;48.8442922,2.3305405 ,100;Paris
+Maison de la Poésie;4;48.862203,2.351822,100;Paris
+La Maroquinerie Paris;4;48.8685677,2.39206,100;Paris
+Moulin Rouge paris;4;48.884078,2.3324082,100;Paris
+La Nouvelle Ève;4;48.8820057,2.3336875 ,100;Paris
+Odéon-Théâtre de l'Europe;4;48.849502,2.338722,100;Paris
+Olympia paris;4;48.8627324,2.3542832,100;Paris
+Opéra Bastille;4;48.8514912,2.3706641,100;Paris
+Opéra Comique paris;4;48.8711116,2.3378433,100;Paris
+Théâtre national de l'Opéra-Comique (Salle Favart);4;48.8711116,2.3378433,100;Paris
+Le Palace paris;4;48.8721414,2.3433983,100;Paris
+Palais des congrès de Paris;4;48.8781,2.2836,200;Paris
+Palais des Sports paris;4;48.8322346,2.287287,100;Paris
+Palais Garnier;4;48.87212,2.33178,100;Paris
+Paradis Latin paris;4;48.8479782,2.3529858 ,100;Paris
+Pépinière Théâtre;4;48.8685956,2.3322485,100;Paris
+Salle Gaveau paris;4;48.8735064,2.3141502,100;Paris
+Salle Pleyel;4;48.8770119,2.3010998,100;Paris
+Le Splendid paris;4;48.8707153,2.356714,100;Paris
+Théâtre 13 paris;4;48.828875,2.3449,100;Paris
+Théâtre de Dix Heures;4;48.8828282,2.3366019,100;Paris
+Théâtre de l'Œuvre;4;48.8808405,2.3282176,100;Paris
+Théâtre de la Bastille;4;48.8558275,2.3755799,100;Paris
+Théâtre de la Cité internationale;4;48.819155,2.3383937,100;Paris
+Théâtre de la Gaîté-Montparnasse;4;48.8393259,2.3231092,100;Paris
+Théâtre de La Grande Comédie;4;48.8794685,2.3296284,100;Paris
+Théâtre de la Huchette;4;48.85302, 2.3453773,100;Paris
+Théâtre de la Main d'Or;4;48.8522803,2.3779953,100;Paris
+Théâtre de la Michodière;4;48.8693146,2.3347338,100;Paris
+Théâtre de la Porte Saint-Martin;4;48.8690686,2.3568989,100;Paris
+Théâtre de la Renaissance paris;4;48.8690852,2.356435,100;Paris
+Théâtre de la Ville paris;4;48.8572971,2.3480528,100;Paris
+Théâtre de Ménilmontant;4;48.868027,2.3944884,100;Paris
+Théâtre de Paris;4;48.878633,2.331488,100;Paris
+Théâtre de Poche Montparnasse;4;48.8436363,2.3254799,100;Paris
+Théâtre Déjazet;4;48.8662147,2.3645043,100;Paris
+Théâtre des Abbesses;4;48.8847666,2.33735,100;Paris
+Théâtre des Blancs Manteaux;4;48.8587145,2.357396,100;Paris
+Théâtre des Bouffes-Parisiens;4;48.8683542,2.335476,100;Paris
+Théâtre des Champs-Élysées;4;48.8658174,2.30290392,100;Paris
+Théâtre des Deux Ânes;4;48.8843321,2.3316645,100;Paris
+Théâtre des Mathurins;4;48.8733076,2.3256182,100;Paris
+Théâtre des Nouveautés;4;48.8713709,2.34487482,100;Paris
+Théâtre des Variétés;4;48.8714333,2.3421383,100;Paris
+Théâtre Douze;4;48.8413123,2.4117612,100;Paris
+Théâtre du Palais-Royal;4;48.8661383,2.337634,100;Paris
+Théâtre du Point Virgule paris;4;48.8578741,2.3568325,100;Paris
+Théâtre du Rond-Point;4;48.8677572,2.3108852,100;Paris
+Théâtre du Temps;4;48.8601015,2.3815463,100;Paris
+Théâtre du Vieux-Colombier;4;48.8516772,2.3301934,100;Paris
+Théâtre Édouard VII;4;48.8714072,2.3293794,100;Paris
+Théâtre le Guichet Montparnasse;4;48.8405483,2.3222504,100;Paris
+Théâtre le Mélo d'Amélie;4;48.8650606,2.3483424,100;Paris
+Théâtre le Ranelagh;4;48.8545409,2.2776862,100;Paris
+Théâtre des Déchargeurs;4;48.8597303,2.3459285,100;Paris
+Théâtre Marigny;4;48.8687176,2.3137577,100;Paris
+Théâtre Michel paris;4;48.8733204,2.3254505,100;Paris
+Théâtre Mogador;4;48.875373,2.3307359,100;Paris
+Théâtre Montparnasse;4;48.839465,2.32356,100;Paris
+Théâtre Mouffetard;4;48.8422077,2.3499508,100;Paris
+Théâtre de Chaillot;4;48.8626783,2.2885551,100;Paris
+Théâtre de la Colline;4;48.8644181,2.3973215,100;Paris
+Théâtre Paris-Villette;4;48.8897545,2.3907965,100;Paris
+Théâtre Rive-Gauche;4;48.8407733,2.3243516,100;Paris
+Théâtre Saint-Georges;4;48.8781774,2.3370777,100;Paris
+Théâtre Monfort paris;4;48.830726,2.301659,200;Paris
+Théâtre Trévise paris;4;48.8734883,2.3453635,100;Paris
+Théâtre Tristan-Bernard;4;48.8788203,2.3192755,100;Paris
+Théo Théâtre paris;4;48.8372157,2.2888121,100;Paris
+Le Trabendo paris;4;48.8926493,2.3939584,100;Paris
+Le Trianon paris;4;48.8830878,2.3430267,100;Paris
+Les Trois Baudets paris;4;48.8834581,2.3344321,100;Paris
+Le Zèbre de Belleville paris;4;48.8702257,2.3786163,100;Paris
