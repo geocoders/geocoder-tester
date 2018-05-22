@@ -18,7 +18,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 20 Rue du Luberon 67730,,,,20 Rue du Luberon,,,Châtenois,
 20 Rue du Luberon,7.408357,48.268283,,20 Rue du Luberon,,,,67730
 9 Rue de l'Étang Dehlingen,,,,9 Rue de l'Étang,,,,67430
-9 Rue de l'Étang 67430,,,,9 Rue de l'Étang,,,Dehlingen,
+9 Rue de l'Étang 67430,,,,9 Rue de l'Étang,,,,67430
 9 Rue de l'Étang,7.192760,48.981824,,9 Rue de l'Étang,,,,67430
 121 Rue des Jardins Dossenheim-sur-Zinsel,,,,121 Rue des Jardins,,,,67330
 121 Rue des Jardins 67330,,,,121 Rue des Jardins,,,Dossenheim-sur-Zinsel,
@@ -33,7 +33,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 1B Rue des Fleurs 67114,,,,1B Rue des Fleurs,,,Eschau,
 1B Rue des Fleurs,7.723727,48.486679,,1B Rue des Fleurs,,,,67114
 5 Rue des Jardins Frœschwiller,,,,5 Rue des Jardins,,,,67360
-5 Rue des Jardins 67360,,,,5 Rue des Jardins,,,Frœschwiller,
+5 Rue des Jardins 67360,,,,5 Rue des Jardins,,,,67360
 5 Rue des Jardins,7.723738,48.945068,,5 Rue des Jardins,,,,67360
 4 Rue des Pierres Gerstheim,,,,4 Rue des Pierres,,,,67150
 4 Rue des Pierres 67150,,,,4 Rue des Pierres,,,Gerstheim,
@@ -87,7 +87,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 10 Rue du Général Walter 67230,,,,10 Rue du Général Walter,,,Obenheim,
 10 Rue du Général Walter,7.689310,48.358187,,10 Rue du Général Walter,,,,67230
 4 Rue de Bouxwiller Obermodern-Zutzendorf,,,,4 Rue de Bouxwiller,,,,67330
-4 Rue de Bouxwiller 67330,,,,4 Rue de Bouxwiller,,,Obermodern-Zutzendorf,
+4 Rue de Bouxwiller 67330,,,,4 Rue de Bouxwiller,,,,67330
 4 Rue de Bouxwiller,7.538443,48.844463,,4 Rue de Bouxwiller,,,,67330
 1 Rue de la Glockengrube Obersteinbach,,,,1 Rue de la Glockengrube,,,,67510
 1 Rue de la Glockengrube 67510,,,,1 Rue de la Glockengrube,,,Obersteinbach,
@@ -105,7 +105,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 18 Rue Neumatt 67410,,,,18 Rue Neumatt,,,Rohrwiller,
 18 Rue Neumatt,7.911118,48.756954,,18 Rue Neumatt,,,,67410
 18 Rue Neuve Rountzenheim,,,,18 Rue Neuve,,,,67480
-18 Rue Neuve 67480,,,,18 Rue Neuve,,,Rountzenheim,
+18 Rue Neuve 67480,,,,18 Rue Neuve,,,,67480
 18 Rue Neuve,8.005745,48.816675,,18 Rue Neuve,,,,67480
 1 Rue devant le Sapinot Saulxures,,,,1 Rue devant le Sapinot,,,,67420
 1 Rue devant le Sapinot 67420,,,,1 Rue devant le Sapinot,,,Saulxures,
@@ -114,13 +114,13 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 1 Rue Sainte-Odile 67750,,,,1 Rue Sainte-Odile,,,Scherwiller,
 1 Rue Sainte-Odile,7.425547,48.287263,,1 Rue Sainte-Odile,,,,67750
 85 Rue Principale Schirrhein,,,,85 Rue Principale,,,,67240
-85 Rue Principale 67240,,,,85 Rue Principale,,,Schirrhein,
+85 Rue Principale 67240,,,,85 Rue Principale,,,,67240
 85 Rue Principale,7.907268,48.801731,,85 Rue Principale,,,,67240
 15 Rue du Bernstein Sélestat,,,,15 Rue du Bernstein,,,,67600
-15 Rue du Bernstein 67600,,,,15 Rue du Bernstein,,,Sélestat,
+15 Rue du Bernstein 67600,,,,15 Rue du Bernstein,,,,67600
 15 Rue du Bernstein,7.439836,48.265841,,15 Rue du Bernstein,,,,67600
 27 Rue du Rhin Seltz,,,,27 Rue du Rhin,,,,67470
-27 Rue du Rhin 67470,,,,27 Rue du Rhin,,,Seltz,
+27 Rue du Rhin 67470,,,,27 Rue du Rhin,,,,67470
 27 Rue du Rhin,8.108368,48.891956,,27 Rue du Rhin,,,,67470
 12 Rue de la Montée Soufflenheim,,,,12 Rue de la Montée,,,,67620
 12 Rue de la Montée 67620,,,,12 Rue de la Montée,,,Soufflenheim,
@@ -153,7 +153,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 16 Rue des Glaïeuls 67310,,,,16 Rue des Glaïeuls,,,Wasselonne,
 16 Rue des Glaïeuls,7.435555,48.642018,,16 Rue des Glaïeuls,,,,67310
 37 Rue de la République Weyersheim,,,,37 Rue de la République,,,,67720
-37 Rue de la République 67720,,,,37 Rue de la République,,,Weyersheim,
+37 Rue de la République 67720,,,,37 Rue de la République,,,,67720
 37 Rue de la République,7.801562,48.713851,,37 Rue de la République,,,,67720
 16 Rue de la Pépinière Wissembourg,,,,16 Rue de la Pépinière,,,,67160
 16 Rue de la Pépinière 67160,,,,16 Rue de la Pépinière,,,Wissembourg,
@@ -168,7 +168,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 66 Rue Principale 68390,,,,66 Rue Principale,,,Battenheim,
 66 Rue Principale,7.382636,47.819767,,66 Rue Principale,,,,68390
 3 Rue Principale Bisel,,,,3 Rue Principale,,,,68580
-3 Rue Principale 68580,,,,3 Rue Principale,,,Bisel,
+3 Rue Principale 68580,,,,3 Rue Principale,,,,68580
 3 Rue Principale,7.217449,47.535778,,3 Rue Principale,,,,68580
 34 Rue de la Gare Breitenbach-Haut-Rhin,,,,34 Rue de la Gare,,,,68380
 34 Rue de la Gare 68380,,,,34 Rue de la Gare,,,Breitenbach-Haut-Rhin,
@@ -192,7 +192,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 3 Rue de la Wanne 68720,,,,3 Rue de la Wanne,,,Flaxlanden,
 3 Rue de la Wanne,7.314013,47.694769,,3 Rue de la Wanne,,,,68720
 15 Rue du Général de Gaulle Guebwiller,,,,15 Rue du Général de Gaulle,,,,68500
-15 Rue du Général de Gaulle 68500,,,,15 Rue du Général de Gaulle,,,Guebwiller,
+15 Rue du Général de Gaulle 68500,,,,15 Rue du Général de Gaulle,,,,68500
 15 Rue du Général de Gaulle,7.213803,47.909945,,15 Rue du Général de Gaulle,,,,68500
 48 Rue de Delle Hagenbach,,,,48 Rue de Delle,,,,68210
 48 Rue de Delle 68210,,,,48 Rue de Delle,,,Hagenbach,
@@ -264,7 +264,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 9 Rue des Soeurs 68360,,,,9 Rue des Soeurs,,,Soultz-Haut-Rhin,
 9 Rue des Soeurs,7.230580,47.885942,,9 Rue des Soeurs,,,,68360
 4 Rue de Roppentzwiller Steinsoultz,,,,4 Rue de Roppentzwiller,,,,68640
-4 Rue de Roppentzwiller 68640,,,,4 Rue de Roppentzwiller,,,Steinsoultz,
+4 Rue de Roppentzwiller 68640,,,,4 Rue de Roppentzwiller,,,,68640
 4 Rue de Roppentzwiller,7.336025,47.549512,,4 Rue de Roppentzwiller,,,,68640
 33 Rue Florimont Turckheim,,,,33 Rue Florimont,,,,68230
 33 Rue Florimont 68230,,,,33 Rue Florimont,,,Turckheim,
