@@ -1,6 +1,6 @@
 query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
 71 Rue du Midi Arbignieu,,,,71 Rue du Midi,,,,01300
-71 Rue du Midi 01300,,,,71 Rue du Midi,,,Arbignieu,
+71 Rue du Midi 01300,,,,71 Rue du Midi,,,,01300
 71 Rue du Midi,5.651220,45.727888,,71 Rue du Midi,,,,01300
 3 Lotissement des Bruyères Béligneux,,,,3 Lotissement des Bruyères,,,,01360
 3 Lotissement des Bruyères 01360,,,,3 Lotissement des Bruyères,,,Béligneux,
@@ -219,7 +219,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 106 Rue du Maupas 38360,,,,106 Rue du Maupas,,,Noyarey,
 106 Rue du Maupas,5.631349,45.244027,,106 Rue du Maupas,,,,38360
 523 Route de Brésin Le Pin,,,,523 Route de Brésin,,,,38730
-523 Route de Brésin 38730,,,,523 Route de Brésin,,,Le Pin,
+523 Route de Brésin 38730,,,,523 Route de Brésin,,,,38730
 523 Route de Brésin,5.517661,45.468200,,523 Route de Brésin,,,,38730
 6 Rue du Canal du Drac Le Pont-de-Claix,,,,6 Rue du Canal du Drac,,,,38800
 6 Rue du Canal du Drac 38800,,,,6 Rue du Canal du Drac,,,Le Pont-de-Claix,

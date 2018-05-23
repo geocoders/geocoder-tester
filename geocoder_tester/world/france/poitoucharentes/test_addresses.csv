@@ -327,7 +327,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 4 Rue Mélusine 79310,,,,4 Rue Mélusine,,,Verruyes,
 4 Rue Mélusine,-0.289437,46.517168,,4 Rue Mélusine,,,,79310
 22 Rue des Lises de la Ballu Beaumont,,,,22 Rue des Lises de la Ballu,,,,86490
-22 Rue des Lises de la Ballu 86490,,,,22 Rue des Lises de la Ballu,,,Beaumont,
+22 Rue des Lises de la Ballu 86490,,,,22 Rue des Lises de la Ballu,,,,86490
 22 Rue des Lises de la Ballu,0.427328,46.732373,,22 Rue des Lises de la Ballu,,,,86490
 6 Hameau des Rabries Brion,,,,6 Hameau des Rabries,,,,86160
 6 Hameau des Rabries 86160,,,,6 Hameau des Rabries,,,Brion,
@@ -357,7 +357,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 5 Rue des Coquelicots 86320,,,,5 Rue des Coquelicots,,,Gouex,
 5 Rue des Coquelicots,0.686884,46.370054,,5 Rue des Coquelicots,,,,86320
 28 Rue de la Payre Jaunay-Clan,,,,28 Rue de la Payre,,,,86130
-28 Rue de la Payre 86130,,,,28 Rue de la Payre,,,Jaunay-Clan,
+28 Rue de la Payre 86130,,,,28 Rue de la Payre,,,,86130
 28 Rue de la Payre,0.368268,46.678954,,28 Rue de la Payre,,,,86130
 46 Promenade des Rocs Lhommaizé,,,,46 Promenade des Rocs,,,,86410
 46 Promenade des Rocs 86410,,,,46 Promenade des Rocs,,,Lhommaizé,
@@ -393,7 +393,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 10 Impasse Serpentine 86000,,,,10 Impasse Serpentine,,,Poitiers,
 10 Impasse Serpentine,0.333233,46.592693,,10 Impasse Serpentine,,,,86000
 14 Rue de l'Étang Le Rochereau,,,,14 Rue de l'Étang,,,,86170
-14 Rue de l'Étang 86170,,,,14 Rue de l'Étang,,,Le Rochereau,
+14 Rue de l'Étang 86170,,,,14 Rue de l'Étang,,,,86170
 14 Rue de l'Étang,0.159198,46.701446,,14 Rue de l'Étang,,,,86170
 9 Route de la Croix Boutet Saint-Genest-d'Ambière,,,,9 Route de la Croix Boutet,,,,86140
 9 Route de la Croix Boutet 86140,,,,9 Route de la Croix Boutet,,,Saint-Genest-d'Ambière,

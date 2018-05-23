@@ -66,7 +66,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 28 Rue de Champonot 25640,,,,28 Rue de Champonot,,,Roulans,
 28 Rue de Champonot,6.234419,47.318534,,28 Rue de Champonot,,,,25640
 11 Rue Les Perrières Sancey-le-Grand,,,,11 Rue Les Perrières,,,,25430
-11 Rue Les Perrières 25430,,,,11 Rue Les Perrières,,,Sancey-le-Grand,
+11 Rue Les Perrières 25430,,,,11 Rue Les Perrières,,,,25430
 11 Rue Les Perrières,6.586225,47.302039,,11 Rue Les Perrières,,,,25430
 7 Rue de Bournois Soye,,,,7 Rue de Bournois,,,,25250
 7 Rue de Bournois 25250,,,,7 Rue de Bournois,,,Soye,

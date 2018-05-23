@@ -296,9 +296,9 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 5 Rue du Rebberg Volmunster,,,,5 Rue du Rebberg,,,,57720
 5 Rue du Rebberg 57720,,,,5 Rue du Rebberg,,,Volmunster,
 5 Rue du Rebberg,7.350800,49.123287,,5 Rue du Rebberg,,,,57720
-17  Woippy,,,,17 ,,,,57140
-17  57140,,,,17 ,,,Woippy,
-17 ,6.162780,49.145480,,17 ,,,,57140
+17 Rue Hubert Colinet Woippy,,,,17 Rue Hubert Colinet,,,,57140
+17 Rue Hubert Colinet 57140,,,,17 Rue Hubert Colinet,,,Woippy,
+17 Rue Hubert Colinet,6.162780,49.145480,,17 Rue Hubert Colinet,,,,57140
 72 Route de Thionville Yutz,,,,72 Route de Thionville,,,,57970
 72 Route de Thionville 57970,,,,72 Route de Thionville,,,Yutz,
 72 Route de Thionville,6.177599,49.348295,,72 Route de Thionville,,,,57970
@@ -336,7 +336,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 1253 Rue de Xertigny 88390,,,,1253 Rue de Xertigny,,,Girancourt,
 1253 Rue de Xertigny,6.316916,48.154983,,1253 Rue de Xertigny,,,,88390
 22 Rue du Pré Genêt Granges-sur-Vologne,,,,22 Rue du Pré Genêt,,,,88640
-22 Rue du Pré Genêt 88640,,,,22 Rue du Pré Genêt,,,Granges-sur-Vologne,
+22 Rue du Pré Genêt 88640,,,,22 Rue du Pré Genêt,,,,88640
 22 Rue du Pré Genêt,6.796522,48.148165,,22 Rue du Pré Genêt,,,,88640
 2 Rue du Château Jeanménil,,,,2 Rue du Château,,,,88700
 2 Rue du Château 88700,,,,2 Rue du Château,,,Jeanménil,
