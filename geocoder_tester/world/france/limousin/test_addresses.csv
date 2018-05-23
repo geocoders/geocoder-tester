@@ -12,7 +12,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 4 Rue du Tisserand 19800,,,,4 Rue du Tisserand,,,Corrèze,
 4 Rue du Tisserand,1.873542,45.372870,,4 Rue du Tisserand,,,,19800
 27 Rue Aliénor d'Aquitaine Malemort-sur-Corrèze,,,,27 Rue Aliénor d'Aquitaine,,,,19360
-27 Rue Aliénor d'Aquitaine 19360,,,,27 Rue Aliénor d'Aquitaine,,,Malemort-sur-Corrèze,
+27 Rue Aliénor d'Aquitaine 19360,,,,27 Rue Aliénor d'Aquitaine,,,,19360
 27 Rue Aliénor d'Aquitaine,1.555503,45.173976,,27 Rue Aliénor d'Aquitaine,,,,19360
 32 Impasse de Saint-Jean Objat,,,,32 Impasse de Saint-Jean,,,,19130
 32 Impasse de Saint-Jean 19130,,,,32 Impasse de Saint-Jean,,,Objat,
@@ -78,7 +78,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 5 Rue Saint-Aurélien 87000,,,,5 Rue Saint-Aurélien,,,Limoges,
 5 Rue Saint-Aurélien,1.257774,45.828111,,5 Rue Saint-Aurélien,,,,87000
 10 Route de Saint-Martial Mézières-sur-Issoire,,,,10 Route de Saint-Martial,,,,87330
-10 Route de Saint-Martial 87330,,,,10 Route de Saint-Martial,,,Mézières-sur-Issoire,
+10 Route de Saint-Martial 87330,,,,10 Route de Saint-Martial,,,,87330
 10 Route de Saint-Martial,0.907516,46.108916,,10 Route de Saint-Martial,,,,87330
 4 Allée Molière Le Palais-sur-Vienne,,,,4 Allée Molière,,,,87410
 4 Allée Molière 87410,,,,4 Allée Molière,,,Le Palais-sur-Vienne,

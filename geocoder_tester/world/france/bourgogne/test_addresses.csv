@@ -294,5 +294,5 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 40 Rue du Grain d'Anis 89500,,,,40 Rue du Grain d'Anis,,,Villeneuve-sur-Yonne,
 40 Rue du Grain d'Anis,3.284952,48.079943,,40 Rue du Grain d'Anis,,,,89500
 114 Rue des Arcys Volgré,,,,114 Rue des Arcys,,,,89710
-114 Rue des Arcys 89710,,,,114 Rue des Arcys,,,Volgré,
+114 Rue des Arcys 89710,,,,114 Rue des Arcys,,,,89710
 114 Rue des Arcys,3.328024,47.920675,,114 Rue des Arcys,,,,89710

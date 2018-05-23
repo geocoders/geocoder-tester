@@ -66,10 +66,10 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 12 Rue de l'Église 14930,,,,12 Rue de l'Église,,,Maltot,
 12 Rue de l'Église,-0.433676,49.125541,,12 Rue de l'Église,,,,14930
 6 Rue des Lilas Mézidon-Canon,,,,6 Rue des Lilas,,,,14270
-6 Rue des Lilas 14270,,,,6 Rue des Lilas,,,Mézidon-Canon,
+6 Rue des Lilas 14270,,,,6 Rue des Lilas,,,,14270
 6 Rue des Lilas,-0.070416,49.075957,,6 Rue des Lilas,,,,14270
 17 Rue Pierre Cingal Moult,,,,17 Rue Pierre Cingal,,,,14370
-17 Rue Pierre Cingal 14370,,,,17 Rue Pierre Cingal,,,Moult,
+17 Rue Pierre Cingal 14370,,,,17 Rue Pierre Cingal,,,,14370
 17 Rue Pierre Cingal,-0.164475,49.113356,,17 Rue Pierre Cingal,,,,14370
 95 Boulevard du Maréchal Joffre Ouistreham,,,,95 Boulevard du Maréchal Joffre,,,,14150
 95 Boulevard du Maréchal Joffre 14150,,,,95 Boulevard du Maréchal Joffre,,,Ouistreham,
@@ -81,10 +81,10 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 60 Rue Gustave Canet 14750,,,,60 Rue Gustave Canet,,,Saint-Aubin-sur-Mer,
 60 Rue Gustave Canet,-0.394122,49.331963,,60 Rue Gustave Canet,,,,14750
 5 Rue du Clos de la Folie Sainte-Honorine-des-Pertes,,,,5 Rue du Clos de la Folie,,,,14520
-5 Rue du Clos de la Folie 14520,,,,5 Rue du Clos de la Folie,,,Sainte-Honorine-des-Pertes,
+5 Rue du Clos de la Folie 14520,,,,5 Rue du Clos de la Folie,,,,14520
 5 Rue du Clos de la Folie,-0.805685,49.348463,,5 Rue du Clos de la Folie,,,,14520
 97 Boulevard Churchill Saint-Pierre-sur-Dives,,,,97 Boulevard Churchill,,,,14170
-97 Boulevard Churchill 14170,,,,97 Boulevard Churchill,,,Saint-Pierre-sur-Dives,
+97 Boulevard Churchill 14170,,,,97 Boulevard Churchill,,,,14170
 97 Boulevard Churchill,-0.031209,49.012303,,97 Boulevard Churchill,,,,14170
 48 Rue Saint-Pierre Sommervieu,,,,48 Rue Saint-Pierre,,,,14400
 48 Rue Saint-Pierre 14400,,,,48 Rue Saint-Pierre,,,Sommervieu,
@@ -183,13 +183,13 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 49 Cité Beauséjour 50150,,,,49 Cité Beauséjour,,,Sourdeval,
 49 Cité Beauséjour,-0.934331,48.724459,,49 Cité Beauséjour,,,,50150
 1 Rue du Bois Tourlaville,,,,1 Rue du Bois,,,,50110
-1 Rue du Bois 50110,,,,1 Rue du Bois,,,Tourlaville,
+1 Rue du Bois 50110,,,,1 Rue du Bois,,,,50110
 1 Rue du Bois,-1.603478,49.637369,,1 Rue du Bois,,,,50110
 380 Rue au Bon Tourville-sur-Sienne,,,,380 Rue au Bon,,,,50200
 380 Rue au Bon 50200,,,,380 Rue au Bon,,,Tourville-sur-Sienne,
 380 Rue au Bon,-1.549687,49.049394,,380 Rue au Bon,,,,50200
 2 Rue de la Grande Vallée Vauville,,,,2 Rue de la Grande Vallée,,,,50440
-2 Rue de la Grande Vallée 50440,,,,2 Rue de la Grande Vallée,,,Vauville,
+2 Rue de la Grande Vallée 50440,,,,2 Rue de la Grande Vallée,,,,50440
 2 Rue de la Grande Vallée,-1.845956,49.636883,,2 Rue de la Grande Vallée,,,,50440
 8 Rue Landon Alençon,,,,8 Rue Landon,,,,61000
 8 Rue Landon 61000,,,,8 Rue Landon,,,Alençon,
@@ -204,13 +204,13 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 2 Rue des Écoles 61400,,,,2 Rue des Écoles,,,La Chapelle-Montligeon,
 2 Rue des Écoles,0.653781,48.483731,,2 Rue des Écoles,,,,61400
 3BIS Rue du Mont Margantin Domfront,,,,3BIS Rue du Mont Margantin,,,,61700
-3BIS Rue du Mont Margantin 61700,,,,3BIS Rue du Mont Margantin,,,Domfront,
+3BIS Rue du Mont Margantin 61700,,,,3BIS Rue du Mont Margantin,,,,61700
 3BIS Rue du Mont Margantin,-0.646376,48.591039,,3BIS Rue du Mont Margantin,,,,61700
 10 Rue de la Chaussée Flers,,,,10 Rue de la Chaussée,,,,61100
 10 Rue de la Chaussée 61100,,,,10 Rue de la Chaussée,,,Flers,
 10 Rue de la Chaussée,-0.570136,48.746542,,10 Rue de la Chaussée,,,,61100
 26 Rue du Carrouge Le Gué-de-la-Chaîne,,,,26 Rue du Carrouge,,,,61130
-26 Rue du Carrouge 61130,,,,26 Rue du Carrouge,,,Le Gué-de-la-Chaîne,
+26 Rue du Carrouge 61130,,,,26 Rue du Carrouge,,,,61130
 26 Rue du Carrouge,0.520481,48.378791,,26 Rue du Carrouge,,,,61130
 2 Rue des Rosiers Lonrai,,,,2 Rue des Rosiers,,,,61250
 2 Rue des Rosiers 61250,,,,2 Rue des Rosiers,,,Lonrai,

@@ -225,7 +225,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 10 Rue des Fusiliers Marins 29780,,,,10 Rue des Fusiliers Marins,,,Plouhinec,
 10 Rue des Fusiliers Marins,-4.528938,48.013286,,10 Rue des Fusiliers Marins,,,,29780
 529 Rue Saint-Pol Plounéour-Trez,,,,529 Rue Saint-Pol,,,,29890
-529 Rue Saint-Pol 29890,,,,529 Rue Saint-Pol,,,Plounéour-Trez,
+529 Rue Saint-Pol 29890,,,,529 Rue Saint-Pol,,,,29890
 529 Rue Saint-Pol,-4.318770,48.651117,,529 Rue Saint-Pol,,,,29890
 7 Allée des Cèdres Plouzané,,,,7 Allée des Cèdres,,,,29280
 7 Allée des Cèdres 29280,,,,7 Allée des Cèdres,,,Plouzané,

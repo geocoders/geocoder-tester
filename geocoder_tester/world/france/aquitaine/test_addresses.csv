@@ -6,7 +6,7 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 31 Route Pierre Pinson 24100,,,,31 Route Pierre Pinson,,,Bergerac,
 31 Route Pierre Pinson,0.454627,44.851248,,31 Route Pierre Pinson,,,,24100
 6 Place du Champ de Foire Brantôme,,,,6 Place du Champ de Foire,,,,24310
-6 Place du Champ de Foire 24310,,,,6 Place du Champ de Foire,,,Brantôme,
+6 Place du Champ de Foire 24310,,,,6 Place du Champ de Foire,,,,24310
 6 Place du Champ de Foire,0.650042,45.361569,,6 Place du Champ de Foire,,,,24310
 47 Avenue Pierre Mendès France Coulounieix-Chamiers,,,,47 Avenue Pierre Mendès France,,,,24660
 47 Avenue Pierre Mendès France 24660,,,,47 Avenue Pierre Mendès France,,,Coulounieix-Chamiers,
