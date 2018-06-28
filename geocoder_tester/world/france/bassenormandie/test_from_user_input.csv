@@ -1,0 +1,2 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+" camping saint michel35 route du mont saint michel, 50220 courtils, france",,,4,,,Rue du Mont Saint-Michel ,,50220

@@ -1,0 +1,9 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+ 1 rue jeff le penven 56300 pontivy,,,4,,,Rue Jeff Le Penven,,56300
+ 20 boulevart arago 22000 saint brieuc,,,4,,,Boulevard Arago,,22000
+ plan la roche bernard,,,4,,,,La Roche-Bernard,
+ matthieu   henry 2 hent coz 29600morlaix,,,4,,,Rue du Hent Coz,,29600
+" abvs, 20 rue d estienne d orves 29200 brest",,,4,,,Rue d'Estienne d'Orves,,29200
+ 1 rue pierre et marie curie plérin,,,4,,,Rue Pierre et Marie Curie,Plérin,
+ plan cadastral roscoff,,,4,,,,Roscoff,
+ 134 rue eugène pottier 35000 rennes,,,4,,134,Rue Eugène Pottier,Rennes,

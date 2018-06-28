@@ -1,0 +1,5 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+ google earth 3 rue henri laborit rochefort,,,4,,,Rue Henri Laborit,,17300
+ 16 lot des herces 17250 la vallee,,,4,,,,La Vallée,17250
+ radiologue rue de la burgonsse niort 79000,,,4,,,Rue de la Burgonce,Niort,
+ 103 bld andre sautel la rochelle 17000,,,4,,,Boulevard André Sautel,,17000

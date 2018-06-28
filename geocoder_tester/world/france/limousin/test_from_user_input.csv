@@ -1,0 +1,2 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+ le clos grand - 19600 nespouls,,,4,Le Claud Grand,,,Nespouls,
