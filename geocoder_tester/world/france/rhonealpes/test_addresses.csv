@@ -652,4 +652,3 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 79 cours charlemagne,,,,,,Cours Charlemagne,Lyon,
 "rue du mont d'or Saint-Didier-au-Mont-d'Or",,,,Rue du Mont d'Or,,,Saint-Didier-au-Mont-d'Or,
 "rue du mont d'or Saint cyr",,,,Rue du Mont d'Or,,,Saint-Cyr-au-Mont-d'Or,
- 280 impasse du reservoir38200 luzinay,,,4,,,Impasse du Réservoir,Luzinay,
