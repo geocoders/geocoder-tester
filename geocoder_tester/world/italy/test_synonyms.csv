@@ -1,0 +1,6 @@
+query,lon,lat,limit,lang,expected_name,expected_housenumber,expected_street,expected_city
+C.po san polo venezia,,,4,it,,,Campo San Polo,Venezia
+L.go Guglielmo Henzen Roma,,,4,it,,,Largo Guglielmo Henzen,Roma
+Via del fontile Anagnino Roma,,,4,it,,,Via del Fontanile Anagnino,Roma
+Via nazle Roma,,,4,it,,,Via Nazionale,Roma
+Via Appia nva Ariccia,,,4,it,,,Via Appia Nuova,Ariccia
