@@ -1,0 +1,4 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+19 Rue Denis Cordonnier Aniche,,,4,,,Rue Denis Cordonnier,,59580
+ 68 rue du docteur eloy59133 phalempin,,,4,,,Rue du Docteur Eloy,Phalempin,
+ 7 rue gombert lille,,,4,,7,Rue Gombert,Lille,

@@ -1,0 +1,14 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+ 9 avenue de la gare maritime arles,,,4,,,Avenue de la Gare Maritime,Arles,
+ 8 rue olivier voutier 83400,,,4,,,Rue Ollivier Voutier,,83400
+ rue du docteur jean bertholet toulon 83000,,,4,,,Rue du Docteur Jean Bertholet,Toulon,
+ 315 allee jacques cartier mandelieu,,,4,,,Allée Jacques Cartier,Mandelieu-la-Napoule,
+ 35 rue pasteur 05100 briançon,,,4,,,Rue Pasteur,Briançon,
+" travaux rocade charles de gaulle , 84000 avignon",,,4,,,Rocade Charles de Gaulle,,84000
+ 1 impasse du bouleau 13118 entressen,,,4,,,Impasse du Bouleau,,13118
+ domaine des sausse 06 st jeannet,,,4,,,Chemin des Sausses,Saint-Jeannet,
+ la chenaie 3393 avenue thiers quartier malbergue 13320 bouc bel air,,,4,,,Avenue Thiers,Bouc-Bel-Air,
+ 25 rue negresko 13008,,,4,,,Rue Negresko,Marseille,
+ 300 rue du hameau des grands la farlede 83210,,,4,,,Rue du Hameau des Grands,La Farlède,
+ plan vars,,,4,,,,Vars,5560
+8 rue alfred mortier nice,,,4,,8,Rue Alfred Mortier,Nice,

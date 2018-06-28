@@ -1,0 +1,2 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+ 9 rue de l'école bitschhoffen,,,4,,,Rue de l'École,Bitschhoffen,

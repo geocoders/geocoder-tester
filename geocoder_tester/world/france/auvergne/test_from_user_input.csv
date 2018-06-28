@@ -1,0 +1,3 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+" 7 rue desbrest, vichy (03200) karceles yves",,,4,,,Rue Desbrest,Vichy,
+ 14 rue jean mermoz 63110 beaumont,,,4,,,Rue Jean Mermoz,,63110

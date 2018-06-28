@@ -1,0 +1,4 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+ 6 chemin des vignes chepy,,,4,,,Chemin des Vignes,Chepy,
+ 2 bis rue marie curie à troyes,,,4,,,Rue Marie Curie,Troyes,
+ google map 43 rue heisenhower 51000 reims,,,4,,,Rue Eisenhower,Reims,

@@ -1,0 +1,2 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+ 36 rue prosper brindejont etretat,,,4,,,Rue Prosper Brindejont,Étretat,

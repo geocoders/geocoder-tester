@@ -1,0 +1,59 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+Porte Dauphine,,,4,Porte Dauphine,,,Paris,
+ 37 rue de rome 75382 paris,,,4,,,Rue de Rome,Paris,
+ 13 boulevard voltaire 75011 paris,,,4,,,Boulevard Voltaire,Paris,
+ 49 rue aristide briand osny,,,4,,,Rue Aristide Briand,,95520
+ 10/12 rue collange 92300 levallois,,,4,,,Rue Collange,,92300
+ 1 rue des acacias louvres,,,4,,,Rue des Acacias,,95380
+ 28 rue d'aubervilliers 75018,,,4,,,Rue d'Aubervilliers,Paris,
+ horaire mondial relay 46 rue de stalingrad 78500 sartrouville,,,4,,,Rue de Stalingrad,Sartrouville,
+ plan paris,,,4,,,,Paris,
+ 22 avenue charles de gaulle  92 le plessis robinson,,,4,,,Avenue Charles de Gaulle,Le Plessis-Robinson,
+" 6, allée simone signoret 78260 achères ici​ si vous désirez recevoir notre journal de bord",,,4,,,Allée Simone Signoret,,78260
+ 55 rue de lille paris,,,4,,,Rue de Lille,Paris,
+ benjamin fain-robert 82 rue de charenton 75012 paris,,,4,,,Rue de Charenton,Paris,
+" 60 rue marcel dassault, 92100 boulogne-billancourt.",,,4,,,Rue Marcel Dassault,,92100
+ rue charlie chaplin torcy france 77200,,,4,,,Rue Charlie Chaplin,Torcy,
+ plan arcueil rue berthollet,,,4,,,Rue Berthollet,Arcueil,
+ 62 rue de rennes paris,,,4,,,Rue de Rennes,Paris,
+ excellence car business 23 rue de la balance grigny,,,4,,23,,Grigny,
+ 10 rue de la vallée 91610 ballancourt sur essonne,,,4,,,Rue de la Vallée,,91610
+ 8 rue de reims 75013 paris,,,4,,,Rue de Reims,Paris,
+" 21 avenue de la porte de chatillon, paris",,,4,,,Avenue de la Porte de Châtillon,Paris,
+" 69, rue de varenne - 75700",,,4,,,Rue de Varenne,Paris,
+ 36 rue du président wilson levallois perret,,,4,,,Rue du Président Wilson,Levallois-Perret,
+ 16 avenue victor hugo vanve,,,4,,,Avenue Victor Hugo,Vanves,
+ 22 avenue de la république a creteil,,,4,,,Avenue de la République,Créteil,
+ 33 rue laplace arcueil,,,4,,,Rue Laplace,Arcueil,
+15 rue auguste laurent75011 paris,,,4,,,Rue Auguste Laurent,Paris,
+ 55 rue rosa bonheur la rochette,,,4,,,Rue Rosa Bonheur,La Rochette,
+ 12 rue paul eluard charenton le pont,,,4,,,Rue Paul Éluard,Charenton-le-Pont,
+" 17 rue de la banque, 75002 paris",,,4,,,Rue de la Banque,Paris,
+ 142 avenue de gallieni paris,,,4,,,Avenue Gallieni,Paris,
+ 54 place de l'ellipse 92983 paris la défense,,,4,,,Place de l'Ellipse,,92000
+ 7 rue saitn eloi aigremont,,,4,,,Allée Saint-Éloi,Aigremont,
+ 14 rue leopold bellan paris,,,4,,,Rue Léopold Bellan,Paris,
+" adresse: 2-4, impasse lamier –­ 75011 paris",,,4,,,Impasse Lamier,Paris,
+ 5 avenue arago à morangis,,,4,,,Avenue Arago,Morangis,
+ 4-16 cours des ateliers 75014 paris 14e arrdt,,,4,,,Cour des Ateliers,Paris,
+ 201  bd saint denis courbevoie,,,4,,,Boulevard Saint-Denis,Courbevoie,
+ mappy 2 rue pinette 91610,,,4,,,Rue Jeanne Pinet,,91610
+ 23 rue des ormeaux étampes,,,4,,,Rue des Ormeaux,Étampes,
+ 43 rue vouillé paris,,,4,,,Rue de Vouillé,Paris,
+ rue du closier 77720,,,4,,,Rue du Closier,,77720
+ villeroy. 6 rue chapon paris 3ème,,,4,,,Rue Chapon,Paris,
+ 6 rue du maréchal lelerc paris,,,4,,,Rue du Maréchal Leclerc,Paris,
+ 16 rue georgette agutte 75018 paris,,,4,,,Rue Georgette Agutte,Paris,
+ 33 avenue du maine paris,,,4,,,Avenue du Maine,Paris,
+ 25 rue d'astorg 75008 paris,,,4,,,Rue d'Astorg,Paris,
+ 4-16 cours des ateliers 75014 paris 14e arrdt,,,4,,,Cour des Ateliers,Paris,
+" ets a. lumbroso - magny-en-vexin 34, rue gütemberg 95420 magny-en-vexin",,,4,,,Rue Gutenberg,Magny-en-Vexin,
+ 83 rue du temple paris,,,4,,,Rue du Temple,Paris,
+ pascual 3 rue troyon paris,,,4,,3,Rue Troyon,Paris,
+" boutique au 16, rue alexandre dumas paris",,,4,,16,Rue Alexandre Dumas,Paris,
+" friche 77, rue des cités 93300 aubervilliers",,,4,,77,Rue des Cités,Aubervilliers,
+ 41 rue tournefort paris,,,4,,41,Rue Tournefort,Paris,
+" 20 rue jules saulnier, 93200 saint denis",,,4,,20,Rue Jules Saulnier,,93200
+ 13 rue de la gare domont,,,4,,13,Rue De La Gare,Domont,
+ 35 avenue de chateau thierry la ferte sous jouarre,,,4,,35,Avenue de Chateau Thierry,La Ferté-sous-Jouarre,
+ bar place du 14 juillet houilles,,,4,,,Place du 14 Juillet,Houilles,

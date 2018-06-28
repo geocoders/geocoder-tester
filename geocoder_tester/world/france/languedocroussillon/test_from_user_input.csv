@@ -1,0 +1,7 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+ plan cazouls,,,4,,,,Cazouls-d'Hérault,
+ google earth 28b rue de la garrigue nimes,,,4,,,Rue de la Garrigue,Nîmes,
+" rue du chasselas, 66330 cabestany",,,4,,,Rue du Chasselas,Cabestany,
+" 13 avenue d'alsace 30100, alès",,,4,,,Avenue d'Alsace,Alès,
+ 10 av du professeur grasset montpellier location,,,4,,10,Avenue du Professeur Grasset,Montpellier,
+" 109 place de thessalie, 34000 montpellier",,,4,,109,Place De Thessalie,Montpellier,

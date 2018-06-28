@@ -1,0 +1,4 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+ 129 rue alexandre dumas amiens,,,4,,,Rue Alexandre Dumas,Amiens,
+ 1bis rue gambetta méru,,,4,,,Rue Gambetta,Méru,
+ 3 avenue du maréchal joffre 60500 chantilly,,,4,,,Avenue du Maréchal Joffre,,60500

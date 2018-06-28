@@ -1,0 +1,7 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+" 5 boulevard vincent gache, nantes",,,4,,,Boulevard Vincent Gâche,Nantes,
+ station avia (relais colis o1177) 110 boulevard de l'egalite 44100 nantes,,,4,,,Boulevard de l'Égalité,Nantes,
+ 114 rue de la marriere nantes,,,4,,,Rue de la Marrière,Nantes,
+ 9 rue james watt 49070 beaucouze,,,4,,9,Rue James Watt,Beaucouzé,
+" 34 rue auguste blandeau, angers",,,4,,34,Rue Auguste Blandeau,Angers,
+ 95 bd carnot 72000 le mans maison  vendre,,,4,,95,Boulevard Carnot,Le Mans,

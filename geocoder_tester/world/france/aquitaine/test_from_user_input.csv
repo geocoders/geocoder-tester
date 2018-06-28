@@ -1,0 +1,9 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+ 121 rue de la pierre saint jean,,,4,,,Rue de la Pierre,Saint-Jean-d'Illac,
+ 17 av du general de gaulle ares,,,4,,,Rue du Général de Gaulle,Arès,
+ 114 avenue de ares bordeaux,,,4,,,Avenue d'Arès,Bordeaux,
+" 27 avenue maurice martin  mimizan, 40200",,,4,,,Avenue Maurice Martin,Mimizan,
+ 120 square condorcet le haillan,,,4,,,Square Condorcet,Le Haillan,
+" place henri dunant, 64150 mourenx",,,4,,,Place Henri Dunant,,64150
+ 57 rue louis blanc périgueux,,,4,,57,Rue Louis Blanc,Périgueux,
+ rue félix arnaudin 40280 saint pierre du mont,,,4,,,Rue Félix Arnaudin,Saint-Pierre-du-Mont,

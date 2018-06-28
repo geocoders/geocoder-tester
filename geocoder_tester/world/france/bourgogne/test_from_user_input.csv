@@ -1,0 +1,4 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+" 8, route de semur – rd 970 – 21320 sainte-sabine",,,4,,,Route de Semur,,21320
+ 23 rue d'york dijon,,,4,,,Rue d'York,Dijon,
+ chevigny saint sauveur 8 rue charles le téméraire,,,4,,,Rue Charles le Téméraire,Chevigny-Saint-Sauveur,

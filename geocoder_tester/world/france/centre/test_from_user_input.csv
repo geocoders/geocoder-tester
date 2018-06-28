@@ -1,0 +1,6 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+ sci 110 rue d'entraigues 37000 tours,,,4,,,Rue d'Entraigues,,37000
+" 93, avenue de la république - tours",,,4,,,Avenue de la République,Tours,
+ 16 rue clos st hilaire 41100 villiers-sur-loir,,,4,,,Rue du Clos Saint-Hilaire,,41100
+ 10 rue richelieu à tours,,,4,,,Rue Richelieu,Tours,
+" 24 place rabelais, 37000 tours",,,4,,24,Place Rabelais,,37000

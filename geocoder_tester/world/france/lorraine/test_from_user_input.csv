@@ -1,0 +1,3 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+ 4 rue saint nicolas nancy,,,4,,,Rue Saint-Nicolas,Nancy,
+ 6 rue brulee - 57100 - thionville,,,4,,6,Rue Brûlée,Thionville,

@@ -1,0 +1,25 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+ 3 rue richan à lyon,,,4,,,Rue Richan,Lyon,
+ 4 rue emile combes 38400saint martin d'heres,,,4,,,Rue Émile Combes,Saint-Martin-d'Hères,
+ 11 avenue du bel air villeurbanne,,,4,,,,Villeurbanne,
+ maps 69210,,,4,,,,,69210
+" abt prod"" abt prod - 15 place carnot - 69002 lyon",,,4,,15,Place Carnot,Lyon,
+" 7 rue desbrest, vichy (03200) karceles yves",,,4,,,Rue Desbrest,Vichy,
+ 115 avenue lacassagne lyon,,,4,,,Avenue Lacassagne,Lyon,
+ direction des déplacements serm/pes 52 rue léon gaumont  26000 valence,,,4,,,Rue Léon Gaumont,,26000
+1 rue de l église - 69480 morancé,,,4,,,Rue de l'Église,Morancé,
+351 route de la plaine 74250 fillinges,,,4,,,Route de la Plaine,,74250
+ 14 rue jean mermoz 63110 beaumont,,,4,,,Rue Jean Mermoz,,63110
+" 248 route de chambéry, gilly sur isere",,,4,,,Route de Chambéry,Gilly-sur-Isère,
+ 7 rue du lycée 26000valence,,,4,,,Rue du Lycée,Valence,
+ 280 impasse du reservoir38200 luzinay,,,4,,,Impasse du Réservoir,Luzinay,
+ 13 rue yves farge fontaine,,,4,,,Rue Yves Farge,Fontaine,
+ 35 rue de bretragne st quentin falavier,,,4,,,Rue de Bretagne,Saint-Quentin-Fallavier,
+ 4 rue joseph d'arbaud st paul trois chateaux,,,4,,,Rue Joseph d'Arbaud,Saint-Paul-Trois-Châteaux,
+ 50 rue alsace lorraine grenoble,,,4,,,Avenue Alsace Lorraine,Grenoble,
+ 814 route de plaimpalais 73230 saint-alban-leysse,,,4,,,Route de Plainpalais,Saint-Alban-Leysse,
+" comptoir des voyages, 10 quai tilsitt, 69002 lyon",,,4,,,Quai Tilsitt,Lyon,
+" 32 rue des berges, 38000 grenoble",,,4,,32,Rue Des Berges,Grenoble,
+ 7 place du petit rochefort à claix isère,,,4,,7,Place du Petit Rochefort,Claix,
+" centre médico-psychologique 12, rue de cuire 69004 lyon",,,4,,12,Rue de Cuire,Lyon,
+" commerces route de la béchigne, 74390 châtel, france",,,,,,Route de la Bechigne,,74390
