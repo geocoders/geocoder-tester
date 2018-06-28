@@ -1,0 +1,5 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+bd de la gare toulouse,,,4,,,Boulevard de la Gare,Toulouse,
+" 1 rue de dupuytrin, paris",,,4,,1,Rue Dupuytren,Paris,
+ 12 avenus honor2 serres toulouse,,,4,,12,Avenue Honoré Serres,Toulouse,
+4 allee edouard branli toulouse,,,4,,4,Allée Édouard Branly,Toulouse,

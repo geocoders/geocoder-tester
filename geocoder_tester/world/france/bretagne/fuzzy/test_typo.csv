@@ -1,0 +1,3 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+ker ponpon,,,4,,,Boulevard de Ker Pompom,,35800
+Rue de Kervézennec,,,4,,,Rue de Kervezennec,Brest,

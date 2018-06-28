@@ -1,0 +1,3 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+sareguemine,,,4,,,,Sarreguemines,57200
+bonzée chemin du haut,,,4,,,Chemin du Hot,Bonzée,
