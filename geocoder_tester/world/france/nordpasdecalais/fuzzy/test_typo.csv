@@ -1,0 +1,2 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+4 rue de la fourberie verton,,,4,,,Rue de la Tourberie,Verton,

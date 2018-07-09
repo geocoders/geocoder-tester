@@ -1,0 +1,2 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+gabrielle michèle andelys,,,4,,,Rue Gabriel Michel,Les Andelys,

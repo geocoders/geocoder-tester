@@ -434,7 +434,3 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 6059 Rue des Vautes Velleron,,,,6059 Rue des Vautes,,,,84740
 6059 Rue des Vautes 84740,,,,6059 Rue des Vautes,,,Velleron,
 6059 Rue des Vautes,5.031515,43.956557,,6059 Rue des Vautes,,,,84740
-1 impasse du bouleau 13118 entressen,,,4,,,Impasse du Bouleau,,13118
-" travaux rocade charles de gaulle , 84000 avignon",,,4,,,Rocade Charles de Gaulle,,84000
-8 rue olivier voutier 83400,,,4,,,Rue Ollivier Voutier,,83400
-rue du docteur jean bertholet toulon 83000,,,4,,,Rue du Docteur Jean Bertholet,,83000

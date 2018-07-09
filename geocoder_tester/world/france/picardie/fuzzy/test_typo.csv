@@ -1,0 +1,4 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+Amiens rue du mal de lattre de tassigny,,,4,,,Rue du Maréchal de Lattre de Tassigny,Amiens,
+2 rue du cracké pasly,,,4,,,Rue du Craquet,Pasly,
+rue duval beauvais,,,4,,,Rue du Val,Beauvais,

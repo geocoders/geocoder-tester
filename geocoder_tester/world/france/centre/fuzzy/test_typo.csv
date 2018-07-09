@@ -1,0 +1,3 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+rue ponpidou orléans,,,4,,,Rue Georges Pompidou,Orléans,
+chemin du cheval maure,,,4,,,Chemin du Cheval Mort,Oysonville,

@@ -1,0 +1,2 @@
+query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_city,expected_postcode
+ 5 place du general de gaule saint lo,,,4,,5,Place Général de Gaulle,Saint-Lô,
