@@ -3,3 +3,4 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
  333 rue garrel montauban,,,4,,,Rue Garrel,Montauban,
 " 64 bd pierre semard, 31500 toulouse",,,4,,,Boulevard Pierre Semard,,31500
  plan rue des puits-clos toulouse,,,4,,,Rue des Puits-Clos,Toulouse,
+l'hospitalet rocamadour,,,4,L'Hospitalet,,,,46500

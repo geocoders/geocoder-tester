@@ -1,0 +1,29 @@
+query;lon;lat;limit;lang;expected_name;expected_housenumber;expected_street;expected_city;expected_postcode;expected_coordinate
+Chateau des Milandes ;;;4;fr;Château des Milandes;;;Castelnaud-la-Chapelle;;44.82353643223675,1.1135738364714824,500
+hotel du pont grolejac;;;4;fr;Hôtel du Pont;;;;;44.82379,1.28784,500
+single de montfort;;;4;fr;Cingle de Montfort;;;;;44.8434079968234,1.2590670919591105,500
+cingle de montfort;;;4;fr;Cingle de Montfort;;;;;44.8434079968234,1.2590670919591105,500
+mairie de vitrac;;;4;fr;;;;Vitrac;;44.83143,1.22673,500
+manoir de tarde la roque gageac;;;4;fr;Château de Tarde;;;La Roque-Gageac;;
+auberge de ravilhon sarlat;;;4;fr;;;;Sarlat-la-Canéda;;44.89076,1.21526,500
+jardins eyrignac;;;4;fr;;;;Salignac-Eyvigues;;44.93896236355375,1.316232425973766,500
+lascaux;;;4;fr;;;;Montignac;;45.0560,1.1708,1500
+grotte lascaux;;;4;fr;;;;Montignac;;45.0560,1.1708,1500
+le déjeuner sur l'herbe saint léon;;;4;fr;Le Déjeuner sur l'Herbe;;;Saint-Léon-sur-Vézère;;
+roque st christophe;;;4;fr;La Roque Saint-Christophe;;;;;44.98909,1.06864,500
+abri du moustier;;;4;fr;Abris préhistoriques du Moustier;;;;;44.9944,1.06041,500
+chateau commarque;;;4;fr;Château de Commarque;;;;;44.94184632508205,1.1017613571852316,500
+chateau commarques eyzies;;;4;fr;Château de Commarque;;;;;44.94184632508205,1.1017613571852316,500
+abri pataud;;;4;fr;;;;Les Eyzies-de-Tayac-Sireuil;;44.937980339777944,1.012000856731106,500
+proumeyssac;;;4;fr;;;;;;44.89063708754009,0.9346531571601132,500
+gouffre de proumessac;;;4;fr;Gouffre de Proumeyssac;;;;;44.89063708754009,0.9346531571601132,500
+grotte font de gaume;;;4;fr;Grotte de Font-de-Gaume;;;;;44.936945761469254,1.026586960814626,500
+grotte fond de gaume;;;4;fr;Grotte de Font-de-Gaume;;;;;44.936945761469254,1.026586960814626,500
+four banal urval;;;4;fr;Four banal;;;Urval;;
+gare siorac en périgord;;;4;fr;;;;Siorac-en-Périgord;;44.81975,0.98452,500
+filature de belves;;;4;fr;Filature de Belvès;;;;;44.78476468182869,1.0119086456152637,500
+église d'orliac;;;4;fr;;;;Orliac;;44.71660438632061,1.0683533026312342,500
+église orliac;;;4;fr;;;;Orliac;;44.71660438632061,1.0683533026312342,500
+gouter de charlotte villefranche du périgord;;;4;fr;;;;;;44.63040,1.07654,500
+saint pompon l'envie des mets;;;4;fr;L'Envie des Mets;;;Saint-Pompont;;
+chateau de benac cazebac;;;4;fr;Château de Beynac;;;;;44.84014144343199,1.1455346789018312,500
