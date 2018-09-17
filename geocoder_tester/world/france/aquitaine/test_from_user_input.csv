@@ -7,3 +7,23 @@ query,lon,lat,limit,expected_name,expected_housenumber,expected_street,expected_
 " place henri dunant, 64150 mourenx",,,4,,,Place Henri Dunant,,64150
  57 rue louis blanc périgueux,,,4,,57,Rue Louis Blanc,Périgueux,
  rue félix arnaudin 40280 saint pierre du mont,,,4,,,Rue Félix Arnaudin,Saint-Pierre-du-Mont,
+camp marty,,,4,Camp Marty,,,,24250
+le vignal marquay,,,4,Le Vignal,,,,24620
+micoulaud besse,,,4,Micoulaud,,,,24550
+pratz du périgord péchavit,,,4,Péchavit,,,,24550
+saint pompon,,,4,Saint-Pompont,,,,24170
+Castelnau la Chapelle,,,4,Castelnaud-la-Chapelle,,,,24250
+villefranche du périgord,,,4,Villefranche-du-Périgord,,,,24550
+Domme,,,4,Domme,,,,24250
+daglan,,,4,Daglan,,,,24250
+belves,,,4,Belvès,,,,24170
+la roque gageac,,,4,La Roque-Gageac,,,,24250
+eyzie de tayac,,,4,Les Eyzies-de-Tayac-Sireuil,,,,24620
+saint amand de coly,,,4,Saint-Amand-de-Coly,,,,24290
+pratz du périgord,,,4,Prats-du-Périgord,,,,24550
+saint léon vézère,,,4,Saint-Léon-sur-Vézère,,,,24290
+Grolejac,,,4,Groléjac,,,,24250
+place des cordeliers sarla,,,4,,,Place des Cordeliers ,Sarlat-la-Canéda,
+"2, rue des armes sarlat",,,4,,2,Rue des Armes,Sarlat-la-Canéda,
+3 rue de l'oiseau qui chante belves,,,4,,,Rue de l'Oiseau qui Chante,,24170
+villefranche périgord rue du midi,,,4,,,Rue du Midi,Villefranche-du-Périgord,
