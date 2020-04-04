@@ -5,7 +5,7 @@ import yaml
 
 import pytest
 
-from geocoder_tester.base import assert_search, CONFIG
+from geocoder_tester.base import assert_search, CONFIG, API_TYPES
 
 
 def pytest_collect_file(parent, path):
@@ -36,6 +36,13 @@ def pytest_addoption(parser):
         dest="api_url",
         default=CONFIG['API_URL'],
         help="The URL to use for running tests against."
+    )
+    parser.addoption(
+        '--api-type',
+        dest="api_type",
+        default=CONFIG['API_TYPE'],
+        choices=API_TYPES.keys(),
+        help="The API to test against."
     )
     parser.addoption(
         '--max-run',
@@ -72,6 +79,7 @@ def pytest_addoption(parser):
 
 def pytest_configure(config):
     CONFIG['API_URL'] = config.getoption('--api-url')
+    CONFIG['API_TYPE'] = config.getoption('--api-type')
     CONFIG['MAX_RUN'] = config.getoption('--max-run')
     CONFIG['LOOSE_COMPARE'] = config.getoption('--loose-compare')
     CONFIG['GEOJSON'] = config.getoption('--geojson')

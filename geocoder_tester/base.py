@@ -5,6 +5,7 @@ import requests
 from geopy import Point
 from geopy.distance import distance
 from unidecode import unidecode
+from pytest import skip
 
 POTSDAM = [52.3879, 13.0582]
 BERLIN = [52.519854, 13.438596]
@@ -12,6 +13,7 @@ MUNICH = [43.731245, 7.419744]
 AUCKLAND = [-36.853467, 174.765551]
 CONFIG = {
     'API_URL': "http://localhost:5001/api/",
+    'API_TYPE': "default",
     'LOOSE_COMPARE': False,
     'MAX_RUN': 0,  # means no limit
     'GEOJSON': False,
@@ -19,6 +21,73 @@ CONFIG = {
 }
 
 http = requests.Session()
+
+class GenericApi:
+    """ Access proxy for generic geocodejson APIs. The API URL must be
+        the search endpoint.
+
+        This class is here mainly for backward compatibility. You should
+        normally choose the specific API type you connect with.
+    """
+    def search_params(self, query, limit, lang, center):
+        params = {"q": query, "limit": limit}
+        if lang:
+            params['lang'] = lang
+        if center:
+            params['lat'] = center[0]
+            params['lon'] = center[1]
+
+        return params
+
+    def search_url(self):
+        return CONFIG['API_URL']
+
+
+class NominatimApi:
+    """ Access proxy for Nominatim APIs. The API URL must be the base
+        URL without /search or /reverse path.
+
+        Requires a Nominatim version which supports geocodejson.
+    """
+    def search_params(self, query, limit, lang, center):
+        params = {"format" : "geocodejson", "q" : query,
+                  "limit" : limit,
+                  "addressdetails" : "1"
+                 }
+        if lang:
+            params["accept-language"] = lang
+        # Nominatim has a bbox parameter which we could use here. However
+        # it is unclear how wide the bbox should extend.
+        if center:
+            skip(msg="API has no lat/lon search parameters")
+
+        return params
+
+    def search_url(self):
+        return CONFIG['API_URL'] + '/search'
+
+
+class PhotonApi:
+    """ Access proxy for Photon APIs. The API URL must be the base URL without
+        the /api or /reverse path.
+    """
+    def search_params(self, query, limit, lang, center):
+        params = {"q": query, "limit": limit}
+        if lang:
+            params['lang'] = lang
+        if center:
+            params['lat'] = center[0]
+            params['lon'] = center[1]
+
+        return params
+
+    def search_url(self):
+        return CONFIG['API_URL'] + '/api'
+
+
+API_TYPES = {'generic' : GenericApi,
+             'nominatim' : NominatimApi,
+             'photon' : PhotonApi }
 
 
 class HttpSearchException(Exception):
@@ -112,9 +181,9 @@ class SearchException(Exception):
             out['distance'] = int(dist.meters)
         return out
 
-
-def search(**params):
-    r = http.get(CONFIG['API_URL'], params=params)
+def search(url, **params):
+    r = http.get(url, params=params,
+                 headers={'user-agent': 'geocode-tester/0.0.1'})
     if not r.status_code == 200:
         raise HttpSearchException(error="Non 200 response")
     return r.json()
@@ -133,13 +202,10 @@ def compare_values(get, expected):
 
 def assert_search(query, expected, limit=1,
                   comment=None, lang=None, center=None):
-    params = {"q": query, "limit": limit}
-    if lang:
-        params['lang'] = lang
-    if center:
-        params['lat'] = center[0]
-        params['lon'] = center[1]
-    results = search(**params)
+    api = API_TYPES[CONFIG['API_TYPE']]()
+    params = api.search_params(query, limit, lang, center)
+
+    results = search(api.search_url(), **params)
 
     def assert_expected(expected):
         found = False
