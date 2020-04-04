@@ -14,9 +14,9 @@ def pytest_collect_file(parent, path):
     f = None
     ext = path.ext
     if ext == ".csv":
-        f = CSVFile(path, parent)
+        f = CSVFile.from_parent(parent, fspath=path)
     if ext == ".yml":
-        f = YamlFile(path, parent)
+        f = YamlFile.from_parent(parent, fspath=path)
     return f
 
 
@@ -129,7 +129,7 @@ class CSVFile(pytest.File):
             f.seek(0)
             reader = csv.DictReader(f, dialect=dialect)
             for row in reader:
-                yield CSVItem(row, self)
+                yield CSVItem.from_parent(self, row=row)
 
 
 class YamlFile(pytest.File):
@@ -137,7 +137,7 @@ class YamlFile(pytest.File):
     def collect(self):
         raw = yaml.safe_load(self.fspath.open(encoding="utf-8"))
         for name, spec in raw.items():
-            yield YamlItem(name, self, spec)
+            yield YamlItem.from_parent(self, name=name, spec=spec)
 
 
 class BaseFlatItem(pytest.Item):
