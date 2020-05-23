@@ -26,15 +26,26 @@ class GenericApi:
     """ Access proxy for generic geocodejson APIs. The API URL must be
         the search endpoint.
 
-        This class is here mainly for backward compatibility. You should
+        This class provides the basic access functions. You should
         normally choose the specific API type you connect with.
     """
-    def search_params(self, query, limit, lang, center):
-        params = {"q": query, "limit": limit}
-        if lang:
-            params['lang'] = lang
-        if center:
-            params['lat'], params['lon'] = center
+
+    def search(self, **params):
+        r = http.get(self.search_url(), params=self.search_params(**params),
+                 headers={'user-agent': 'geocode-tester'})
+        if not r.status_code == 200:
+            raise HttpSearchException(error="Non 200 response")
+        return r.json()
+
+
+    def search_params(self, query, **kwargs):
+        params = {"q": query}
+        if kwargs.get('limit'):
+            params['limit'] = kwargs['limit']
+        if kwargs.get('lang'):
+            params['lang'] = kwargs['lang']
+        if kwargs.get('center'):
+            params['lat'], params['lon'] = kwargs['center']
 
         return params
 
@@ -48,16 +59,16 @@ class NominatimApi(GenericApi):
 
         Requires a Nominatim version which supports geocodejson.
     """
-    def search_params(self, query, limit, lang, center):
-        params = {"format" : "geocodejson", "q" : query,
-                  "limit" : limit,
-                  "addressdetails" : "1"
-                 }
-        if lang:
-            params["accept-language"] = lang
+    def search_params(self, query, **kwargs):
+        params = {"format" : "geocodejson", "q" : query, "addressdetails" : "1"}
+        if kwargs.get('limit'):
+            params['limit'] = kwargs['limit']
+        if kwargs.get('lang'):
+            params['accept-language'] = kwargs['lang']
         # Nominatim has a bbox parameter which we could use here. However
-        # it is unclear how wide the bbox should extend.
-        if center:
+        # it is unclear how wide the bbox should extend. So skip tests
+        # with a center point for now.
+        if kwargs.get('center'):
             skip(msg="API has no lat/lon search parameters")
 
         return params
@@ -93,10 +104,10 @@ class HttpSearchException(Exception):
 class SearchException(Exception):
     """ custom exception for error reporting. """
 
-    def __init__(self, params, expected, results, message=None):
+    def __init__(self, query, params, expected, results, message=None):
         super().__init__()
         self.results = results
-        self.query = params.pop('q')
+        self.query = query
         self.params = params
         self.expected = expected
         self.message = message
@@ -171,13 +182,8 @@ class SearchException(Exception):
             out['distance'] = int(dist.meters)
         return out
 
-def search(url, **params):
-    r = http.get(url, params=params,
-                 headers={'user-agent': 'geocode-tester'})
-    if not r.status_code == 200:
-        raise HttpSearchException(error="Non 200 response")
-    return r.json()
-
+def search(**params):
+    return API_TYPES[CONFIG['API_TYPE']]().search(**params)
 
 def normalize(s):
     return normalize_pattern.sub(' ', unidecode(s.lower()))
@@ -190,12 +196,8 @@ def compare_values(get, expected):
     return get == expected
 
 
-def assert_search(query, expected, limit=1,
-                  comment=None, lang=None, center=None):
-    api = API_TYPES[CONFIG['API_TYPE']]()
-    params = api.search_params(query, limit, lang, center)
-
-    results = search(api.search_url(), **params)
+def assert_search(query, expected, limit=1, **params):
+    results = search(query=query, limit=limit, **params)
 
     def assert_expected(expected):
         found = False
@@ -227,8 +229,10 @@ def assert_search(query, expected, limit=1,
             if passed:
                 found = True
         if not found:
+            api = API_TYPES[CONFIG['API_TYPE']]()
             raise SearchException(
-                params=params,
+                query=query,
+                params=api.search_params(query=query, limit=limit, **params),
                 expected=expected,
                 results=results
             )
