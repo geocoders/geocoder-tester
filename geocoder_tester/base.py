@@ -43,7 +43,7 @@ class GenericApi:
         return CONFIG['API_URL']
 
 
-class NominatimApi:
+class NominatimApi(GenericApi):
     """ Access proxy for Nominatim APIs. The API URL must be the base
         URL without /search or /reverse path.
 
@@ -67,19 +67,10 @@ class NominatimApi:
         return CONFIG['API_URL'] + '/search'
 
 
-class PhotonApi:
+class PhotonApi(GenericApi):
     """ Access proxy for Photon APIs. The API URL must be the base URL without
         the /api or /reverse path.
     """
-    def search_params(self, query, limit, lang, center):
-        params = {"q": query, "limit": limit}
-        if lang:
-            params['lang'] = lang
-        if center:
-            params['lat'] = center[0]
-            params['lon'] = center[1]
-
-        return params
 
     def search_url(self):
         return CONFIG['API_URL'] + '/api'
