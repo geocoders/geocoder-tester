@@ -173,7 +173,7 @@ class SearchException(Exception):
 
 def search(url, **params):
     r = http.get(url, params=params,
-                 headers={'user-agent': 'geocode-tester/0.0.1'})
+                 headers={'user-agent': 'geocode-tester'})
     if not r.status_code == 200:
         raise HttpSearchException(error="Non 200 response")
     return r.json()
