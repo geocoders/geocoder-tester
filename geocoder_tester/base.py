@@ -34,8 +34,7 @@ class GenericApi:
         if lang:
             params['lang'] = lang
         if center:
-            params['lat'] = center[0]
-            params['lon'] = center[1]
+            params['lat'], params['lon'] = center
 
         return params
 
