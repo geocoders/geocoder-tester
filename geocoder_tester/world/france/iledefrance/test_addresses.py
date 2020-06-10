@@ -2,7 +2,7 @@ from geocoder_tester.base import search, assert_search
 
 
 def test_housenumbers_are_missing():
-    results = search(q='rue bergère paris')
+    results = search(query='rue bergère paris')
     for r in results['features']:
         assert (not r['properties'].get('housenumber')
                 or r['properties'].get('name'))
