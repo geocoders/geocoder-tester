@@ -31,12 +31,8 @@ class GenericApi:
     """
 
     def search(self, **params):
-        r = http.get(self.search_url(), params=self.search_params(**params),
-                 headers={'user-agent': 'geocode-tester'})
-        if not r.status_code == 200:
-            raise HttpSearchException(error="Non 200 response")
-        return r.json()
-
+        return self._send_query(self.search_url(),
+                                params=self.search_params(**params))
 
     def search_params(self, query, **kwargs):
         params = {"q": query}
@@ -52,6 +48,23 @@ class GenericApi:
     def search_url(self):
         return CONFIG['API_URL']
 
+    def reverse(self, **params):
+        return self._send_query(self.reverse_url(),
+                                params=self.reverse_params(**params))
+
+    def reverse_params(self, center, **kwargs):
+        skip(msg="Reverse not supported by the Generic API implementation")
+
+    def reverse_url(self):
+        return CONFIG['API_URL']
+
+    def _send_query(self, url, params):
+        r = http.get(url, params=params,
+                     headers={'user-agent': 'geocode-tester'})
+        if not r.status_code == 200:
+            raise HttpSearchException(error="Non 200 response")
+        return r.json()
+
 
 class NominatimApi(GenericApi):
     """ Access proxy for Nominatim APIs. The API URL must be the base
@@ -59,12 +72,14 @@ class NominatimApi(GenericApi):
 
         Requires a Nominatim version which supports geocodejson.
     """
+    # map details parameter to a zoom level in Nominatim
+    zoom = { 'country' : '3', 'state' : '5', 'county' : '8',
+             'city' : '10', 'district' : '14', 'street' : '17',
+             'house' : '18'}
+
     def search_params(self, query, **kwargs):
-        params = {"format" : "geocodejson", "q" : query, "addressdetails" : "1"}
-        if kwargs.get('limit'):
-            params['limit'] = kwargs['limit']
-        if kwargs.get('lang'):
-            params['accept-language'] = kwargs['lang']
+        params = self._common_params(**kwargs)
+        params["q"] = query
         # Nominatim has a bbox parameter which we could use here. However
         # it is unclear how wide the bbox should extend. So skip tests
         # with a center point for now.
@@ -76,6 +91,23 @@ class NominatimApi(GenericApi):
     def search_url(self):
         return CONFIG['API_URL'] + '/search'
 
+    def reverse_params(self, center, **kwargs):
+        params = self._common_params(**kwargs)
+        params["lat"], params["lon"] = center
+        params['zoom'] = self.zoom.get(kwargs.get('detail'),'18')
+        return params
+
+    def reverse_url(self):
+        return CONFIG['API_URL'] + '/reverse'
+
+    def _common_params(self, **kwargs):
+        params = {"format" : "geocodejson", "addressdetails" : "1"}
+        if kwargs.get('limit'):
+            params['limit'] = kwargs['limit']
+        if kwargs.get('lang'):
+            params['accept-language'] = kwargs['lang']
+        return params
+
 
 class PhotonApi(GenericApi):
     """ Access proxy for Photon APIs. The API URL must be the base URL without
@@ -84,6 +116,22 @@ class PhotonApi(GenericApi):
 
     def search_url(self):
         return CONFIG['API_URL'] + '/api'
+
+    def reverse_url(self):
+        return CONFIG['API_URL'] + '/reverse'
+
+    def reverse_params(self, center, **kwargs):
+        params = {}
+        params['lat'], params['lon'] = center
+        if kwargs.get('lang'):
+            params['lang'] = lang
+        if 'detail' in kwargs:
+            if kwargs['detail'] == 'street':
+                params['query_string_filter'] = 'osm_key:highway'
+            elif kwargs['detail'] and kwargs['detail'] != 'house':
+                skip("Reverse geocoding detail level '{}' not supported."
+                        .format(kwargs['detail']))
+        return params
 
 
 API_TYPES = {'generic' : GenericApi,
@@ -185,6 +233,9 @@ class SearchException(Exception):
 def search(**params):
     return API_TYPES[CONFIG['API_TYPE']]().search(**params)
 
+def reverse(**params):
+    return API_TYPES[CONFIG['API_TYPE']]().reverse(**params)
+
 def normalize(s):
     return normalize_pattern.sub(' ', unidecode(s.lower()))
 normalize_pattern = re.compile('[^\w]')
@@ -198,7 +249,18 @@ def compare_values(get, expected):
 
 def assert_search(query, expected, limit=1, **params):
     results = search(query=query, limit=limit, **params)
+    api = API_TYPES[CONFIG['API_TYPE']]()
+    check_results(results, expected, query,
+                  api.search_params(query=query, limit=limit, **params))
 
+def assert_reverse(center, expected, limit=1, **params):
+    results = reverse(center=center, limit=limit, **params)
+    api = API_TYPES[CONFIG['API_TYPE']]()
+    check_results(results, expected, '{0}/{1}'.format(*center),
+                  api.reverse_params(center=center, limit=limit, **params))
+
+
+def check_results(results, expected, query, api_params):
     def assert_expected(expected):
         found = False
         for r in results['features']:
@@ -229,10 +291,9 @@ def assert_search(query, expected, limit=1, **params):
             if passed:
                 found = True
         if not found:
-            api = API_TYPES[CONFIG['API_TYPE']]()
             raise SearchException(
                 query=query,
-                params=api.search_params(query=query, limit=limit, **params),
+                params=api_params,
                 expected=expected,
                 results=results
             )
