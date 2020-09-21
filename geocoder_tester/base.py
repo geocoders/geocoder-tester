@@ -89,7 +89,7 @@ class NominatimApi(GenericApi):
         return params
 
     def search_url(self):
-        return CONFIG['API_URL'] + '/search'
+        return CONFIG['API_URL'] + '/search.php'
 
     def reverse_params(self, center, **kwargs):
         params = self._common_params(**kwargs)
@@ -98,7 +98,7 @@ class NominatimApi(GenericApi):
         return params
 
     def reverse_url(self):
-        return CONFIG['API_URL'] + '/reverse'
+        return CONFIG['API_URL'] + '/reverse.php'
 
     def _common_params(self, **kwargs):
         params = {"format" : "geocodejson", "addressdetails" : "1"}
