@@ -5,7 +5,7 @@ import yaml
 
 import pytest
 
-from geocoder_tester.base import assert_search, CONFIG, API_TYPES
+from geocoder_tester.base import assert_search, assert_reverse, CONFIG, API_TYPES
 
 
 def pytest_collect_file(parent, path):
@@ -158,6 +158,7 @@ class BaseFlatItem(pytest.Item):
         self.limit = kwargs.get('limit')
         self.comment = kwargs.get('comment')
         self.skip = kwargs.get('skip')
+        self.detail = kwargs.get('detail')
         self.mark = kwargs.get('mark', [])
         for mark in self.mark:
             self.add_marker(mark)
@@ -175,7 +176,15 @@ class BaseFlatItem(pytest.Item):
             kwargs['center'] = [self.lat, self.lon]
         if self.limit:
             kwargs['limit'] = self.limit
-        assert_search(**kwargs)
+        if self.detail:
+            kwargs['detail'] = self.detail
+
+        if self.query:
+            assert_search(**kwargs)
+        elif 'center' in kwargs:
+            assert_reverse(**kwargs)
+        else:
+            pytest.skip(msg="Need at least parameters 'query' or 'lat/lon'.")
 
     def repr_failure(self, excinfo):
         """ called when self.runtest() raises an exception. """
