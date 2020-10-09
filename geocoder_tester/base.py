@@ -89,7 +89,7 @@ class NominatimApi(GenericApi):
         return params
 
     def search_url(self):
-        return CONFIG['API_URL'] + '/search'
+        return CONFIG['API_URL'] + '/search.php'
 
     def reverse_params(self, center, **kwargs):
         params = self._common_params(**kwargs)
@@ -98,7 +98,7 @@ class NominatimApi(GenericApi):
         return params
 
     def reverse_url(self):
-        return CONFIG['API_URL'] + '/reverse'
+        return CONFIG['API_URL'] + '/reverse.php'
 
     def _common_params(self, **kwargs):
         params = {"format" : "geocodejson", "addressdetails" : "1"}
@@ -181,6 +181,9 @@ class SearchException(Exception):
             'name', 'osm_key', 'osm_value', 'osm_id', 'housenumber', 'street',
             'postcode', 'city', 'country', 'lat', 'lon', 'distance'
         ]
+        for k in self.expected:
+            if k not in keys:
+                keys.append(k)
         results = [self.flat_result(f) for f in self.results['features']]
         lines.extend(dicts_to_table(results, keys=keys))
         lines.append('')
@@ -256,7 +259,7 @@ def assert_search(query, expected, limit=1, **params):
 def assert_reverse(center, expected, limit=1, **params):
     results = reverse(center=center, limit=limit, **params)
     api = API_TYPES[CONFIG['API_TYPE']]()
-    check_results(results, expected, '{0}/{1}'.format(*center),
+    check_results(results, expected, '{0},{1}'.format(*center),
                   api.reverse_params(center=center, limit=limit, **params))
 
 
