@@ -1,0 +1,101 @@
+comment;query;lon;lat;expected_coordinate;expected_name;expected_country;lang
+street;In der Ebene;8.86487934;48.5964194;48.5065659, 8.9455469, 800;;Deutschland;de
+street;Wasserbaumweg;8.86487934;48.5964194;48.6634601, 8.8325198, 800;;Deutschland;de
+street;Tailfinger Straße;8.86487934;48.5964194;48.5504842, 8.8357702, 800;;Deutschland;de
+house;Sindlinger Hof;8.86487934;48.5964194;48.5713229, 8.810577550000003, 800;;Deutschland;de
+street;Hohlweg;8.86487934;48.5964194;48.5751156, 8.9497058, 800;;Deutschland;de
+house;Gewächshaus;8.86487934;48.5964194;48.5716319, 8.856454368993994, 800;;Deutschland;de
+house;Stockenwald;8.86487934;48.5964194;48.6908379, 8.8616852, 800;;Deutschland;de
+street;Mittlerer Weg;8.86487934;48.5964194;48.5484355, 8.9636757, 800;;Deutschland;de
+house;Sonnenzentrum - Hartmann Energietechnik GmbH;8.86487934;48.5964194;48.5237147, 8.9206068, 800;;Deutschland;de
+house;Gasthof Mammel;8.86487934;48.5964194;48.69784725, 8.939567397908895, 800;;Deutschland;de
+street;Horber Straße;8.86487934;48.5964194;48.5874488, 8.8647968, 800;;Deutschland;de
+house;Würmhalde;8.86487934;48.5964194;48.6997787, 8.8997684, 800;;Deutschland;de
+house;Das Sühnekreuz;8.86487934;48.5964194;48.5066985, 8.9592469, 800;;Deutschland;de
+house;Hummelbergweg;8.86487934;48.5964194;48.6753291, 8.8422212, 800;;Deutschland;de
+street;Dreispitzallee;8.86487934;48.5964194;48.663761, 8.8907935, 800;;Deutschland;de
+house;Wasserhäuschen;8.86487934;48.5964194;48.62133645, 8.823316881606765, 800;;Deutschland;de
+street;Eichenstraße;8.86487934;48.5964194;48.5661422, 8.8473453, 800;;Deutschland;de
+house;Softwarezentrum Böblingen/Sindelfingen;8.86487934;48.5964194;48.681021799999996, 8.973981841901603, 800;;Deutschland;de
+house;Augenzentrum Eckert: Herrenberg Augenarzt;8.86487934;48.5964194;48.5926625, 8.8609589, 800;;Deutschland;de
+street;Herdweg;8.86487934;48.5964194;48.5557482, 8.8090037, 800;;Deutschland;de
+house;Pfäffingen;8.86487934;48.5964194;48.5322275, 8.9645553, 800;;Deutschland;de
+street;Glockenrainweg;8.86487934;48.5964194;48.5880366, 8.9437032, 800;;Deutschland;de
+street;Calwer Straße;8.86487934;48.5964194;48.6803613, 8.855251, 800;;Deutschland;de
+street;Raichbergstraße;8.86487934;48.5964194;48.5035023, 8.8734468, 800;;Deutschland;de
+house;Auto Bebion;8.86487934;48.5964194;48.600218299999995, 8.86533786246662, 800;;Deutschland;de
+street;Talsträßchen;8.86487934;48.5964194;48.5909415, 8.7952088, 800;;Deutschland;de
+locality;SAUTTER & STEPPER GmbH;8.86487934;48.5964194;48.557106950000005, 8.91708752099845, 800;;Deutschland;de
+street;Traubenstraße;8.86487934;48.5964194;48.5780921, 8.9170195, 800;;Deutschland;de
+street;Feldzaunweg;8.86487934;48.5964194;48.5493019, 8.8715136, 800;;Deutschland;de
+street;Lembergstraße;8.86487934;48.5964194;48.5780994, 8.8346985, 800;;Deutschland;de
+house;Fischer-Hütte;8.86487934;48.5964194;48.5885656, 8.9350448, 800;;Deutschland;de
+house;Kirchweg;8.86487934;48.5964194;48.6861592, 8.8985261, 800;;Deutschland;de
+street;Haldenweg;8.86487934;48.5964194;48.6856431, 8.8949292, 800;;Deutschland;de
+street;Holunderstraße;8.86487934;48.5964194;48.5762988, 8.8737027, 800;;Deutschland;de
+street;Kayher Talsträßle;8.86487934;48.5964194;48.5898575, 8.9297378, 800;;Deutschland;de
+street;Pirolstraße;8.86487934;48.5964194;48.5050943, 8.9330402, 800;;Deutschland;de
+house;Boltzplatz mit Toren;8.86487934;48.5964194;48.681403450000005, 8.872873396004316, 800;;Deutschland;de
+locality;Öfele;8.86487934;48.5964194;48.5788466, 8.8012738, 800;;Deutschland;de
+street;Albert-Schweitzer-Straße;8.86487934;48.5964194;48.697504, 8.9644106, 800;;Deutschland;de
+house;Härenslochweg Süd;8.86487934;48.5964194;48.5670693, 8.9712244, 800;;Deutschland;de
+street;Wurmlinger Straße;8.86487934;48.5964194;48.5212693, 8.9643967, 800;;Deutschland;de
+street;Deckenpfronner Weg;8.86487934;48.5964194;48.6225136, 8.7802223, 800;;Deutschland;de
+street;Deufringer Weg;8.86487934;48.5964194;48.6646418, 8.8969747, 800;;Deutschland;de
+house;Adlerspielplatz;8.86487934;48.5964194;48.5046502, 8.935209727967397, 800;;Deutschland;de
+house;Forstknechtstein;8.86487934;48.5964194;48.6061451, 8.7978969, 800;;Deutschland;de
+locality;Wengerthof;8.86487934;48.5964194;48.5584814, 8.866047641571384, 800;;Deutschland;de
+house;Altinger Jägerlinde;8.86487934;48.5964194;48.5595892, 8.9337739, 800;;Deutschland;de
+street;Talrainweg;8.86487934;48.5964194;48.5887788, 8.9371461, 800;;Deutschland;de
+street;Gültsteiner Straße;8.86487934;48.5964194;48.5595814, 8.8799246, 800;;Deutschland;de
+house;Asch;8.86487934;48.5964194;48.56496625, 8.908561495824225, 800;;Deutschland;de
+street;Feldweg 614;8.86487934;48.5964194;48.5266298, 8.9018597, 800;;Deutschland;de
+street;Altenhausgasse;8.86487934;48.5964194;48.6260007, 8.8379801, 800;;Deutschland;de
+street;Herdweg;8.86487934;48.5964194;48.5557482, 8.8090037, 800;;Deutschland;de
+street;Talstraße;8.86487934;48.5964194;48.6816756, 8.9073539, 800;;Deutschland;de
+street;Grünplattweg;8.86487934;48.5964194;48.6818833, 8.7900811, 800;;Deutschland;de
+house;Mischwald;8.86487934;48.5964194;48.5926866, 8.8218804, 800;;Deutschland;de
+street;Bollstraße;8.86487934;48.5964194;48.525057, 8.9154253, 800;;Deutschland;de
+street;Neckarstraße;8.86487934;48.5964194;48.6175517, 8.8401364, 800;;Deutschland;de
+house;ASV Pfäffingen;8.86487934;48.5964194;48.5282138, 8.9609323, 800;;Deutschland;de
+street;Bahndammtunnel;8.86487934;48.5964194;48.5775477, 8.8565849, 800;;Deutschland;de
+house;Peter-Schanz-Stein;8.86487934;48.5964194;48.5938332, 8.9151425, 800;;Deutschland;de
+street;Döffinger Straße;8.86487934;48.5964194;48.6991397, 8.9486507, 800;;Deutschland;de
+street;Wilhelm-Busch-Straße;8.86487934;48.5964194;48.6918385, 8.9560005, 800;;Deutschland;de
+house;Aussiedlerhöfe;8.86487934;48.5964194;48.5910044, 8.8292002, 800;;Deutschland;de
+street;Ehninger Weg;8.86487934;48.5964194;48.685708, 8.9455264, 800;;Deutschland;de
+street;Mühlstraße;8.86487934;48.5964194;48.6022952, 8.8604627, 800;;Deutschland;de
+street;Öfelepass;8.86487934;48.5964194;48.5770421, 8.8077616, 800;;Deutschland;de
+street;Am Stich;8.86487934;48.5964194;48.5641866, 8.840916, 800;;Deutschland;de
+street;Unterer Katermannshaldeweg;8.86487934;48.5964194;48.5848632, 8.971072, 800;;Deutschland;de
+street;Bussteig C;8.86487934;48.5964194;48.5944062, 8.864552, 800;;Deutschland;de
+locality;Brenner Hof;8.86487934;48.5964194;48.60562315, 8.832245933335313, 800;;Deutschland;de
+house;Streuobst macht Arbeit;8.86487934;48.5964194;48.5838545, 8.9053579, 800;;Deutschland;de
+street;Peter Schanz Weg;8.86487934;48.5964194;48.5885961, 8.9171949, 800;;Deutschland;de
+street;Stuttgarter Straße;8.86487934;48.5964194;48.555509, 8.8335483, 800;;Deutschland;de
+house;Nubenhäusle;8.86487934;48.5964194;48.570057399999996, 8.967834650000004, 800;;Deutschland;de
+locality;Besemer;8.86487934;48.5964194;48.6929699, 8.842071, 800;;Deutschland;de
+street;Wielandstraße;8.86487934;48.5964194;48.561578, 8.782557, 800;;Deutschland;de
+street;Saatschulweg;8.86487934;48.5964194;48.687868, 8.8501383, 800;;Deutschland;de
+house;Oberndorfer Linde;8.86487934;48.5964194;48.5214317, 8.9256204, 800;;Deutschland;de
+house;Vera's Backstüble;8.86487934;48.5964194;48.6931748, 8.96123, 800;;Deutschland;de
+street;Jauenweg;8.86487934;48.5964194;48.5287241, 8.9271445, 800;;Deutschland;de
+house;Gas-Druckregelanlage Altingen;8.86487934;48.5964194;48.55866695, 8.92459108097015, 800;;Deutschland;de
+house;Insektenhotel;8.86487934;48.5964194;48.6860675, 8.9259532, 800;;Deutschland;de
+house;Kochhartgraben und Ammertalhänge;8.86487934;48.5964194;48.54049555, 8.904950544036954, 800;;Deutschland;de
+street;Bodenseeautobahn;8.86487934;48.5964194;48.5463236, 8.8893049, 800;;Deutschland;de
+street;Alzentalstraße;8.86487934;48.5964194;48.5917148, 8.8669559, 800;;Deutschland;de
+street;Feldweg 614;8.86487934;48.5964194;48.5266298, 8.9018597, 800;;Deutschland;de
+street;Elbenstraße;8.86487934;48.5964194;48.6215998, 8.8346018, 800;;Deutschland;de
+street;Brandplattenweg;8.86487934;48.5964194;48.5836145, 8.9743254, 800;;Deutschland;de
+street;Hinterhagstraße;8.86487934;48.5964194;48.6773938, 8.8948598, 800;;Deutschland;de
+street;Drosselweg;8.86487934;48.5964194;48.56295, 8.7910703, 800;;Deutschland;de
+street;Sontheimer Straße;8.86487934;48.5964194;48.5111916, 8.8736518, 800;;Deutschland;de
+street;Tannenweg;8.86487934;48.5964194;48.6225803, 8.8051221, 800;;Deutschland;de
+street;Roseckstraße;8.86487934;48.5964194;48.5078853, 8.8866144, 800;;Deutschland;de
+house;Schloß Sindlingen;8.86487934;48.5964194;48.5693577, 8.810145043523757, 800;;Deutschland;de
+street;Bodenseeautobahn;8.86487934;48.5964194;48.5937907, 8.8967988, 800;;Deutschland;de
+house;Kaiser;8.86487934;48.5964194;48.51989445, 8.967526305071354, 800;;Deutschland;de
+street;Im Eichenpfädle;8.86487934;48.5964194;48.6963361, 8.9571495, 800;;Deutschland;de
+street;Heubergring;8.86487934;48.5964194;48.5702334, 8.785224, 800;;Deutschland;de
+street;Hohleweg;8.86487934;48.5964194;48.5966637, 8.7974958, 800;;Deutschland;de
