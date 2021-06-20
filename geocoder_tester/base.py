@@ -31,8 +31,9 @@ class GenericApi:
     """
 
     def search(self, **params):
-        return self._send_query(self.search_url(),
-                                params=self.search_params(**params))
+        return self._transform_search_results(
+            self._send_query(self.search_url(),
+                             params=self.search_params(**params)))
 
     def search_params(self, query, **kwargs):
         params = {"q": query}
@@ -49,8 +50,9 @@ class GenericApi:
         return CONFIG['API_URL']
 
     def reverse(self, **params):
-        return self._send_query(self.reverse_url(),
-                                params=self.reverse_params(**params))
+        return self._transform_search_results(
+            self._send_query(self.reverse_url(),
+                             params=self.reverse_params(**params)))
 
     def reverse_params(self, center, **kwargs):
         skip(msg="Reverse not supported by the Generic API implementation")
@@ -108,6 +110,8 @@ class NominatimApi(GenericApi):
             params['accept-language'] = kwargs['lang']
         return params
 
+    def _transform_search_results(self, results):
+        return results
 
 class PhotonApi(GenericApi):
     """ Access proxy for Photon APIs. The API URL must be the base URL without
@@ -133,11 +137,55 @@ class PhotonApi(GenericApi):
                         .format(kwargs['detail']))
         return params
 
+class PeliasApi(GenericApi):
+    """ Access proxy for Pelias APIs. The API URL must be the v1 base URL without
+        the /search or /reverse path.
+    """
+
+    def search_params(self, query, **kwargs):
+        params = self._common_params(**kwargs)
+        params['text'] = query
+        if kwargs.get('center'):
+            params['focus.point.lat'], params['focus.point.lon'] = kwargs['center']
+
+        return params
+
+    def search_url(self):
+        return CONFIG['API_URL'] + '/search'
+
+    def reverse_url(self):
+        return CONFIG['API_URL'] + '/reverse'
+
+    def reverse_params(self, center, **kwargs):
+        params = self._common_params(**kwargs)
+        params['point.lat'], params['point.lon'] = center
+        if 'detail' in kwargs:
+            if kwargs['detail'] == 'street' or kwargs['detail'] == 'house':
+                params['layers'] = 'address'
+            elif kwargs['detail']:
+                skip("Reverse geocoding detail level '{}' not supported."
+                        .format(kwargs['detail']))
+        return params
+
+    def _common_params(self, **kwargs):
+        params = {}
+        if kwargs.get('limit'):
+            params['size'] = kwargs['limit']
+        if kwargs.get('lang'):
+            params['lang'] = kwargs['lang']
+        return params
+
+    def _transform_search_results(self, results):
+        for result in results['features']:
+            properties = result.get('properties')
+            if properties and 'postalcode' in properties:
+                properties['postcode'] = properties['postalcode']
+        return results
 
 API_TYPES = {'generic' : GenericApi,
              'nominatim' : NominatimApi,
-             'photon' : PhotonApi }
-
+             'photon' : PhotonApi,
+             'pelias' : PeliasApi }
 
 class HttpSearchException(Exception):
 
