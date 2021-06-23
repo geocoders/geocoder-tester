@@ -142,6 +142,16 @@ class PeliasApi(GenericApi):
         the /search or /reverse path.
     """
 
+    DETAILS_LAYER_MAPPING = {
+        'country': 'country',
+        'state': 'region',
+        'county': 'county',
+        'city': 'locality',
+        'district': 'neighbourhood',
+        'street': 'street',
+        'house': 'address'
+    }
+
     def search_params(self, query, **kwargs):
         params = self._common_params(**kwargs)
         params['text'] = query
@@ -160,8 +170,8 @@ class PeliasApi(GenericApi):
         params = self._common_params(**kwargs)
         params['point.lat'], params['point.lon'] = center
         if 'detail' in kwargs:
-            if kwargs['detail'] == 'street' or kwargs['detail'] == 'house':
-                params['layers'] = 'address'
+            if kwargs['detail'] in self.DETAILS_LAYER_MAPPING:
+                params['layers'] = self.DETAILS_LAYER_MAPPING[kwargs['detail']]
             elif kwargs['detail']:
                 skip("Reverse geocoding detail level '{}' not supported."
                         .format(kwargs['detail']))
