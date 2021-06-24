@@ -40,6 +40,13 @@ Can I change the api URL I'm testing against?
 
     py.test --api-url http://photon.komoot.de/api/
 
+If you want to test not only against another photon instance, but against a nominatim or pelias service, supply the optional --api-type parameter and specify either `photon`, `nominatim` or `pelias`. 
+
+    py.test --api-url https://nominatim.openstreetmap.org/ --api-type nominatim
+
+
+Note that support for pelias is still rudimentary.
+   
 Can I limit the number of tests to be run (even if my filter select thousands
 of tests) ?
 
