@@ -67,6 +67,8 @@ class GenericApi:
             raise HttpSearchException(error="Non 200 response")
         return r.json()
 
+    def _transform_search_results(self, results):
+        return results
 
 class NominatimApi(GenericApi):
     """ Access proxy for Nominatim APIs. The API URL must be the base
@@ -109,9 +111,6 @@ class NominatimApi(GenericApi):
         if kwargs.get('lang'):
             params['accept-language'] = kwargs['lang']
         return params
-
-    def _transform_search_results(self, results):
-        return results
 
 class PhotonApi(GenericApi):
     """ Access proxy for Photon APIs. The API URL must be the base URL without
