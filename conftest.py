@@ -133,7 +133,7 @@ class CSVFile(pytest.File):
 
     def collect(self):
         with self.fspath.open(encoding="utf-8") as f:
-            dialect = csv.Sniffer().sniff(f.read(1024))
+            dialect = csv.Sniffer().sniff(f.read(2000))
             f.seek(0)
             reader = csv.DictReader(f, dialect=dialect)
             for row in reader:
