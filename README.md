@@ -118,3 +118,12 @@ has the subkeys you want to test against (`name`, `housenumber`…).
 Optional keys: `limit`, `lang`, `lat` and `lon`, `skip`.
 You can add categories to your test by using the key `mark` (which expects a
 list), that you can then run with `-m yourmarker`.
+
+## License
+
+Geocoder-tester is available under a MIT license. See LICENSE.txt for more
+information.
+
+As a special exception, the test cases under `geocoder_tester/world/` are
+considered to be in the public domain. You may use them without any
+restrictions.
