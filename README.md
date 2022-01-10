@@ -124,6 +124,14 @@ list), that you can then run with `-m yourmarker`.
 Geocoder-tester is available under a MIT license. See LICENSE.txt for more
 information.
 
-As a special exception, the test cases under `geocoder_tester/world/` are
-considered to be in the public domain. You may use them without any
-restrictions.
+Some of the test cases under `geocoder_tester/world/` are derived from data
+with other licenses:
+
+ * [OpenFlights](https://github.com/jpatokal/openflights) airport data
+   available under [ODbL](https://opendatacommons.org/licenses/odbl/1.0/)
+ * [Wikidata](https://wikidata.org)
+   available under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Please refer to the license files in the appropriate subdirectories. When
+no separate license file is present, the tests are considered to be in the
+public domain. You may use them without any restrictions.
