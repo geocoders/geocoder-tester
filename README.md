@@ -52,6 +52,10 @@ of tests) ?
 
     py.test --max-run 100
 
+Can I have a geojson to compare failures ?
+
+    py.test --geojson
+
 You can compare two runs (for example to compare two branches). First, save the
 report from the first run:
 
