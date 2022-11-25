@@ -24,7 +24,7 @@ def pytest_collect_file(parent, path):
 def pytest_itemcollected(item):
     dirs = item.session.fspath.bestrelpath(item.fspath.dirpath()).split(os.sep)
     for d in dirs:
-        if d != ".":
+        if d not in (".", "geocoder_tester", "world"):
             item.add_marker(d)
             if item.nodeid in CONFIG.get('COMPARE_WITH', []):
                 item.add_marker(

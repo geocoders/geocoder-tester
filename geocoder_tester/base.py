@@ -298,7 +298,7 @@ def reverse(**params):
 
 def normalize(s):
     return normalize_pattern.sub(' ', unidecode(s.lower()))
-normalize_pattern = re.compile('[^\w]')
+normalize_pattern = re.compile(r'[^\w]')
 
 
 def compare_values(get, expected):
