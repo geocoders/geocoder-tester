@@ -13,7 +13,7 @@ MUNICH = [43.731245, 7.419744]
 AUCKLAND = [-36.853467, 174.765551]
 CONFIG = {
     'API_URL': "http://localhost:5001/api/",
-    'API_TYPE': "default",
+    'API_TYPE': "generic",
     'LOOSE_COMPARE': False,
     'MAX_RUN': 0,  # means no limit
     'GEOJSON': False,
