@@ -46,15 +46,24 @@ If you want to test not only against another photon instance, but against a nomi
 
 
 Note that support for pelias is still rudimentary.
-   
+
 Can I limit the number of tests to be run (even if my filter select thousands
 of tests) ?
 
     py.test --max-run 100
 
+Or, to limit the number of failures:
+
+    py.test --maxfail 10
+
 Can I have a geojson to compare failures ?
 
     py.test --geojson
+
+Sometimes, the data used by the search engine is not perfect, so to run the
+checks without comparing diacritics and such:
+
+    py.test --loose-compare
 
 You can compare two runs (for example to compare two branches). First, save the
 report from the first run:
