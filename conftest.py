@@ -2,6 +2,7 @@ import csv
 import os
 import sys
 import yaml
+from pathlib import Path
 
 import pytest
 
@@ -14,9 +15,9 @@ def pytest_collect_file(parent, path):
     f = None
     ext = path.ext
     if ext == ".csv":
-        f = CSVFile.from_parent(parent, fspath=path)
+        f = CSVFile.from_parent(parent, path=Path(path))
     if ext == ".yml":
-        f = YamlFile.from_parent(parent, fspath=path)
+        f = YamlFile.from_parent(parent, path=Path(path))
     return f
 
 
@@ -132,7 +133,7 @@ def pytest_runtest_logreport(report):
 class CSVFile(pytest.File):
 
     def collect(self):
-        with self.fspath.open(encoding="utf-8") as f:
+        with self.path.open(encoding="utf-8") as f:
             dialect = csv.Sniffer().sniff(f.read(2000))
             f.seek(0)
             reader = csv.DictReader(f, dialect=dialect)
@@ -143,7 +144,7 @@ class CSVFile(pytest.File):
 class YamlFile(pytest.File):
 
     def collect(self):
-        raw = yaml.safe_load(self.fspath.open(encoding="utf-8"))
+        raw = yaml.safe_load(self.path.open(encoding="utf-8"))
         for name, spec in raw.items():
             yield YamlItem.from_parent(self, name=name, spec=spec)
 
