@@ -55,7 +55,7 @@ class GenericApi:
                              params=self.reverse_params(**params)))
 
     def reverse_params(self, center, **kwargs):
-        skip(msg="Reverse not supported by the Generic API implementation")
+        skip("Reverse not supported by the Generic API implementation")
 
     def reverse_url(self):
         return CONFIG['API_URL']
@@ -88,7 +88,7 @@ class NominatimApi(GenericApi):
         # it is unclear how wide the bbox should extend. So skip tests
         # with a center point for now.
         if kwargs.get('center'):
-            skip(msg="API has no lat/lon search parameters")
+            skip("API has no lat/lon search parameters")
 
         return params
 
