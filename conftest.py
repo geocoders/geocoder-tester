@@ -9,16 +9,14 @@ import pytest
 from geocoder_tester.base import assert_search, assert_reverse, CONFIG, API_TYPES
 
 
-def pytest_collect_file(parent, path):
-    if not path.basename.startswith("test"):
+def pytest_collect_file(file_path, parent):
+    if not file_path.stem.startswith("test"):
         return None
-    f = None
-    ext = path.ext
+    ext = file_path.suffix
     if ext == ".csv":
-        f = CSVFile.from_parent(parent, path=Path(path))
+        return CSVFile.from_parent(parent, path=file_path)
     if ext == ".yml":
-        f = YamlFile.from_parent(parent, path=Path(path))
-    return f
+        return YamlFile.from_parent(parent, path=file_path)
 
 
 def pytest_itemcollected(item):
@@ -216,6 +214,6 @@ class CSVItem(BaseFlatItem):
 
 class YamlItem(BaseFlatItem):
     def __init__(self, name, parent, spec):
-        super(YamlItem, self).__init__(name, parent, **spec)
+        super().__init__(name, parent, **spec)
         self.query = spec.pop('query', name)
         self.expected = spec['expected']
