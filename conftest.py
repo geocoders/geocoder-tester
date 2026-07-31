@@ -164,7 +164,7 @@ class BaseFlatItem(pytest.Item):
 
     def runtest(self):
         if self.skip is not None:
-            pytest.skip(msg=self.skip)
+            pytest.skip(self.skip)
         kwargs = {
             'query': self.query,
             'expected': self.expected,
@@ -183,7 +183,7 @@ class BaseFlatItem(pytest.Item):
         elif 'center' in kwargs:
             assert_reverse(**kwargs)
         else:
-            pytest.skip(msg="Need at least parameters 'query' or 'lat/lon'.")
+            pytest.skip("Need at least parameters 'query' or 'lat/lon'.")
 
     def repr_failure(self, excinfo):
         """ called when self.runtest() raises an exception. """

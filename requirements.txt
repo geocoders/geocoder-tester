@@ -1,5 +1,5 @@
-geopy==2.4.1
-pytest==9.0.3
-requests==2.33.1
+geopy==2.5.0
+pytest==9.1.1
+requests==2.34.2
 PyYAML==6.0.3
 Unidecode==1.4.0
